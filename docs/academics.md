@@ -1,27 +1,27 @@
 ---
-title: Academics
-sidebar_label: Academics
+title: Libros Académicos
+sidebar_label: Libros Académicos
 ---
 
-- [All IT eBooks](http://www.allitebooks.com/) - A big database of free, direct links for IT and programming ebooks.
-- [forcoder](https://forcoder.su/) - Ebooks & Elearning for Programming.
-- [it-ebooks](http://it-ebooks.info) - Large selection of free and open source IT ebooks.
-- [PDF/Ebook trackers for college textbooks](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites and IRC communities.
-- [Z-Libary](https://b-ok.cc/) - A lot textbooks which hosts books directly.
-- [epdf](https://epdf.pub/) - Write a book, elevate your profile, build a business - Upload ideas and beginner tips to get you started.
-- [PDF/Ebook trackers for college textbooks](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities.
-- [forcoder](https://forcoder.su/) - Ebooks & Elearning For Programming.
-- [Academic Torrents](http://academictorrents.com/) - A Community-Maintained Distributed Repository for researchers, by researchers.
-- [BookSC](http://booksc.org/) - The world's largest scientific articles store. 50,000,000+ articles for free.
-- [GRE Prep](https://www.chegg.com/test-prep/gre) - Material for school, college and graduate students. Paid and free trial.
-- [Sci-Hub](https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) - and provides public access to tens of millions of research papers.
-- [LibGen](https://libgen.is/) - Search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere.
-- [DocDownloader.com](https://docdownloader.com/) - Scribd, Issuu, Slideshare & Academia downloader.
-- [Slader](https://www.slader.com/) - Find textbooks with answers.
-- [Guide for Finding Textbooks](https://www.removeddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Extensive tutorial by /u/Amosqu.
-- [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_).
-- [How to "rent" your textbooks for free from Amazon](https://www.removeddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!".
-- [voteforbrooke](http://voteforbrooke.com) - (`insecure`) - Various eBooks including sci-fi and academic papers and books.
-- [scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - Tools to download documents from scribd.
-- [dlscrib](https://dlscrib.com/) - Search and download from scribd.
-- [dezoomify-rs](https://lovasoa.github.io/dezoomify-rs/) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and more.
+
+- [All IT eBooks](http://www.allitebooks.com/) - Una gran base de datos de enlaces directos y gratuitos para libros electrónicos de TI y programación.
+- [forcoder](https://forcoder.su/) - Libros electrónicos y aprendizaje electrónico para programación.
+- [it-ebooks](http://it-ebooks.info) - Amplia selección de libros electrónicos de TI gratuitos y de código abierto.
+- [Rastreadores de PDF / Ebook para libros de texto universitarios](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Lista antigua pero todavía útil de rastreadores de libros electrónicos / libros de texto, DDL sitios y comunidades de IRC.
+- [Z-Libary](https://b-ok.cc/) - Muchos libros de texto que alojan libros directamente.
+- [epdf](https://epdf.pub/) - Escriba un libro, mejore su perfil, cree un negocio - Cargue ideas y consejos para principiantes para comenzar.
+- [forcoder](https://forcoder.su/) - Libros electrónicos y aprendizaje electrónico para programación.
+- [Academic Torrents](http://academictorrents.com/) - Un repositorio distribuido mantenido por la comunidad para investigadores, por investigadores.
+- [BookSC](http://booksc.org/) - La tienda de artículos científicos más grande del mundo. 50.000.000+ artículos gratis.
+- [GRE Prep](https://www.chegg.com/test-prep/gre) - Material para estudiantes de la escuela, la universidad y los graduados. Prueba gratuita y de pago.
+- [Sci-Hub](https://sci-hub.ee/) - [Sci-hub, por cierto, carga artículos automáticamente en libgen](https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) - y proporciona acceso público a decenas de millones de trabajos de investigación.
+- [LibGen](https://libgen.is/) - Motor de búsqueda de artículos y libros sobre diversos temas, que permite el acceso gratuito a contenido que, de otro modo, sería de pago o no digitalizado en otro lugar.
+- [DocDownloader.com](https://docdownloader.com/) - Descargador de Scribd, Issuu, Slideshare & Academia.
+- [Slader](https://www.slader.com/) - Encuentra libros de texto con respuestas.
+- [Guía para encontrar libros de texto](https://www.removeddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Tutorial extenso de / u / Amosqu.
+- [Cómo buscar y descargar libros electrónicos y de texto](https://opentrackers.org/downloading-ebooks-textbooks/) - Una guía para ayudar a las personas a encontrar libros electrónicos y libros de texto (_actualizada el 10 de septiembre de 2017_).
+- [Cómo "alquilar" tus libros de texto de forma gratuita en Amazon](https://www.removeddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - "¿Vas a la universidad? ¡Muestra que tienes que 'alquilar' tus libros de texto gratis y de por vida! ".
+- [voteforbrooke](http://voteforbrooke.com) - (`inseguro`) - Varios libros electrónicos, incluidos artículos y libros de ciencia ficción y académicos.
+- [scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - Herramientas para descargar documentos de scribd.
+- [dlscrib](https://dlscrib.com/) - Busque y descargue desde scribd.
+- [dezoomify-rs](https://lovasoa.github.io/dezoomify-rs/) - Descargador de imágenes con zoom para Google Arts & Culture, Zoomify, IIIF y más.
