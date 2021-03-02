@@ -1,13 +1,13 @@
-# Contribution Guidelines
+# Pautas de contribución
 
-Ensure your pull request adheres to the following guidelines:
+Asegúrese de que su pull request cumpla con las siguientes pautas:
 
-- Include a description of the link you're adding if possible.
-- If you're adding a new header, ensure you give it a unique name.
-- Do NOT add direct links to copyright protected material.
-- Dead links or websites containing malware or excessive ads are unacceptable.
-- Links to websites with [explicit content](https://help.github.com/en/github/site-policy/github-terms-of-service) are not accepted.
+- Incluya una descripción del enlace que está agregando si es posible.
+- Si está agregando un nuevo encabezado, asegúrese de darle un nombre único.
+- NO agregue enlaces directos a material protegido por derechos de autor.
+- Los enlaces inactivos o los sitios web que contienen malware o anuncios excesivos son inaceptables.
+- No se aceptan enlaces a sitios web con [contenido explícito](https://help.github.com/en/github/site-policy/github-terms-of-service).
 
-## Updating your PR
+## Actualizando su PR
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the I notice anything that I'd like changed, I'll ask you to edit your PR before I merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that I can merge it.
+Muchas veces, hacer que una PR se adhiera a los estándares anteriores puede ser difícil. Si noto algo que me gustaría cambiar, le pediré que edite su PR antes de fusionarla. No es necesario abrir una nueva PR, sólo edite la existente. Si no está seguro/a de cómo hacerlo, [aquí hay una guía](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) sobre las diferentes formas en las que puede actualizar su PR para que pueda fusionarse.
