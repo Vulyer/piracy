@@ -19,10 +19,13 @@ Sitios espejo:
 
 ## Preguntas frecuentes
 > ¿Por qué se creó esto?
+
 Por motivos educativos... :wink:
 > Pero ya existe [awesome-piracy](https://github.com/Igglybuff/awesome-piracy).
+
 Últimamente ha estado muy inactivo. Podemos pensar en esto como una versión web de Awesome Piracy. 
 > ¿Es una lista sesgada?
+
 Un poco. No sé todo sobre la piratería y puedo resistirme un poco a agregar nuevos enlaces. 
 
 ## Contribuir
@@ -34,6 +37,6 @@ Toda la información en este sitio web es puramente para fines informativos y no
 Si usted es un propietario de derechos de autor o un agente de los mismos, y cree que se puede acceder a su trabajo a través de este proyecto de una manera que constituye una infracción de derechos de autor, puede [crear un issue de GitHub](https://github.com/maximousblk/piracy/issues/new) para notificarme.
 
 ## Licencia
-[! [Licencia](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](LICENCIA)
+[Licencia](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](LICENCIA)
 En la medida de lo posible según la ley, [Maximous Black](https://maximousblk.now.sh/) ha renunciado a todos los derechos de autor y derechos relacionados o conexos a este proyecto.
 
