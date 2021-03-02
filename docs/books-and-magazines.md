@@ -1,108 +1,101 @@
 ---
-title: Books and Magazines
-sidebar_label: eBooks
+título: Libros y revistas
+sidebar_label: libros electrónicos
 ---
 
-- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
-- [Calibre DRM Removal Plugins 2019 — Remove eBook DRM with Calibre](https://medium.com/@angeldan1989/calibre-drm-removal-plugins-2019-remove-ebook-drm-with-calibre-4ec9c07cae80) - DeDRM removal guide for Calibre.
-- [The idiot proof guide to downloading ebooks off IRC](https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur.
-- [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
-- [Ubooquity](http://vaemendis.net/ubooquity/) - Ubooquity is a free home server for your comics and ebooks library.
-- [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.).
-- [b-ok](http://b-ok.xyz/) - Free ebook library.
-- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks but were afraid to ask.
-- [Calibre](https://calibre-ebook.com/) - Management tool for ebook.
-- [Calibre-Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
-- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
-- [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) - Blog post detailing how to use Shodan to find Calibre ebook servers.
-- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks.
-- [ReadAnyBook](https://readanybook.com/) - Free online reading.
-- [PDF Giant](http://pdf-giant.com/) - Various categories of downloadable PDFs.
-- [MagazineLib](https://magazinelib.com/) - Free PDF and interactive e-magazines.
-- [Ebook 3000](http://ebook3000.com/) - Various magazines.
-- [FlipHTML5](http://fliphtml5.com/explore) - International magazines.
-- [MagazineLib](https://magazinelib.com/) - Free PDF and interactive e-magazines.
-- [magazinesdownload.org](https://magazinesdownload.org/) - Magazines hosted on free, fast, file hosting sites.
-- [PDF Giant](http://pdf-giant.com/) - Various categories of downloadable PDFs.
-- [ABook](http://abook.ws/) - One of the oldest book search indexers.
-- [BinSearch](http://binsearch.info/) - Binary Usenet search engine which can be used for eBooks and other stuff.
-- [EBook Bike](https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
-- [EBookEE](https://ebookee.org/) - Tech, Database, Java and many many other categories.
-- [FreeBookSpot](http://www.freebookspot.es/) - Similar to eBookEE.
-- [GingaDaddy](http://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
-- [oznzb](https://www.oznzb.com) - Yet another ebook search engine.
-- [PDFDrive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
-- [Via Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
-- [r/DHExchange](https://reddit.com/r/DHExchange/) - PDF/eBooks trading.
-- [Amazon Free Kindle Books](https://www.amazon.com/b/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&node=2245146011&tag=freeblog022-20&linkId=BNRPUFVEMRQP2NRR) - Top free books for download.
-- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
-- [Authorama](https://www.authorama.com/) - This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
-- [AvaxHome](https://avxhm.se/) - Movies, eBooks & more.
-  - [Mirror](https://avxhome.in/ebooks)
-- [Baen](http://www.baen.com/catalog/category/view/s/free-library/) - You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
-- [Bartleby](http://www.bartleby.com/ebook/) - While Bartleby charges for some titles, it has a free ebook store here.
-- [Bibliomania](http://www.bibliomania.com/) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
-- [BitSpyder](https://www.bitspyder.net/) - E-Learning, tutorials & trainings.
-- [BookBoon](http://bookboon.com/) - World’s largest publisher of online educational literature.
-- [BookSC](https://booksc.xyz/) - (blocked in some countries) - Z-Library is one of the largest online libraries in the world that contains over 4,800,000 books and 75,300,000 articles.
-- [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
-- [BookYards](http://www.bookyards.com/) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
-- [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
-- [Calibre Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
-- [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.).
-- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
-- [DailyLit](http://www.dailylit.com/) - Get free downloads sent to your email by RSS feed.
-- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - A GitHub repository of all the scripts and other tools for removing DRM from ebooks.
-- [ebookee.org](https://ebookee.org/) - PDF & eBooks trading, various categories.
-- [eBookLobby](http://www.ebooklobby.com/) - You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
-- [eLearning](https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
-- [FeedBooks](http://www.feedbooks.com/publicdomain) - Provides millions of books.
-- [FicSave](http://ficsave.xyz/) - An Open-Source Online Fanfiction Downloader.
-- [Free eBooks](http://www.free-ebooks.net/) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
-- [freebookspot.es](http://www.freebookspot.es/) - Various eBook's for free.
-- [FreeComputerBooks](http://freecomputerbooks.com/) - eBook categories such as Computer, Lecture Notes, Mathematics, Tutorials, Programming, and Technical books.
-- [FreeTechBooks](http://www.freetechbooks.com/) - Download free computer science, engineering and programming books, textbooks and lecture notes.
-- [GetFreeEBooks](http://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
-- [Globusz](http://www.globusz.com/) - There are no limits on the number of free books you can download on this online publishing site.
-- [Guide to Copy Kindle Content to PDF via Calibre](https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
-- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have over 60,000 free titles in stock.
-- [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
-- [iBiblio](http://www.ibiblio.org/) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
-- [Internet Archive](https://archive.org/details/texts) - Over 15 mio free books & texts.
-- [Issuu](https://issuu.com/) - Allows users to upload and distribute their publications worldwide.
-- [KnowFree](http://knowfree.tradepub.com/) - Access free research, white papers, reports, case studies, magazines, and eBooks.
-- [LeanPub](https://leanpub.com/) - eBooks on programming languages such as JavaScript, C#, PHP or Ruby and guidebooks.
-- [LibGen](http://gen.lib.rus.ec/) - The website has now an app which lets you search their database and download the books via their desktop app.
-  - [Mirror 1](http://gen.lib.rus.ec/)
-  - [Mirror 2](https://libgen.pw/)
-  - [mirror 3](http://libgen.is/)
-- [LibriVox](https://librivox.org/) - Yet another pplatform that offers a free download of audiobooks all over the world.
-- [ManyBooks](http://manybooks.net/) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
-- [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - Over 2 million torrents.
-- [NZBIndex](https://nzbindex.com/search/?q=Lynda.+Com&age=&max=25&minage=&sort=agedesc&minsize=&maxsize=&dq=&poster=&hidespam=0&hidespam=1&more=0) - Example search for "Lynda .com". - you get the idea.
-- [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/) - Offers mobile app development, programming, computer science, web design, software engineering, information technology, networking, and databases.
-- [Open Culture](http://www.openculture.com/free_ebooks) - Offers over 800 free eBooks to your Kindle, iPad/iPhone, computer, smartphone and eReader.
-- [Open Library](https://play.google.com/store/books/collection/topselling_free) - Gooel's free eBook storage.
-- [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) - Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
-- [ReadAnyBook](https://readanybook.com/) - Free online eBook reading.
-- [Read Print Library](http://www.readprint.com/) - Provides free novels and poems.
-- [Starry.com](http://www.starry.com/free-online-novels/index.htm) - These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
-- [TehParadox](http://www.tehparadox.co/) - Apps, eBooks, Games & more.
-- [TheGeeks](https://thegeeks.click/) - Ebook tutorials mostly Udemy, but not limted to it.
-- [Twirpx](https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
-- [BookTracker](https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC.
-- [Z-Lib.org](https://z-lib.org/) - Programmig and educational eBooks.
-- [dlfeb](http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
-- [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - A open source google books downloader with proxy support.
+- [Guía para copiar contenido de Kindle a PDF usando Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
+- [Complementos de eliminación de DRM de Calibre 2019 - Eliminar DRM de libros electrónicos con Calibre](https://medium.com/@angeldan1989/calibre-drm-removal-plugins-2019-remove-ebook-drm-with-calibre-4ec9c07cae80) - DeDRM guía de eliminación de DRM con Calibre.
+- [La guía a prueba de idiotas para descargar libros electrónicos de IRC](https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Publicado por /u/Servaplur.
+- [BookStack](https://www.bookstackapp.com/) - BookStack es una plataforma sencilla, autohospedada y fácil de usar para organizar y almacenar información.
+- [Ubooquity](http://vaemendis.net/ubooquity/) - Ubooquity es un servidor doméstico gratuito para tu biblioteca de cómics y libros electrónicos.
+- [COPS](https://github.com/seblucas/cops) - Calibre OPDS (y HTML) - PHP Server: alternativa ligera basada en web al servidor de contenido Calibre/Calibre2OPDS para servir libros electrónicos (epub, mobi, pdf, etc. .).
+- [b-ok](http://b-ok.xyz/) - Biblioteca de libros electrónicos gratuita.
+- [Blog del aprendiz Alf](https://apprenticealf.wordpress.com/) - Todo lo que siempre quiso saber sobre DRM y libros electrónicos pero tuvo miedo de preguntar.
+- [Calibre](https://calibre-ebook.com/) - Herramienta de gestión para ebooks.
+- [Calibre-Web](https://github.com/janeczku/calibre-web) - Aplicación web para navegar, leer y descargar libros electrónicos almacenados en una base de datos de Calibre.
+- [Motor de búsqueda personalizado](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - Motor de búsqueda personalizado de Google específicamente para libros electrónicos.
+- [Explorando más de 1.800 servidores de libros electrónicos de Calibre](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) - Publicación de blog que detalla cómo usar Shodan para encontrar servidores de libros electrónicos Calibre.
+- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - Herramientas DeDRM para libros electrónicos.
+- [ReadAnyBook](https://readanybook.com/) - Lectura en línea gratuita.
+- [PDF Giant](http://pdf-giant.com/) - Varias categorías de archivos PDF descargables.
+- [MagazineLib](https://magazinelib.com/) - PDF gratuitos y revistas electrónicas interactivas.
+- [Ebook 3000](http://ebook3000.com/) - Varias revistas.
+- [FlipHTML5](http://fliphtml5.com/explore) - Revistas internacionales.
+- [magazinesdownload.org](https://magazinesdownload.org/) - Revistas alojadas en sitios de alojamiento de archivos rápidos y gratuitos.
+- [ABook](http://abook.ws/) - Uno de los indexadores de búsqueda de libros más antiguos.
+- [BinSearch](http://binsearch.info/) - Motor de búsqueda binario de Usenet que se puede utilizar para libros electrónicos y otras cosas.
+- [EBook Bike](https://ebook.bike/) - Otro indexador de búsqueda que afirma ser el "más grande" de Internet.
+- [EBookEE](https://ebookee.org/) - Tecnología, Base de datos, Java y muchas otras categorías.
+- [FreeBookSpot](http://www.freebookspot.es/) - Similar a eBookEE.
+- [GingaDaddy](http://www.gingadaddy.com) - Un grupo de noticias de Usenet para libros electrónicos. (necesita iniciar sesión)
+- [oznzb](https://www.oznzb.com) - Otro motor de búsqueda de libros electrónicos.
+- [PDFDrive](https://www.pdfdrive.com/) - PDF Drive es su motor de búsqueda de archivos PDF.
+- [A través de la búsqueda de Google](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Configuración predeterminada de sitios web indexados para buscar cómics.
+- [r/DHExchange](https://reddit.com/r/DHExchange/) - Comercio de PDF / eBooks.
+- [Libros Kindle gratuitos de Amazon](https://www.amazon.com/b/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&node=2245146011&tag=freeblog022-20&linkId=BNRPUFVEMRQP2NRR) - Los mejores libros gratuitos para descargar.
+- [Authorama](https://www.authorama.com/) - Este sitio de libros de dominio público tiene una amplia variedad de libros electrónicos gratuitos, de Lewis Carroll, Emerson, Kafka y más.
+- [AvaxHome](https://avxhm.se/) - Películas, libros electrónicos y más.
+  - [Espejo](https://avxhome.in/ebooks)
+- [Baen](http://www.baen.com/catalog/category/view/s/free-library/) - Puede descargar libros electrónicos en HTML, RTF y para Palm, Microsoft Reader, Psion y Window CE.
+- [Bartleby](http://www.bartleby.com/ebook/) - Si bien Bartleby cobra por algunos títulos, tiene una tienda de libros electrónicos gratuita aquí.
+- [Bibliomania](http://www.bibliomania.com/) - Encontrarás más de 2.000 textos clásicos de bibliomania, además de guías de estudio, material de referencia y más.
+- [BitSpyder](https://www.bitspyder.net/) - E-Learning, tutoriales y capacitaciones.
+- [BookBoon](http://bookboon.com/) - La editorial más grande del mundo de literatura educativa en línea.
+- [BookSC](https://booksc.xyz/) - (bloqueado en algunos países) - Z-Library es una de las bibliotecas en línea más grandes del mundo que contiene más de 4.800.000 libros y 75.300.000 artículos.
+- [BookStack](https://www.bookstackapp.com/) - BookStack es una plataforma sencilla, autohospedada y fácil de usar para organizar y almacenar información.
+- [BookYards](http://www.bookyards.com/) - Esta "biblioteca para el mundo" en línea tiene más de 17.000 libros electrónicos, además de enlaces a otras bibliotecas digitales.
+- [Boundless](https://www.boundless.com/) - Libros de texto y materiales de estudio en línea asequibles.
+- [Calibre Web](https://github.com/janeczku/calibre-web) - Aplicación web para navegar, leer y descargar libros electrónicos almacenados en una base de datos de Calibre.
+- [COPS](https://github.com/seblucas/cops) - Calibre OPDS (y HTML) - PHP Server: alternativa ligera basada en web al servidor de contenido Calibre / Calibre2OPDS para servir libros electrónicos (epub, mobi, pdf, etc. .).
+- [DailyLit](http://www.dailylit.com/) - Obtenga descargas gratuitas enviadas a su correo electrónico por medio de RSS.
+- [eBookLobby](http://www.ebooklobby.com/) - Aquí encontrará libros perdidos de autoayuda, pasatiempos y de referencia, además de ficción para niños y más.
+- [eLearning](https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks y otros cursos de libros electrónicos gratuitos.
+- [FeedBooks](http://www.feedbooks.com/publicdomain) - Proporciona millones de libros de dominio público.
+- [FicSave](http://ficsave.xyz/) - Un descargador de fanfiction en línea de código abierto.
+- [Libros electrónicos gratuitos](http://www.free-ebooks.net/) - Además de buscar temas como biografía, ficción de fans, juegos, historia o tutoriales, también puede enviar su propio libro electrónico.
+- [freebookspot.es](http://www.freebookspot.es/) - Varios libros electrónicos gratuitos.
+- [FreeComputerBooks](http://freecomputerbooks.com/) - Libros electrónicos de cosas como Computación, Notas de clase, Matemáticas, Tutoriales, Programación y Libros técnicos.
+- [FreeTechBooks](http://www.freetechbooks.com/) - Descargue libros de ciencias de la computación, ingeniería y programación, libros de texto y apuntes de conferencias gratuitos.
+- [GetFreeEBooks](http://www.getfreeebooks.com/) - Este sitio web tiene libros electrónicos gratuitos en categorías que van desde escritura hasta medio ambiente, ficción y negocios, además de características y reseñas.
+- [Globusz](http://www.globusz.com/) - No hay límites en la cantidad de libros gratuitos que puede descargar en este sitio de publicación en línea.
+- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - Proyecto Gutenberg fue el primero en ofrecer libros electrónicos gratuitos y, en la actualidad, tiene más de 60.000 títulos gratuitos en stock.
+- [¿Cómo puedo eliminar DRM de mis libros electrónicos?](Https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks ) - Las herramientas DeDRM proporcionan una gran cantidad de preguntas frecuentes y scripts o herramientas para eliminar DRM en libros electrónicos.
+- [iBiblio](http://www.ibiblio.org/) - Encuentre archivos, libros electrónicos, tutoriales, libros de idiomas y más en iBiblio.
+- [Archivo de Internet](https://archive.org/details/texts) - Más de 15 millones de libros y textos gratuitos.
+- [Issuu](https://issuu.com/): permite a los usuarios cargar y distribuir sus publicaciones en todo el mundo.
+- [KnowFree](http://knowfree.tradepub.com/) - Acceda a investigaciones, documentos técnicos, informes, estudios de casos, revistas y libros electrónicos gratuitos.
+- [LeanPub](https://leanpub.com/) - eBooks sobre lenguajes de programación como JavaScript, C #, PHP o Ruby y guías.
+- [LibGen](http://gen.lib.rus.ec/) - El sitio web ahora tiene una aplicación que le permite buscar en su base de datos y descargar los libros a través de su aplicación de escritorio.
+  - [Espejo 1](http://gen.lib.rus.ec/)
+  - [Espejo 2](https://libgen.rs/)
+  - [espejo 3](http://libgen.lc/)
+- [LibriVox](https://librivox.org/) - Otra plataforma más que ofrece una descarga gratuita de audiolibros en todo el mundo.
+- [ManyBooks](http://manybooks.net/) - Puede realizar una búsqueda avanzada, escribir un título o autor, buscar categorías o seleccionar libros por idioma, desde el finlandés al búlgaro, al catalán y al sueco.
+- [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - Más de 2 millones de torrents. Requiere registro.
+- [NZBIndex](https://nzbindex.com/search/?q=Lynda.+Com&age=&max=25&minage=&sort=agedesc&minsize=&maxsize=&dq=&poster=&hidespam=0&hidespam=1&more=0) - Ejemplo de búsqueda para " Lynda .com ". - entiendes la idea.
+- [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/) - Ofrece libros acerca de desarrollo de aplicaciones móviles, programación, informática, diseño web, ingeniería de software, tecnología de la información, redes y bases de datos.
+- [Cultura abierta](http://www.openculture.com/free_ebooks) - Ofrece más de 800 libros electrónicos gratuitos para su Kindle, iPad / iPhone, computadora, teléfono inteligente y eReader.
+- [Biblioteca abierta](https://play.google.com/store/books/collection/topselling_free) - Almacenamiento gratuito de libros electrónicos de Gooel.
+- [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) - Planet PDF ha puesto a disposición títulos clásicos como Anna Karenina y Frankenstein de forma gratuita.
+- [ReadAnyBook](https://readanybook.com/) - Lectura gratuita de libros electrónicos en línea.
+- [Leer biblioteca impresa](http://www.readprint.com/) - Ofrece novelas y poemas gratuitos.
+- [Starry.com](http://www.starry.com/free-online-novels/index.htm) - Estas novelas y antologías se actualizaron por última vez en 2006, pero aún encontrarás una interesante selección de artículos en línea y novelas digitales.
+- [TehParadox](http://www.tehparadox.co/) - Aplicaciones, libros electrónicos, juegos y más.
+- [TheGeeks](https://thegeeks.click/) - Tutoriales de libros electrónicos en su mayoría de Udemy, pero no limitados a eso.
+- [Twirpx](https://www.twirpx.com/) - (RU) - Ficción / no ficción, libros en varios idiomas.
+- [BookTracker](https://booktracker.org/) - (RU) - Colecciones de libros, discusiones y torrents + IRC.
+- [Z-Lib.org](https://z-lib.org/) - Programación y eBooks educativos.
+- [dlfeb](http://dlfeb.com/) - Un sitio web que descarga libros electrónicos de AvaxHome.
+- [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Un programa de código abierto que descarga de libros de Google con soporte proxy.
 - [2020ok](http://2020ok.com)
 - [Abundant Hope Holy Books](http://krishnamurti.abundanthope.org)
 - [AMORC](https://www.rosicrucian.org/texts)
-- [Amosqu's custom Google search](https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers)
-- [Awakening Intuition](http://www.awakening-intuition.com/ebooks.html)
-- [WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
-- [LazyLibrarian](http://gitlab.com/LazyLibrarian/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
-- [ahhdw](http://ahhdw.com) - A place for scientific eBooks.
-- [ebookbb](http://ebookbb.com) - Yet another place for various eBooks including scientific eBooks.
+- [Búsqueda personalizada de Google de Amosqu](https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers)
+- [Despertar de la intuición](http://www.awakening-intuition.com/ebooks.html)
+- [Fuentes de libros electrónicos ocultos de WiLd](https://justpaste.it/WiLdOccultEbooks) - Fuente de libros electrónicos constantemente actualizada para descargas directas, páginas de fuentes de libros electrónicos, rastreadores e imanes relacionados con cosas de libros electrónicos.
+- [LazyLibrarian](http://gitlab.com/LazyLibrarian/LazyLibrarian) - LazyLibrarian es un programa para seguir a los autores y obtener metadatos para todas tus necesidades de lectura digital.
+- [ahhdw](http://ahhdw.com) - Un lugar para libros electrónicos científicos.
+- [ebookbb](http://ebookbb.com) - Otro lugar más para varios libros electrónicos, incluidos los libros electrónicos científicos.
 - [Hpaudiobooks.club](http://hpaudiobooks.club)
-- [Scrdownloader](http://scrdownloader.com/) - Download .pdf documents and books from Scribd
-- [xfmro77i3lixucja](http://xfmro77i3lixucja.tor2web.xyz)
+- [Scrdownloader](http://scrdownloader.com/) - Descargar documentos y libros .pdf de Scribd
+- [xfmro77i3lixucja](http://xfmro77i3lixucja.tor2web.xyz) 
