@@ -49,6 +49,7 @@ sidebar_label: Games
 - [GameCopyWorld](https://gamecopyworld.eu) - Provides cracks for Games.
 - [GamesFull](https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
 - [Games Turret](https://gamesturret.ga/) - Proves games via file hosters.
+- [Leeching Hell](http://home.deds.nl/~sirrobin/) - Games patched to be played over LAN.
 - [MegaGames](https://megagames.com/) - Same like GameCopyWorld, online since 20+ years, old but gold!.
 - [PCMYMJuegos](https://pcmymjuegos.com/) - (SP) - Spanish website for SteamWorkFixs and other stuff. Mega, GDrive, MediaFire.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) - Fanmade Skidrow & Reloaded mirror website.
