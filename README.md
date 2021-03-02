@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/img/logo.svg" alt="arrrr!"></a>
-  <h1 align="center">Piracy</h1>
-  <h3 align="center">It's illegal cuz they can't tax you!</h3>
+  <h1 align="center">Piratería</h1>
+  <h3 align="center">Todo es gratis, si sabes donde buscar</h3>
 </div>
 
 <div align="center">
@@ -10,50 +10,48 @@
   <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
 </div>
 
-This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
+Este sitio web es una colección de los mejores recursos de piratería digital. Te ayudará a comenzar tu viaje pirata. 
 
-## Mirrors
+## Espejos
 
-Repo mirrors:
+Repositorios espejo:
 
 - [maximousblk/piracy@github](https://github.com/maximousblk/piracy) - official
 - [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
 
-Website mirrors:
-
+Sitios espejo:
 - [piracy.now.sh](https://piracy.now.sh/) - official
 - [piracy.netlify.app](https://piracy.netlify.app/)
 - [piracy.onrender.com](https://piracy.onrender.com/)
 - [piracy.on.fleek.co](https://piracy.on.fleek.co/)
 
-## FAQ
+## Preguntas frecuentes
 
-> Why was this even created?
+> ¿Por qué se creó esto?
 
-Research purposes... :wink:
+Por motivos educativos... :wink:
 
-> But [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) already exists.
+> Pero ya existe [awesome-piracy](https://github.com/Igglybuff/awesome-piracy).
 
-It has been very inactive lately. You can think of this as a website version of awesome-piracy.
+Últimamente ha estado muy inactivo. Podemos pensar en esto como una versión web de Awesome Piracy. 
 
-> Is this a biased list?
+> ¿Es una lista sesgada?
 
-Somewhat. I don't know everything about piracy and can be a little resistive while adding new links.
+Un poco. No sé todo sobre la piratería y puedo resistirme un poco a agregar nuevos enlaces. 
 
-## Contribute
+## Contribuir
 
-Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) to make sure nothing goes wrong.
+¡Las contribuciones son bienvenidas! Lea las [pautas de contribución] (CONTRIBUTING.md) para asegurarse de que nada salga mal.
 
-For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) page.
+Para discusiones, comentarios o para reportar enlaces inactivos, ir a la página [issues] (https://github.com/maximousblk/piracy/issues/). 
 
-## Disclaimer
+## Descargo de responsabilidad
 
-All the information on this website is purely for informational purposes and is not intended to support copyright infringement. I, [Maximous Black](https://maximousblk.now.sh/), the owner of this project is not responsible for and in no way associated to any external links or their content. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
+Toda la información en este sitio web es puramente para fines informativos y no pretende respaldar la infracción de derechos de autor. Yo, [Maximous Black] (https://maximousblk.now.sh/), el propietario de este proyecto, no soy responsable ni estoy asociado de ninguna manera a los enlaces externos o su contenido. La inclusión de cualquier enlace no implica necesariamente una recomendación ni respalda las opiniones expresadas en ellos. No tengo control sobre la naturaleza, el contenido y la disponibilidad de otros sitios web. Si no le gusta la información que proporciona este sitio web, comuníquese directamente con el propietario / webmaster / hoster del sitio web correspondiente y complete una solicitud de eliminación de DMCA.
 
-If you are a copyright owner or an agent thereof, and you believe that your work is accessible through this project in a way that constitutes copyright infringement, you may [create a GitHub issue](https://github.com/maximousblk/piracy/issues/new) to notify me.
+Si usted es un propietario de derechos de autor o un agente de los mismos, y cree que se puede acceder a su trabajo a través de este proyecto de una manera que constituye una infracción de derechos de autor, puede [crear un problema de GitHub] (https://github.com/maximousblk/piracy/issues/new) para notificarme.
 
-## License
+## Licencia
 
-[![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](LICENSE)
-
-To the extent possible under law, [Maximous Black](https://maximousblk.now.sh/) has waived all copyright and related or neighboring rights to this project.
+[! [Licencia] (https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)] (LICENCIA)
+En la medida de lo posible según la ley, [Maximous Black] (https://maximousblk.now.sh/) ha renunciado a todos los derechos de autor y derechos relacionados o conexos a este proyecto.
