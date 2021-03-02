@@ -16,7 +16,7 @@ Este sitio web es una colección de los mejores recursos de piratería digital. 
 
 Repositorios espejo:
 
-- [maximousblk/piracy@github](https://github.com/maximousblk/piracy) - official
+- [maximousblk/piracy@github](https://github.com/maximousblk/piracy) - oficial
 - [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
 
 Sitios espejo:
