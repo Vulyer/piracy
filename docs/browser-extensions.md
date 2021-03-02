@@ -1,79 +1,69 @@
 ---
-title: Browser Extensions
-sidebar_label: Browser Extensions
+title: Extensiones del navegador
+sidebar_label: Extensiones del navegador
 ---
 
-- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Add-Art](https://add-art.org/) - Replaces ads with art.
-- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
-- [Decentraleyes](https://decentraleyes.org/) - Protects against tracking with a local CDN (Content Delivery Network) - emulation.
-- [Privacy Badger](https://www.eff.org/privacybadger) - Privacy Badger blocks spying ads and invisible trackers.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) - Just another adblocker based on uBlock Origin.
-- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - An anti-Adblock defuser for Nano Adblocker and uBlock Origin.
-- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) - The world's most popular userscript manager.
-- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
-- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) - A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
-- [NoScript](https://noscript.net/getit) - Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
-- [Universal Bypass](https://universal-bypass.org/) - Universal Bypass automatically skips annoying link shorteners.
-- [Violentmonkey](https://violentmonkey.github.io/) - An open-source userscript manager.
-- [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
-- [Google unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked Chrome extension unlocks hidden google search results.
-  - [Website](https://ibit.uno/)
-- [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
-- [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
-- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Alters some JS APIs to prevent fingerprinting.
-- [Canvas Fingerprint Blocker](https://github.com/joue-quroi/canvas-fingerprint-blocker) - Block HTML canvas element from being used for fingerprinting purposes.
-- [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/) - Spoof your Firefox browser profile. Includes a few privacy enhancing options.
-- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) - Remove tracking fields from URLs.
-- [CSS Exfil Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Fixes several holes regarding [CSS manipulation](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Local emulation of Content Delivery Networks.
-- [Enterprise Policy Generator](https://github.com/cadeyrn/enterprise-policy-generator) - A Firefox WebExtension for generating Enterprise Policies.
-- [Header Editor](https://addons.mozilla.org/firefox/addon/header-editor/) - Protects you from e.g. ETag tracking, an alternative is [ETag Stoppa](https://addons.mozilla.org/firefox/addon/etag-stoppa/)
-- [Replace zero-width characters with emojis](https://github.com/chpmrc/zero-width-chrome-extension) - Google Chrome extension that can detect attempts to fingerprint text using the ["zero-width character"](https://www.bleepingcomputer.com/news/security/google-chrome-extension-detects-zero-width-character-fingerprinting-attacks/) - technique.
-- [Site Bleacher](https://github.com/wooque/site-bleacher) - Firefox/Chrome addon/extension which removes automatically cookies, local storages, IndexedDBs, service workers, cache storages, filesystems and webSQLs.
-- [Smart Referer](https://gitlab.com/smart-referer/smart-referer) - Change your Browser referer.
-- [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Alternative to Firefox first party isolation.
-- [Trace - Online Tracking Protection](https://absolutedouble.co.uk/trace/) - HTML5 Canvas protection for [Chrome](https://chrome.google.com/webstore/detail/trace/njkmjblmcfiobddjgebnoeldkjcplfjb) - & [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace).
-- [zero-width-chrome-extension](https://github.com/chpmrc/zero-width-chrome-extension) - Replace scary zero-width characters with funny emojis in Chrome to reduce the Browser fingerprint.
-- [ScriptSafe](https://github.com/andryou/scriptsafe) - Similar to NoScript with some nice features.
-- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
-- [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
-- [Media Reaper](https://sasrip.cf/) - Privacy 1st, Audio & Video Download.
-- [Stream Recorder](https://www.hlsloader.com/) - Allows you to save videos delivered through HLS (HTTP Live Streaming) in mp4 format.
-- [Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/bacakpdjpomjaelpkpkabmedhkoongbi) - Video Downloader professional - the fastest and easiest way to download any video from any website.
-- [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc) - Chrome Download extension for videos and flash videos from 99% of websites.
-- [Stream Video Downloader](https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) - Video downloader that really works with Streaming websites. Download Mp4 and audio formats.
-- [Video Downloader PLUS](https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - Downloads most popular media types from ANY website.
-- [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete Web video downloader ! The popular Video DownloadHelper Firefox extension is now available for Chrome.
-- [Keyboard Privacy](https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
-- [AudioContext Fingerprint Defender](https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
-- [Telegram Media Downloader](https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
-- [netflix-1080p](https://github.com/truedread/netflix-1080p/) - Chrome extension to play Netflix in 5.1 and 1080p.
+- [Add-Art](https://add-art.org/) - Reemplaza los anuncios con arte.
+- [uMatrix](https://github.com/gorhill/uMatrix) - Matriz para filtrar los contenidos de un sitio según el dominio y el tipo.
+- [uBlock Origin](https://github.com/gorhill/uBlock) - Un bloqueador eficiente para Chromium y Firefox. Rápido y liviano.
+- [Decentraleyes](https://decentraleyes.org/) - Protege contra el seguimiento con una CDN (Red de entrega de contenido) local - emulación.
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Emulación local de redes de entrega de contenido.
+- [Privacy Badger](https://www.eff.org/privacybadger) - Bloquea los anuncios espías y los rastreadores invisibles.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Cifra las comunicaciones con muchos sitios web importantes, lo que hace que la navegación sea más segura.
+- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) - Bloqueador de anuncios basado en uBlock Origin.
+- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - Un defusor anti-Adblock para Nano Adblocker y uBlock Origin.
+- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) - El administrador de script de usuario más popular del mundo.
+- [Limitador de red de WebRTC](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - Configura cómo se enruta el tráfico de red de WebRTC cambiando la configuración de privacidad de Chrome.
+- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) - Brinda a los usuarios control de la web y una navegación más segura al tiempo que enfatiza la simplicidad y la intuición.
+- [NoScript](https://noscript.net/getit) - Permite que el contenido activo se ejecute solo desde sitios en los que confía y protege contra XSS y ataques de clickjacking. Solamente Firefox.
+- [Universal Bypass](https://universal-bypass.org/) - Omite automáticamente los molestos acortadores de enlaces.
+- [Violentmonkey](https://violentmonkey.github.io/) - Administrador de script de usuario de código abierto.
+- [Anti-Paywall](https://github.com/nextgens/anti-paywall): Maximiza las posibilidades de eludir los paywalls.
+- [Google desbloqueado](https://github.com/Ibit-to/google-unlocked) - Desbloquea los resultados de búsqueda de Google ocultos.
+  - [Sitio web](https://ibit.uno/)
+- [Ocultar torrents falsos en TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Oculta torrents falsos en TPB.
+- [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Extensión de navegador no oficial impulsada por la comunidad para reddit.
+- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Modifica algunas API de JS para evitar la toma de huellas digitales.
+- [Bloqueador de huellas dactilares de lienzo](https://github.com/joue-quroi/canvas-fingerprint-blocker) - Bloquea el uso del elemento de canvas HTML para tomar huellas dactilares e identificar el nvegador.
+- [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/) - Simula el perfil de tu navegador Firefox. Incluye algunas opciones para mejorar la privacidad.
+- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) - Elimina los campos de seguimiento de las URL.
+- [CSS Exfil Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Corrige varios agujeros relacionados con la [manipulación CSS](https://www.mike-gualtieri.com/css-exfil-vulnerability -ensayador)
+- [Generador de políticas empresariales](https://github.com/cadeyrn/enterprise-policy-generator) - Genera políticas empresariales.
+- [Editor de encabezado](https://addons.mozilla.org/firefox/addon/header-editor/) - Cambia los encabezados en las requests del explorador. Protege p. Ej. de seguimiento de ETag, una alternativa es [ETag Stoppa](https://addons.mozilla.org/firefox/addon/etag-stoppa/)
+- [Reemplazar caracteres de ancho cero con emojis](https://github.com/chpmrc/zero-width-chrome-extension) - Puede detectar intentos de toma de huellas digitales de texto usando la técnica de ["caracter de ancho cero"](https://www.bleepingcomputer.com/news/security/google-chrome-extension-detects-zero-width-character-fingerprinting-attacks/).
+- [Site Bleacher](https://github.com/wooque/site-bleacher) - Elimina automáticamente cookies, almacenamientos locales, IndexedDB, trabajadores de servicio, almacenamientos de caché, sistemas de archivos y webSQL.
+- [Smart Referer](https://gitlab.com/smart-referer/smart-referer) - Cambia el referente de tu navegador.
+- [Contenedores temporales](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Alternativa al aislamiento de primera parte de Firefox. Compartimenta la navegación para que cada sitio no vea que otro sitio visitas
+- [Trace - Protección de seguimiento en línea](https://absolutedouble.co.uk/trace/) - Protección de HTML5 Canvas para [Chrome](https://chrome.google.com/webstore/detail/trace/njkmjblmcfiobddjgebnoeldkjcplfjb) y [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace).
+- [ScriptSafe](https://github.com/andryou/scriptsafe) - Similar a NoScript con algunas características interesantes.
+- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Acelera la resolución de los desafíos de Google reCAPTCHA al acortar los efectos de transición y proporcionar una capacidad de selección continua.
+- [Buster](https://github.com/dessant/buster) - Extensión de resolución de Captcha para humanos.
+- [Media Reaper](https://sasrip.cf/) - Privacidad primero, descarga de audio y video.
+- [Stream Recorder](https://www.hlsloader.com/) - Permite guardar videos entregados a través de HLS (HTTP Live Streaming) en formato mp4.
+- [Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/bacakpdjpomjaelpkpkabmedhkoongbi) - La forma más rápida y sencilla de descargar cualquier video desde cualquier sitio web.
+- [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc) - Descarga de videos y videos flash del 99% de los sitios web.
+- [Stream Video Downloader](https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) - Descargador de video que realmente funciona con sitios web de transmisión. Descarga Mp4 y formatos de audio.
+- [Video Downloader PLUS](https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - Descarga los tipos de medios más populares de CUALQUIER sitio web.
+- [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - ¡El descargador de videos web más completo! La popular extensión Video DownloadHelper Firefox ya está disponible para Chrome.
+- [Privacidad del teclado](https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Evita la creación de perfiles de comportamiento al aleatorizar la velocidad a la que los caracteres llegan al DOM.
+- [AudioContext Fingerprint Defender](https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defenderse contra las huellas digitales de AudioContext informando un valor falso.
+- [Telegram Media Downloader](https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Evita el límite de descarga de 1,5 GB y elimina canales / grupos.
+- [netflix-1080p](https://github.com/truedread/netflix-1080p/) - Reproduce Netflix en 5.1 y 1080p.
 
-### Browser Extensions for YouTube
+### Extensiones de navegador para YouTube
 
-- [Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout.
-- [YouTube Skip intro (Chrome)](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
-- [YouTube: Age Verification Bypass](https://greasyfork.org/scripts/375525) - Watch restricted videos without having to log in.
-- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) - Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly, interfaces.
+- [Iridium](https://github.com/ParticleCore/Iridium) - Mjora la experiencia con el nuevo diseño de material de YouTube.
+- [YouTube Skip intro (Chrome)](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define el tiempo de introducción para omitirlo cada vez que reproduces un video en YouTube. Útil cuando estás viendo una serie o programas de muchos episodios.
+- [YouTube: Omisión de verificación de edad](https://greasyfork.org/scripts/375525) - Vea videos restringidos sin tener que iniciar sesión.
+- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) - Redirige YouTube y Twitter a sus interfaces alternativas sin publicidad y respetuosas con la privacidad.
 
-## Misc Browser Extensions
+## Extensiones de navegador diversas
 
-- [RSS Subscription Extension by Google](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the posability to read RSS Feeds in Chrome.
-- [Containerise](https://addons.mozilla.org/en-US/firefox/addon/containerise/) - Automatically open websites in a dedicated container. Simply add rules to map domain or subdomain to your container.
-- [Image Search Options](https://saucenao.com/tools/) - Add search options to the right-click context menu.
-- [MegaLinks & Snahp.it Forum Link Solver](https://github.com/samvk/snahp-it-forum-link-solver) - Simplify opening forum.snahp.it links.
-- [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
-- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
-- [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
-- [Stylus](https://github.com/openstyles/stylus/) - Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager.
-- [Onion Browser Button](https://chrome.google.com/webstore/detail/onion-browser-button/fockhhgebmfjljjmjhbdgibcmofjbpca?hl=en)
-  - [source code](https://github.com/jeremy-jr-benthum/tor-button)
-- [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
-- [Search by Image](https://github.com/dessant/search-by-image) - Enables you to initiate a reverse image search from the context menu or the browser toolbar, and supports more than 30 search engines.
-- [2read](https://2read.net/) - Convert article in current tab to readable form and upload it to IPFS.
-- [User-Agent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
-- [Simple Translate](https://github.com/sienori/simple-translate) - Quickly translate selected text on web page.
-- [h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.
-- [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced browser extension to skip sponsor segments in YouTube videos.
+- [Extensión de suscripción RSS de Google](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Agrega suscripción con un clic a tu barra de herramientas y recupera la posibilidad de leer fuentes RSS en Chrome.
+- [Containerise](https://addons.mozilla.org/en-US/firefox/addon/containerise/) - Sitios web abiertos automáticamente en un contenedor dedicado. Simplemente agregue reglas para mapear el dominio o subdominio a su contenedor.
+- [Opciones de búsqueda de imágenes](https://saucenao.com/tools/) - Agregue opciones de búsqueda al menú contextual del botón derecho.
+- [MegaLinks & Snahp.it Forum Link Solver](https://github.com/samvk/snahp-it-forum-link-solver) - Simplifique la apertura de enlaces forum.snahp.it.
+- [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Permite enviar archivos torrent desde el navegador al cliente Bittorrent remoto o local. Interfaz web.
+- [SABconnect ++](https://github.com/gboudreau/sabconnectplusplus) - Extensión de Chrome que agrega botones 'Enviar a SABnzbd' con un solo clic a muchos sitios populares de índices NZB.
+- [Guardar en la Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Guarda rápidamente páginas web en la Wayback Machine de Internet Archive.
+- [Stylus](https://github.com/openstyles/stylus/) - Rediseñe sus sitios web favoritos con Stylus, un administrador de estilos de usuario desarrollado activamente e impulsado por la comunidad.
