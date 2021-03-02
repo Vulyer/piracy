@@ -301,3 +301,10 @@ sidebar_label: Games
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks) - A subreddit dedicated to Wii U hacking and homebrew!.
 - [r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) - Fairly active community of PS Vita pirates with guides and releases.
+
+## VPN
+- [Hamachi](https://vpn.net/) - The most popular software on this area. Free version only supports 5 clients per network (can only connect you to 4 other people)
+- [GameRanger](http://www.gameranger.com/) - Second most popular client in the area. Supports a large game catalog (mostly from GameSpy era) and creates VLAN rooms to play them multiplayer. Only works for games it has listed.
+- [Wippien](http://www.wippien.com/) - Hamachi-like software that uses Jabber/XMPP accounts for user login. Lightweight.
+- [Softether](https://www.softether.org/) - Robust FOSS VPN software. Includes a free DDNS service.
+- [FreeLAN](https://www.freelan.org/) - Low level LAN-over-Internet FOSS. Lightweight.
