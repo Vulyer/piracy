@@ -1,46 +1,45 @@
 ---
-title: Cloud Storage
-sidebar_label: Cloud Storage
+título: Almacenamiento en la nube
+sidebar_label: Almacenamiento en la nube
 ---
 
-- [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) - This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
-- [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive.
-- [Megatools](https://megatools.megous.com/) - Open-source command line tools for accessing Mega.co.nz cloud storage.
-- [plexdrive](https://github.com/dweidenfeld/plexdrive) - Mounts your Google Drive FUSE filesystem (optimized for media playback).
-- [PlowShare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
-- [rclone](https://rclone.org/) - Rsync for cloud storage.
-- [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) - Wiki page on setting up Google Drive with rclone cache and crypt.
-- [folderclone](https://github.com/Spazzlo/folderclone) - A project that allows you copy large folders to Shared Drives.
-- [AutoRclone](https://github.com/xyou365/AutoRclone/) - AutoRclone is a FOSS project that uses rclone, folderclone and service accounts to upload/copy resources to Google Team Drive.
-- [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader) - Python script to download google drive files even if the daily limit of download has exceeded.
-- [r/PlexACD](https://www.reddit.com/r/PlexACD/) - Discussion about unlimited cloud storage for Plex libraries.
-- [RcloneBrowser](https://martins.ninja/RcloneBrowser/) - Simple cross-platform GUI for rclone.
-- [UDS](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
-- [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) - This is a comparison of file hosting services that are currently active.
-- [Cloud storage table](https://nafanz.github.io/cloudstorage.html) - Regularly updated table of information about top cloud storage providers.
-- [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
-- [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
-- [Multcloud](https://www.multcloud.com/) - Transfer and manage your multiple cloud files with one app. 100% Free.
-- [ownCloud](http://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
-- [nextCloud](http://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
-- [Syncthing](http://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
-- [Seafile](http://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance.
-- [GDBypass](https://gdbypass.host/) - Bypass the Google drive download bandwidth limit.
+- [Conecte su servidor Plex a su Google Drive](https://bytesized-hosting.com/pages/plexdrive) - Este tutorial te ayudará a conectar tu Google Drive a tu servidor Plex usando Plexdrive.
+- [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Sistema de archivos FUSE sobre Google Drive.
+- [Megatools](https://megatools.megous.com/) - Herramientas de línea de comandos de código abierto para acceder al almacenamiento en la nube de Mega.co.nz.
+- [plexdrive](https://github.com/dweidenfeld/plexdrive) - Monta tu sistema de archivos FUSE de Google Drive (optimizado para reproducción de medios).
+- [PloughShare](https://github.com/mcrapet/plowshare) - Herramienta de línea de comandos y motor para administrar sitios web para compartir.
+- [rclone](https://rclone.org/) - Rsync para almacenamiento en la nube.
+- [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) - Página wiki sobre cómo configurar Google Drive con rclone cache y crypt.
+- [folderclone](https://github.com/Spazzlo/folderclone) - Proyecto que permite copiar carpetas grandes en unidades compartidas.
+- [AutoRclone](https://github.com/xyou365/AutoRclone/) - AutoRclone es un proyecto de FOSS que usa rclone, folderclone y cuentas de servicio para cargar / copiar recursos a Google Team Drive.
+- [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader) - Secuencia de comandos de Python para descargar archivos de Google Drive incluso si se ha excedido el límite diario de descarga.
+- [r / PlexACD](https://www.reddit.com/r/PlexACD/) - Discusión sobre almacenamiento ilimitado en la nube para bibliotecas Plex.
+- [RcloneBrowser](https://martins.ninja/RcloneBrowser/) - GUI multiplataforma simple para rclone.
+- [UDS](https://github.com/stewartmcgown/uds) - Almacenamiento en disco ilimitado. Almacena archivos en Google Docs sin contar en tu cuota.
+- [Comparación de servicios de alojamiento de archivos](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) - Esta es una comparación de los servicios de alojamiento de archivos que están actualmente activos.
+- [Tabla de almacenamiento en la nube](https://nafanz.github.io/cloudstorage.html) - Tabla de información actualizada periódicamente sobre los principales proveedores de almacenamiento en la nube.
+- [CloudBox](http://cloudbox.works/) - Una solución todo en uno, centrada en la nube y servidor de medios.
+- [Multcloud](https://www.multcloud.com/) - Transfiere y administra tus múltiples archivos en la nube con una sola aplicación. 100% gratis.
+- [ownCloud](http://owncloud.com/client/) - El objetivo de ownCloud es brindarte acceso a tus archivos dondequiera que te encuentres.
+- [nextCloud](http://nextcloud.com/) - Una bifurcación mantenida activamente de ownCloud, un conjunto de software cliente-servidor para crear y utilizar servicios de alojamiento de archivos.
+- [Syncthing](http://syncthing.net/) - Syncthing reemplaza la sincronización patentada y los servicios en la nube por algo abierto, confiable y descentralizado.
+- [Seafile](http://www.seafile.com/en/home/) - Seafile es una plataforma de alojamiento de archivos empresarial con alta confiabilidad y rendimiento.
+- [GDBypass](https://gdbypass.host/) - Omite el límite de ancho de banda de descarga de la unidad de Google.
 
-## Google Team Drives
+## Unidades de equipo de Google
 
-- [A complete guide of Google Shared drive (Team drive)](https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
-- [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
-- [Google Team Drive](https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
-- [GDIndex](https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
-- [TeamDrive Software for Win, Linux, Android and iOS](https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
-- [Get Free Google Shared Drive](http://leon.educationhost.cloud) - Create your own TeamDrive for free.
-- [How to join LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
-- [whatintheworld](https://whatintheworld.xyz/) - Search Team Drives resources.
+- [Una guía completa de la unidad compartida de Google (unidad de equipo)](https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+- [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Permite crear fácilmente una cuenta gratuita de Google Team Drive.
+- [Google Team Drive](https://teamdrive.mfoxx.workers.dev/) - Crea un Google Team Drive donde puedes compartir tus archivos con otras personas.
+- [GDIndex](https://github.com/ParveenBhadooOfficial/GDIndex) - Unidad de equipo para _googledri.ve.workers.dev_. También puede crear su propio TeamDrive.
+- [Software TeamDrive para Win, Linux, Android e iOS](https://forum.teamdrive.net/viewforum.php?f=2) - Software con cifrado AES para trabajar en varias PC y mantener tus archivos actualizados.
+- [Obtenga Google Shared Drive gratis](http://leon.educationhost.cloud) - Crea tu propio TeamDrive de forma gratuita.
+- [Cómo unirse a LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
+- [whatintheworld](https://whatintheworld.xyz/) - Recursos de búsqueda de unidades de equipo.
 
-### Google Team Drives Groups and Discussions
+### Grupos y debates de unidades de equipo de Google
 
-- [HKTeamDrive Group](https://groups.google.com/d/forum/hkteamdrive1group)
+- [Grupo HKTeamDrive](https://groups.google.com/d/forum/hkteamdrive1group)
 - [TD-Automation](https://groups.google.com/d/forum/td-automation)
 - [TeamDrive 0](https://groups.google.com/forum/m/#!forum/teamdrive0)
 - [xtremecloud TeamDrive group](https://groups.google.com/d/forum/xtremecloud-tdgroup)
@@ -50,7 +49,7 @@ sidebar_label: Cloud Storage
 - [AlpacinoDump](https://dh.alpacinodump.cf/)
 - [TUHOCTOEIC.EDU.VN](https://driveteam.nguyenvanlong.blog/)
 
-### Team Drive Indexers
+### Indexadores de unidades de equipo
 
 - [GDIndex](https://github.com/maple3142/GDIndex)
 - [goindex](https://github.com/K-E-N-W-A-Y/goindex)
@@ -58,19 +57,19 @@ sidebar_label: Cloud Storage
 - [krat0si-ndex](https://github.com/420tushar/krat0si-ndex)
 - [goindex-drive](https://github.com/CHEF-KOCH/goindex-drive)
 
-## Transloading
+## Transcarga
 
-- [Clouddebrid](https://clouddebrid.herokuapp.com/) - Supports more than 200 services, transload files easily.
-- [Furk.net](https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately.
-- [Offcloud](https://offcloud.com/) - Cloud-based download manager
-- [Bitport.io](https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
-- [Seedr](https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
-- [Webtor](https://webtor.io/) - Similar like Seedr.
-- [JSTorrent](https://www.jstorrent.com/) - Chrome WebTorrent Client.
-- [bitford](https://github.com/astro/bitford) - Open Source based Client for Chrome.
-- [Multcloud](https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
-- [Transfercloud](https://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
-- [Put.io](https://put.io/) - We fetch files from many public places at very high speeds, then put them into downloads.
-- [Boxopus](https://boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
-- [Cloudload](https://www.cloudload.com/login) - Safely stream and download with Cloudload. Movies, music, software and documents; from the web to your secure cloud account in seconds.
-- [zbigz](https://zbigz.com/) - Any content available for download. Anonymous downloads: Safe & Secure. Download torrent easy on our site directly to Google Drive.
+- [Clouddebrid](https://clouddebrid.herokuapp.com/) - Admite más de 200 servicios, transfiere archivos fácilmente.
+- [Furk.net](https://www.furk.net/) - Almacenamiento seguro personal que recupera archivos multimedia y permite transmitirlos de inmediato.
+- [Offcloud](https://offcloud.com/) - Administrador de descargas basado en la nube
+- [Bitport.io](https://bitport.io/welcome) - Descarga archivos a una nube segura. De forma anónima. Rápido. En línea.
+- [Seedr](https://www.seedr.cc/) - ¡Transmite en cualquier dispositivo, en cualquier momento y en cualquier lugar!
+- [Webtor](https://webtor.io/) - Similar a Seedr.
+- [JSTorrent](https://www.jstorrent.com/) - Cliente Chrome WebTorrent.
+- [bitford](https://github.com/astro/bitford) - Cliente basado en código abierto para Chrome.
+- [Multcloud](https://www.multcloud.com/) - Similar a Offcloud. Transfiera y administre sus múltiples archivos en la nube con una sola aplicación. 100% gratis.
+- [Transfercloud](https://transfercloud.io/) - Descarga torrents, imanes y enlaces directamente a tu nube: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive o servidor FTP.
+- [Put.io](https://put.io/) - Recuperamos archivos de muchos lugares públicos a velocidades muy altas y luego los colocamos en descargas.
+- [Boxopus](https://boxopus.com/) - Descargador de torrents en línea rápido y fácil. Descarga torrents a Dropbox o Google Drive.
+- [Cloudload](https://www.cloudload.com/login) - Transmite y descarga de forma segura con Cloudload. Películas, música, software y documentos; desde la web a tu cuenta segura en la nube en segundos.
+- [zbigz](https://zbigz.com/) - Cualquier contenido disponible para descargar. Descargas anónimas: seguras y protegidas. Descarga torrent fácilmente en nuestro sitio directamente en Google Drive.
