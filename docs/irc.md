@@ -1,51 +1,54 @@
 ---
-title: IRC
+título: IRC
 sidebar_label: IRC
 ---
 
-- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - A plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
-- [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) - XDCC Downloading For Beginners: Do It Like A Pro!.
-- [XDCC](https://en.wikipedia.org/wiki/XDCC) - XDCC (Xabi DCC or eXtended DCC) - is a computer file sharing method which uses the Internet Relay Chat (IRC) - network as a host service.
-- [ZNC](https://github.com/znc/znc) - An advanced IRC bouncer.
+Internet Relay Chat (IRC) es un protocolo de chat abierto. Cualquiera puede poner o conectarse a un servidor y chatear sin necesidad de crear cuentas o registrarse.
 
-## IRC Clients
 
-- [irssi](https://irssi.org/) - Your text mode chatting application since 1999.
-  - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - A plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
-  - [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) - Guide by yours truly on enabling Slack notifications for autodl-irssi.
-  - [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) - Script to use as upload-command for autodl-irssi to post to Sonarr.
-  - [mreg](https://github.com/Igglybuff/mreg) - Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
-- [mIRC](http://www.mirc.com/) - The original IRC client for Windows.
-- [HexChat](http://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it is completely free for both Windows and Unix-like systems.
-- [irssi](http://irssi.org/) - Your text mode chatting application since 1999.
-- [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support.
-- [KVIrc](https://github.com/kvirc/KVIrc) - Yet another graphical IRC client.
-- [Shout](https://github.com/erming/shout) - The self-hosted web IRC client.
-- [The Lounge](http://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (a fork of shoutIRC) - is a web IRC client that you host on your own server.
-- [weechat](https://github.com/weechat/weechat) - The extensible chat client.
-- [Convos](http://convos.by/) - Always online web IRC client.
-- [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS.
-- [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go.
-- [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks.
+- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - Un complemento para irssi que monitorea los canales de anuncios de IRC para rastreadores de torrents y descarga archivos torrent basados en filtros definidos por el usuario.
+- [Tutorial de XDCC](http://theloadguru.com/xdcc-irc-beginners-guide/) - Descarga de XDCC para principiantes: ¡Hazlo como un profesional!
+- [XDCC](https://en.wikipedia.org/wiki/XDCC) - XDCC (Xabi DCC o eXtended DCC) - Método de intercambio de archivos de computadora que utiliza Internet Relay Chat (IRC) red como servicio de host.
+- [ZNC](https://github.com/znc/znc) - Un saltador (bouncer) de IRC avanzado.
 
-## IRC Networks
+## Clientes
 
-- [irc.p2p-network.net](https://p2p-network.net/) - P2P file sharing network.
-- [Orpheus](https://orpheus.network/) - Formerly known as Apollo.
-- [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) - List of all channels on the p2p-network.net IRC network.
+- [irssi](https://irssi.org/) - Su aplicación de chat en modo texto desde 1999.
+  - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - Un complemento para irssi que monitorea los canales de anuncios de IRC para rastreadores de torrents y descarga archivos torrent basados en filtros definidos por el usuario.
+  - [Notificaciones de Slack para autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) - Guía tuya sobre cómo habilitar las notificaciones de Slack para autodl-irssi.
+  - [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) - Secuencia de comandos para usar como comando de carga para que autodl-irssi publique en Sonarr.
+  - [mreg](https://github.com/Igglybuff/mreg) - Genera una expresión "Coincidir lanzamientos" para su filtro autodl-irssi basada en la sección "Fechas de lanzamiento de DVD más solicitadas" de dvdsreleasedates.com.
+- [mIRC](http://www.mirc.com/) - El cliente IRC original para Windows.
+- [HexChat](http://hexchat.github.io/) - HexChat es un cliente de IRC basado en XChat, pero a diferencia de XChat, es completamente gratuito tanto para Windows como para sistemas similares a Unix.
+- [Kiwi IRC](https://kiwiirc.com/) - Cliente de IRC web receptivo con soporte para temas.
+- [KVIrc](https://github.com/kvirc/KVIrc) - Otro cliente gráfico de IRC.
+- [Shout](https://github.com/erming/shout) - El cliente de IRC web autohospedado.
+- [The Lounge](http://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (una bifurcación de shoutIRC) - es un cliente de IRC web que alojas en tu propio servidor.
+- [weechat](https://github.com/weechat/weechat) - El cliente de chat extensible.
+- [Convos](http://convos.by/) - Cliente web IRC siempre en línea.
+- [InspIRCd](https://www.inspircd.org/) - Servidor IRC modular escrito en C++ para Linux, BSD, Windows y macOS.
+- [Dispatch](https://github.com/khlieng/dispatch) - Cliente de IRC web autohospedado escrito en Go.
+- [ngircd](https://ngircd.barton.de/) - Servidor de Internet Relay Chat gratuito, portátil y ligero para redes pequeñas o privadas.
 
-| Name                         | IRC Address                                                                              | description                                                                       |
-| ---------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Beast-XDCC                   | [`irc://irc.abjects.net/BEAST-XDCC`](irc://irc.abjects.net/BEAST-XDCC)                   | One more XDCC source                                                              |
-| IRCHighway - ebooks          | [`irc://irc.irchighway.net/ebooks`](irc://irc.irchighway.net/ebooks)                     | A nice, friendly irc channel for trading ebooks                                   |
-| Undernet - bookz             | [`irc://irc.undernet.org/bookz`](irc://irc.undernet.org/bookz)                           | For downloading ebooks (use `@search <book name>` for a list of available ebooks) |
-| Abandoned IRC - ZOMBIE WAREZ | [`irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ`](irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ) | Zombie Warez channel for various software                                         |
-| Moviegods                    | [`irc://irc.abjects.net/MOVIEGODS`](irc://irc.abjects.net/MOVIEGODS)                     | XDCC file sharing network, join #mg-chat to continue downloading                  |
-| The Source                   | [`irc://irc.scenep2p.net/THE.SOURCE`](irc://irc.scenep2p.net/THE.SOURCE)                 | Another XDCC source                                                               |
+## Redes IRC
 
-## IRC Search Engines
+- [irc.p2p-network.net](https://p2p-network.net/) - Red de intercambio de archivos P2P.
+- [lista de canales de p2p-network.net](https://search.mibbit.com/channels/p2p-network) - Lista de todos los canales de la red IRC de p2p-network.net.
+- [Orfeo](https://orpheus.network/) - Anteriormente conocida como Apolo.
 
-- [ixIRC](https://ixirc.com/) - ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user supplied XDCC packs.
-- [SunXDCC](http://sunxdcc.com/) - Another XDCC file search engine.
-- [xdcc.eu](http://www.xdcc.eu/) - XDCC search engine indexing packets from a large number of networks.
-- [xWeasel](http://xweasel.org) - xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
+
+| Nombre | Dirección de IRC | descripción |
+| ---------------------------- | -------------------------------------------------- -------------------------------------- | -------------------------------------------------- ------------------------------- |
+| Beast-XDCC | [`irc: // irc.abjects.net / BEAST-XDCC`](irc: //irc.abjects.net/BEAST-XDCC) | Una fuente más de XDCC |
+| IRCHighway - libros electrónicos | [`irc: // irc.irchighway.net / ebooks`](irc: //irc.irchighway.net/ebooks) | Un canal irc agradable y amigable para el comercio de libros electrónicos |
+| Undernet - bookz | [`irc: // irc.undernet.org / bookz`](irc: //irc.undernet.org/bookz) | Para descargar libros electrónicos (utilice `@search <nombre del libro>` para obtener una lista de los libros electrónicos disponibles) |
+| IRC abandonado - ZOMBIE WAREZ | [`irc: // irc.abandoned-irc.net / # ZOMBIE-WAREZ`](irc: //irc.abandoned-irc.net/#ZOMBIE-WAREZ) | Canal Zombie Warez para varios programas |
+| Moviegods | [`irc: // irc.abjects.net / MOVIEGODS`](irc: //irc.abjects.net/MOVIEGODS) | Red de intercambio de archivos XDCC, únase a #mg-chat para continuar con la descarga |
+| La fuente | [`irc: // irc.scenep2p.net / THE.SOURCE`](irc: //irc.scenep2p.net/THE.SOURCE) | Otra fuente de XDCC |
+
+## Motores de búsqueda de IRC
+
+- [ixIRC](https://ixirc.com/) - Permite buscar a través de 17 redes IRC, 32 canales y más de 189915 paquetes XDCC suministrados por el usuario.
+- [SunXDCC](http://sunxdcc.com/) - Otro motor de búsqueda de archivos XDCC.
+- [xdcc.eu](http://www.xdcc.eu/) - El motor de búsqueda XDCC indexa paquetes de una gran cantidad de redes.
+- [xWeasel](http://xweasel.org) - xWeasel es un cliente de descarga independiente y gratuito basado en IRC.
