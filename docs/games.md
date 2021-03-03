@@ -36,7 +36,6 @@ sidebar_label: Juegos
 - [SSElauncher](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 por LoodBot/Syahmixp (Steam Emulator).
 - [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - El proyecto es un intento de crear un emu de Steam genérico que te permita jugar juegos multijugador en una LAN sin ninguna conexión a Internet o bien a través de una VPN con amigos.
 - [Cream API](https://anonfiles.com/99w5p88eqb) - Desbloqueador de DLCs para juegos de Steam legítimos.
-- [MPGH](https://www.mpgh.net/) - Piratería de juegos multijugador (gana dinero a través de anuncios).
 
 ## PC
 
@@ -52,6 +51,7 @@ sidebar_label: Juegos
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) - Sitio web espejo de Fanmade Skidrow & Reloaded.
 - [SpartaGames](https://spartagames.net/category/pc/) - (PT/BR) - Enlaces de torrent y espejos de servidor directos a varios lanzamientos de escenas.
 - [Steamunlocked](https://steamunlocked.net) - Juegos de Steam preinstalados/crackeados: solo presiona Inicio y juega.
+- [MPGH](https://www.mpgh.net/) - Piratería de juegos multijugador (gana dinero a través de anuncios).
 - [VseTop](https://vsetop.org/) - (RU) - Sitio web ruso que compra sus propios juegos y los lanza a las masas.
 - [Warmane](https://www.warmane.com/) - Aloja servidores privados de WoW.
 - [Mabandonware](https://www.myabandonware.com/) - Videojuegos antiguos.
@@ -73,46 +73,43 @@ sidebar_label: Juegos
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Implementación de escritorio de la aplicación de autenticación móvil de Steam.
 - [Threshold-Skin](https://github.com/Edgarware/Threshold-Skin): un aspecto de estilo UWP de Windows 10 para Steam.
 - [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercepta los mensajes de red del cliente Steam.
-  - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspeccione los mensajes descargados por NetHook2.
+  - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspecciona los mensajes descargados por NetHook2.
 
-## Consola
+## Consolas
 
-- [r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - Un lugar para compartir paquetes de Playstation 4 en funcionamiento.
-- [NoPayStation](https://nopaystation.com): una base de datos para contenido de PSN que incluye Vita, PS3, PSX y PSP.
-- [r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) - Juegos de Nintendo Switch.
-- [r/PkgLinks](https://www.removeddit.com/r/PkgLinks/) - Un lugar para compartir paquetes de Playstation 4 en funcionamiento.
+- [r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) - Juegos de Nintendo Switch
 - [r/SwitchNSPs](https://www.removeddit.com/r/SwitchNSPs/) - Juegos de Nintendo Switch.
-- [Allgamesforyou](https://www.allgamesforyou.com) - ¡Juegos populares, actualizados cada semana !.
-- [gazellegames](https://gazellegames.net/) - Otra colección de Xbox 360.
-- [NoPayStation](https://nopaystation.com): una base de datos para contenido de PSN que incluye Vita, PS3, PSX y PSP.
-- [OVAGames](http://www.ovagames.com/) - Otra base de datos más con juegos de consola y de PC.
-- [PleasureDome Tracker](https://www.pleasuredome.org.uk/) - Torrents MAME.
+- [Allgamesforyou](https://www.allgamesforyou.com) - ¡Juegos populares, actualizados cada semana!
+- [OVAGames](http://www.ovagames.com/) - Otra base de datos más con juegos de consolas y de PC.
 - [SPEEDLounge](http://speedlounge.in/) - XBox360, XBox, PlayStation y otros juegos.
 - [Lista de actualizaciones para Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) - Una lista de actualizaciones para juegos de Xbox 360.
 - [xbox360iso](http://www.xbox360iso.com/) - Colección de juegos de XBox 360.
 
 ### PlayStation
 
+- [NoPayStation](https://nopaystation.com) - Base de datos para contenido de PSN que incluye Vita, PS3, PSX y PSP.
 - [Foro de Darksoftware](https://forum.darksoftware.net/forums/) - Foro número uno para temas de piratería de Playstation.
-- [Descargar juego PS3](https://downloadgameps3.com/) - Descargar juego PS3, PS4, RPCS3, PC de forma gratuita.
+- [Descargar juegos PS3](https://downloadgameps3.com/) - Descargar juegos de PS3, PS4, RPCS3, PC de forma gratuita.
 - [PS3iso](http://www.ps3iso.net/) - Juegos gratuitos de PS3 descargables a través de filecrypt.cc.
+- [r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - Un lugar para compartir paquetes de Playstation 4 en funcionamiento.
+- [r/PkgLinks](https://www.removeddit.com/r/PkgLinks/) - Espejo del anterior.
 
 ### 3DS
 
 - [Utilidad 3DS Decrypter](https://github.com/matiffeder/stuff) - Descifra archivos 3DS.
 - [3dscia](https://www.3dscia.to/) - Archivos CIA de Nintendo 3ds.
 - [GDrive 1](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - ROM basadas en EN/EE. UU.
-- [GDrive 2](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5): colección de todas las regiones.
+- [GDrive 2](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - Colección de todas las regiones.
 - [GDrive 3](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
 - [Mega.nz 1](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - Lo mejor de la colección de DS.
 - [Mega.nz 2](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - Consola virtual 3DS.
 - [3DS-Paradise](https://3ds-paradise.com/) - Uno de los foros de 3DS más grandes de Francia.
 
-### Juegos de Mame
+### MAME
 
 - [PleasureDome](http://www.pleasuredome.org.uk/index.php) - Varios juegos para Mame.
 
-### Interruptor de Nintendo
+### Nintendo Switch
 
 - [GDrive (actualizado con más frecuencia](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
 - [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
@@ -124,35 +121,35 @@ sidebar_label: Juegos
 - [Kosmos](https://github.com/CTCaer/hekate)
 - [ReiNX](https://github.com/Reisyukaku/ReiNX)
 - [SX OS](https://sx.xecuter.com/)
-- [IsMySwitchPatched.com](https://ismyswitchpatched.com/) - Verifique si su CFW ya está parcheado o no.
+- [IsMySwitchPatched.com](https://ismyswitchpatched.com/) - Verifica si tu CFW ya está parcheado o no.
 
 ### Game Boy
 
-- [G-Drive](https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk) - Incluye ROM de Game Boy (junto con N64, etc.) y archivos de BIOS.
+- [G-Drive](https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk) - Incluye ROMs de Game Boy (junto con N64, etc.) y archivos de BIOS.
 - [GDrive (espejo)](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) - Contraseña `snahp.it`.
 - [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) - Contraseña `snahp.it`.
 - [GBATemp](https://gbatemp.net/) - Noticias, descargas, información y tutoriales de GBA.
 
-### Cubo de juego
+### Gamecube
 
-- [Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Necesitará una cuenta con archive.org pero debería funcionar, las velocidades son decentes.
+- [Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Necesita una cuenta en archive.org pero debería funcionar, las velocidades son decentes.
 - [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
 
 ### Wii
 
-- [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-): juegos solo para la UE.
+- [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) - Juegos solo para la UE.
 - [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - Colección de Wiiware y VC.
-- [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC.
+- [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - ISOs NTSC.
 - [GDrive](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Espejo desde un enlace abolve.
 
-#### Piratería de Wii
+#### Personalización de Wii
 
-- [r/WiiHacking](https://www.removeddit.com/r/WiiHacking) - Comunidad dedicada a Wii Roms, Firmwares, Discusiones y enlaces sobre el tema de la piratería de Wii.
+- [r/WiiHacking](https://www.removeddit.com/r/WiiHacking) - Comunidad dedicada a Wii. Roms, Firmwares, Discusiones y enlaces sobre el tema de la piratería de Wii.
 - [Guía de piratería de Wii](https://wii.guide/) - Proporciona una guía de piratería para la consola Wii.
 
-## Emuladores de consola
+## Emuladores de consolas
 
-- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Emulación de videojuego retro para macOS.
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Emulación de videojuegos retro para macOS.
 - [higan](http://higan.byuu.org/) - Originalmente llamado "bsnes", el emulador es compatible con Mega Drive, SNES, GBC y otros sistemas.
 - [RetroArch](https://github.com/libretro/RetroArch) - Interfaz multiplataforma y sofisticada para la API de libretro (admite múltiples núcleos/sistemas).
 
@@ -174,8 +171,8 @@ sidebar_label: Juegos
 
 ### SNES
 
-- [Mesen](https://github.com/SourMesen/Mesen-S) - Mesen-S es un emulador multiplataforma (Windows y Linux) - SNES integrado en C ++ y C #. Mesen afirma ser el emulador de SNES más preciso.
-- [Snes9x](https://github.com/snes9xgit/snes9x) - Emulador de SNES escrito en C ++ con puertos oficiales para DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS y Android.
+- [Mesen](https://github.com/SourMesen/Mesen-S) - Mesen-S es un emulador multiplataforma (Windows y Linux) - SNES integrado en C++ y C#. Mesen afirma ser el emulador de SNES más preciso.
+- [Snes9x](https://github.com/snes9xgit/snes9x) - Emulador de SNES escrito en C++ con puertos oficiales para DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS y Android.
 
 ### NES (Super NES/Famicom)
 
@@ -185,9 +182,9 @@ sidebar_label: Juegos
 
 ### Nintendo 64
 
-- [1964](https://github.com/schibo/1964js) - Uno de los emuladores de N64 más antiguos y populares escrito en C ++.
-- [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](http://mupen64plus.org/) - Escrito en C, C ++, permite a los usuarios jugar juegos de Nintendo 64 en una computadora leyendo imágenes de ROM.
-- [paralelo-n64](https://github.com/libretro/parallel-n64) - Emulador de Nintendo 64 optimizado/reescrito hecho específicamente para Libretro. Basado originalmente en Mupen64 Plus.
+- [1964](https://github.com/schibo/1964js) - Uno de los emuladores de N64 más antiguos y populares escrito en C++.
+- [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](http://mupen64plus.org/) - Escrito en C, C++, permite a los usuarios jugar juegos de Nintendo 64 en una computadora leyendo imágenes de ROM.
+- [parallel-n64](https://github.com/libretro/parallel-n64) - Emulador de Nintendo 64 optimizado/reescrito hecho específicamente para Libretro. Basado originalmente en Mupen64 Plus.
 
 ### GameCube/Wii
 
@@ -207,18 +204,19 @@ sidebar_label: Juegos
 
 ### Nintendo 3ds
 
-- [Citra](http://citra-emu.org/) - C ++ desarrollado para Nintendo 3DS y es el primero de su tipo. Citra no funciona muy bien con PC más antiguas y necesita una CPU x64.
+- [Citra](http://citra-emu.org/) - C++ desarrollado para Nintendo 3DS y es el primero de su tipo. Citra no funciona muy bien con PC más antiguas y necesita una CPU x64.
 
 ### Interruptor de Nintendo
 
-- [Yuzu](http://yuzu-emu.org/) - El primer y (único) emulador de C ++ para Nintendo Switch. Del desarrollador (es) de Citra.
+- [Yuzu](http://yuzu-emu.org/) - El primer y (único) emulador de C++ para Nintendo Switch. De los desarrolladores de Citra.
 
 ### CD de Neo Geo
 
 - [NeoCD](http://pacifi3d.retrogames.com/neocdsdl/) - Soporta Red Book (estándar de CD de audio).
 
-### Estación de juegos
+### PlayStation
 
+- [ePSXe](https://www.epsxe.com/) - Emulador multiplataforma de PSX. Disponible para Windows, Linux, Android y MacOSX. 32 y 64 bits.
 - [PSEmu Pro](http://web.archive.org/web/19990428033703/http://www.psemu.com/index.html) - Se ha descontinuado desde 1999 pero aún funciona perfectamente en sistemas más antiguos.
 
 ### Playstation 2
@@ -227,79 +225,80 @@ sidebar_label: Juegos
 
 ### Playstation 3
 
-- [RPCS3](https://github.com/rpcs3/rpcs3/) - Emulador y depurador de consola de videojuegos para Sony PlayStation 3 escrito en C ++.
+- [RPCS3](https://github.com/rpcs3/rpcs3/) - Emulador y depurador de consola de videojuegos para Sony PlayStation 3 escrito en C++.
 
-### Playstation Portátil
+### PSP
 
 - [PPSSPP](https://github.com/hrydgard/ppsspp/) - Emulador de PSP gratuito y de código abierto para Windows, macOS, Linux, iOS, Android, BlackBerry 10 y SymbianOS.
 - [PCSX-Reloaded](https://github.com/iCatButler/pcsxr) - Compatible con Microsoft Windows, macOS y Linux.
-- [ePSXe](http://www.epsxe.com/) - Emulador de consola de videojuegos PlayStation para hardware de PC basado en x86 con Microsoft Windows o Linux.
 
-## juegos de DOS
+### DOS
 
-- [The Archive](https://blog.archive.org/2019/10/13/2500-more-ms-dos-games-playable-at-the-archive/) - Archive.org proporciona una forma legítima de Juega casi todos los juegos de DOS gratis en tu navegador.
+- [The Archive](https://blog.archive.org/2019/10/13/2500-more-ms-dos-games-playable-at-the-archive/) - Archive.org proporciona una forma legítima de jugar casi todos los juegos de DOS gratis en tu navegador.
+- [DOSBox](https://www.dosbox.com/) - Emulador de DOS para Windows, Linux y MacOS
 
-## Reempaques
+### SCUMM
 
-- [FitGirl Repacks](http://fitgirl-repacks.site/) - Sitio popular de DDL y torrents para paquetes de juegos.
+- [SCUMMVM](https://www.scummvm.org/) - Técnicamente no un emulador, permite jugar varios juegos clásicos que utilizan el motor SCUMM desarrollado por Lucas Arts (Monkey Island, Myst, Blade Runner, etc.)
+
+## Repacks (PC)
+
+- [FitGirl Repacks](http://fitgirl-repacks.site/) - Sitio popular de descarga directa y torrents para paquetes de juegos.
 - [Xatab Repacks](https://xatab-repack.net) - Repacker de juegos ruso, principalmente torrents.
-- [Juegos de ElAmigos](https://www.elamigos-games.com/) - Enlaces premium a juegos agrietados.
+- [Juegos de ElAmigos](https://www.elamigos-games.com/) - Enlaces premium a juegos crackeados.
 - [qoob.name](http://qoob.name/) - Sitio de repacker.
 - [Reempaquetado de Skidrow](https://skidrowrepacks.com/) - Reempacado del popular reempaquetador SKIDROW. También hay muchas cosas de anime.
-- ["Un script simple para descargar fácilmente las ROM de emulator.games"](https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Guía de Reddit y script de usuario creado por/u/estel_smith para permitir para descargar ROM fácilmente desde Emulator.Games.
 - [BlackBox](http://www.blackboxrepack.com/) - Un foro/sitio muy conocido para paquetes de juegos.
-- [DODI](http://dodi-repacks.site/) - Similar a los paquetes de chicas en forma, conocidos y confiables por miles de personas en todo el mundo.
-- [Juegos de ElAmigos](https://www.elamigos-games.com/) - Enlaces premium a juegos de PC agrietados.
-- [Emulator.Games](https://emulator.games/) - Descargue o reproduzca ROM en su PC, dispositivo móvil, Mac, iOS y dispositivos Android.
+- [DODI](http://dodi-repacks.site/) - Similar a los paquetes de FitGirl, conocidos y confiables por miles de personas en todo el mundo.
 - [Kaoskrew](http://kaoskrew.org/) - Reempaquetado del popular repacker SKIDROW, CPY, Razor1911, PLAZA, etc.
 - [Kapital Sin](http://www.kapitalsin.com/forum/)
 - [NitroBlog](https://nblog.org/) - Un montón de ISO, ROM y reempaquetado.
-- [qoob.name](http://qoob.name/) - Sitio de repacker de equipos de cracker populares como CPY, PLEX, etc.
-- [R.G Mechanics](https://rg-mechanics.org/) - Varios reempaques.
-- [Reempaquetado de Skidrow](https://skidrowrepacks.com/) - Reempacado del popular reempaquetador SKIDROW. ¡Muchas cosas de anime también !.
+- [qoob.name](http://qoob.name/) - Sitio de repacker de equipos de crackers populares como CPY, PLEX, etc.
 - [Tapochek](http://tapochek.net/) - Los paquetes oficiales de R.G Mechanics se pueden encontrar aquí.
-- [Xatab Repacks](https://xatab-repack.net) - (RU) - Repacker de juegos ruso, proporciona principalmente torrents.
-- [Zorro](https://zorro.thebitbrine.com/) - Motor de búsqueda de reempaques de FitGirl, Xatab, Skidrow y más ...
+- [R.G Mechanics](https://rg-mechanics.org/) - Varios reempaques. NO OFICIAL
+- [Reempaquetado de Skidrow](https://skidrowrepacks.com/) - Reempacado del popular reempaquetador SKIDROW. ¡Muchas cosas de anime también!
+- [Zorro](https://zorro.thebitbrine.com/) - Motor de búsqueda de reempaques de FitGirl, Xatab, Skidrow y más...
 - [TorrentGames](https://utorrentgames.org/) - (`RU`) - Sitio de repacker de juegos ruso, entrega los juegos a través de torrent.
 
-## ROM
+## ROMs
 
-- [Guarida de Vimm](https://vimm.net/?p=vault) - Gran colección de ROM.
-- [The Eye ROMs](http://the-eye.eu/public/rom/) - Directorio abierto de ROM de The Eye.
-- [The ROM Depot](https://theromdepot.com/roms/) - Aproximadamente 3 TB de ROM. Es posible que necesite una VPN.
-- [Emulator.Games](https://emulator.games/) - Descargue o reproduzca ROM en su PC, dispositivo móvil, Mac, iOS y dispositivos Android.
-- ["Un script simple para descargar roms de emulator.games fácilmente"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Guía de Reddit y script de usuario creado por/u/estel_smith para permitir para descargar ROM fácilmente desde Emulator.Games.
+- [Guarida de Vimm](https://vimm.net/?p=vault) - Gran colección de ROMs.
+- [The Eye ROMs](http://the-eye.eu/public/rom/) - Directorio abierto de ROMs de The Eye.
+- [The ROM Depot](https://theromdepot.com/roms/) - Aproximadamente 3 TB de ROMs. Es posible que necesites una VPN.
 - [Colección ByAlvRo - 1Fichier Mirror (132 TB varios)](https://pastebin.com/79q1mdZm) - a través de [reddit](https://reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
+- [gazellegames](https://gazellegames.net/) - Colección de Xbox 360.
 - [CDRomance](https://cdromance.com/) - ROM e ISO de PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast y Gamecube.
-- [CoolRom](http://coolrom.com/) - Su opción de emulación número 1.
-- [Digiex](https://digiex.net/forums/) - Un foro para compartir y hablar sobre ROM, juegos y otros juegos de consola.
-- [Emulanium](http://www.emulanium.com/) - Emuladores, trampas y roms.
-- [myabandonware](https://www.myabandonware.com/) - ¡Más de 14.000 juegos antiguos para descargar, gratis !.
+- [CoolRom](http://coolrom.com/) - tu opción de emulación número 1.
+- [Digiex](https://digiex.net/forums/) - Un foro para compartir y hablar sobre ROMs, juegos y consolas.
+- [Emulanium](http://www.emulanium.com/) - Emuladores, trucos y roms.
+- [myabandonware](https://www.myabandonware.com/) - ¡Más de 14.000 juegos antiguos para descargar, gratis!
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - Lista de juegos de Xbox, Nintendo, etc.
-- [Buscador de juegos antiguos](http://www.oldgamesfinder.com/) - Buscador de juegos antiguos es un motor de búsqueda de juegos antiguos automatizado. (evite los enlaces de la Zona ISO, ya que ese sitio está muerto).
-- [Archivo retro](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Colección de todas las ROM basadas en retro.
-- [Pasta central de ROM](https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - Una colección de archivo de varias ROM de consolas de juegos.
+- [Buscador de juegos antiguos](http://www.oldgamesfinder.com/) - Buscador de juegos antiguos es un motor de búsqueda automatizado. (evite los enlaces a la Zona ISO, ya que ese sitio está muerto).
+- [Archivo retro](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Colección de todas las ROMs basadas en retro.
+- [Pasta central de ROM](https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - Una colección de archivo de varias ROMs de consolas de juegos.
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade y otras colecciones de ROM.
-- [Sitios ROM/ISO](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - Página wiki de gametechwiki.com con más enlaces a sitios web ROM e ISO.
-- [ROMNation](https://www.romnation.net/) - Muchas ROM.
-- [Romsmania](https://romsmania.cc/) - Otra gran colección de ROM con una interfaz de usuario decente para encontrar cosas rápidamente.
-- [Romulation.net](https://www.romulation.net/) - Colección de más de ~ 28.000 ROM de juegos de consola.
-- [WowroMs](https://wowroms.com/) - Colección de varias ROM.
+- [Sitios ROM/ISO](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - Página wiki de gametechwiki.com con más enlaces a sitios web ROMs e ISOs.
+- [ROMNation](https://www.romnation.net/) - Muchas ROMs.
+- [Romsmania](https://romsmania.cc/) - Otra gran colección de ROMs con una interfaz de usuario decente para encontrar cosas rápidamente.
+- [Romulation.net](https://www.romulation.net/) - Colección de más de ~ 28.000 ROMs de juegos de consola.
+- [WowroMs](https://wowroms.com/) - Colección de varias ROMs.
+- [Emulator.Games](https://emulator.games/) - Descarga y juega ROMs en tu PC, dispositivo móvil, Mac, iOS y dispositivos Android.
+- ["Un script simple para descargar fácilmente las ROM de emulator.games"](https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Guía de Reddit y script de usuario creado por/u/estel_smith para permitir para descargar ROM fácilmente desde Emulator.Games.
 - [Ziperto](https://www.ziperto.com/) - Archivos CIA de Nintendo 3ds, especialmente para JRPG.
 - [Colección de BIOS de xprism](https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - Colección de BIOS para computadoras, emuladores, consolas y "consolas oscuras" a través de GDrive.
 
 ## Firmware personalizado y casero
 
 - [r/3dshacks](https://www.removeddit.com/r/3dshacks) - Hackeo y homebrew de Nintendo 3DS.
-- [r/ps3homebrew](https://www.removeddit.com/r/ps3homebrew/) - Noticias, actualizaciones, aplicaciones y respuestas sobre PS3 homebrew !.
+- [r/ps3homebrew](https://www.removeddit.com/r/ps3homebrew/) - Noticias, actualizaciones, aplicaciones y respuestas sobre homebrew de PS3.
 - [r/ps4homebrew](https://www.removeddit.com/r/ps4homebrew) - Noticias, lanzamientos y preguntas sobre el jailbreak de PS4, homebrew y modificaciones.
 - [r/SwitchHacks](https://www.removeddit.com/r/Swiacks) - Otro subreddit de piratería de Nintendo Switch.
-- [r/SwitchHaxing](https://www.removeddit.com/r/SwitchHaxing) - Piratería de Nintendo Switch y subreddit homebrew.
+- [r/SwitchHaxing](https://www.removeddit.com/r/SwitchHaxing) - Piratería de Nintendo Switch y subreddit de homebrew.
 - [r/vitahacks](https://www.removeddit.com/r/vitahacks/) - Un lugar para discutir la piratería de Vita y la elaboración casera.
 - [r/WiiHacks](https://www.removeddit.com/r/WiiHacks/) - Este reddit es para personas interesadas en modificar su Wii.
 - [r/YuzuPiracy](https://www.removeddit.com/r/YuzuPiracy) - Enlaces para Yuzu, el emulador de código abierto de Nintendo Switch.
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - Una guía completa del firmware personalizado de 3DS, desde el stock hasta el boot9strap.
-- [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks) - ¡Un subreddit dedicado a la piratería de Wii U y al homebrew !.
+- [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks) - ¡Un subreddit dedicado a la piratería de Wii U y al homebrew!
 - [r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) - Comunidad bastante activa de piratas de PS Vita con guías y lanzamientos.
 
 ## VPN
