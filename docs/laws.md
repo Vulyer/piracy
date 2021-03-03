@@ -1,124 +1,107 @@
 ---
-title: Laws
-sidebar_label: Laws
+título: Leyes
+sidebar_label: Leyes
 ---
 
-- [Senate Votes to Allow FBI to Look at Your Web Browsing History Without a Warrant](https://www.vice.com/en_us/article/jgxxvk/senate-votes-to-allow-fbi-to-look-at-your-web-browsing-history-without-a-warrant)
-- [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
-- [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
-- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
-- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
-- [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
-- [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
-- [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
-- [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
-- [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
-- [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
-- [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
-- [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
-- [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
-- [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
-- [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
+## Proveedores de servicio de Internet (ISP)
 
-## Internet Service Providers
+- [Los principales proveedores de servicios de Internet de EE.UU. se niegan a discutir las políticas de infractores reincidentes]
+- [Los ISP británicos tiran la toalla, dejen de enviar advertencias de infracción de derechos de autor sin dientes](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
+- [Cómo iniciar tu propio ISP](https://startyourownisp.com/) - Inicia tu propio ISP, enumera las herramientas que necesitas y mucha información básica.
 
-- [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
-- [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
-- [How to start your own ISP](https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
-
-### ISPs you should avoid
+### ISPs que debes evitar
 
 - AT&T
 - CenturyLink
-- Comcast/Xfinity
+- Comcast / Xfinity
 - Cox Communications
-- Spectrum/Charter
+- Specter / Charter
 - Telekom
 - Verizon
 - Vodafone
 
-## Piracy status among contries
+## Estado de la piratería entre países
 
-- [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
+- [¿Dónde están permitidos los torrents?](Https://i.imgur.com/3fHyG2S.png) - Un mapa del mundo (imagen) que muestra dónde se permiten los torrents de warez.
 
-### Countries where piracy is permitted
+### Países donde se permite la piratería
 
-:::caution
-For personal use only. Publishing & sharing it is always illegal!
+:::precaución
+Sólo para uso personal. ¡Publicarlos y compartirlos siempre es ilegal!
 :::
 
-- Poland
-- Spain
-- Switzerland
-  - [5/MAY/20 - US Removes Switzerland From ‘Pirate WatchList’](https://torrentfreak.com/us-removes-switzerland-from-pirate-watchlist-200550/)
+- Polonia
+- España
+- Suiza
+  - [5/MAYO/20 - EE.UU. Elimina a Suiza de "Pirate WatchList"](https://torrentfreak.com/us-removes-switzerland-from-pirate-watchlist-200550/)
 
-### Countries where both downloading & sharing is illegal
+### Países donde tanto descargar como compartir es ilegal
 
 - Argentina
 - Bangladesh
-- Brazil
-  - [Operation against digital piracy searches in 12 states](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
-- Canada
+- Brasil
+  - [Operación contra búsquedas de piratería digital en 12 estados](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital- em-sp.ghtml)
+- Canadá
 - Chile
-- Columbia
-- Czech Republic
-- Denmark
-  - [Denmark Blocked 141 Pirate Sites in 2019 But Pirates Are Bypassing The System](https://torrentfreak.com/denmark-blocked-141-pirate-sites-in-2019-but-pirates-are-bypassing-the-system-200503/)
-- Egypt
-- Greece
+- Colombia
+- Republica checa
+- Dinamarca
+  - [Dinamarca bloqueó 141 sitios piratas en 2019, pero los piratas están evitando el sistema](https://torrentfreak.com/denmark-blocked-141-pirate-sites-in-2019-but-pirates-are-bypassing-the-system -200503 /)
+- Egipto
+- Grecia
 - India
-- Iran
+- Irán
 - Israel
-- Malaysia
-- Mexico
-- Netherlands
-- Philippines
-- Romania
-- Singapore
-- Slovakia
-- Slovenia
-- South Korea
+- Malasia
+- México
+- Holanda
+- Filipinas
+- Rumania
+- Singapur
+- Eslovaquia
+- Eslovenia
+- Corea del Sur
 - Uruguay
 - Norge
 - Sverige
 
-### Countries where torrenting copyright material is highly illegal
+### Países donde descargar torrents de material protegido por derechos de autor es altamente ilegal
 
 - Australia
 - China
-- Finland
-- France
-- Germany
-- Itlay
-- Japan
-- Korea
-- Latvia
-- Portugal
-- Russia
-- UAE
-- UK
-- US
+- Finlandia
+- Francia
+- Alemania
+- Italia
+- Japón
+- Corea
+- Letonia
+- portugal
+- Rusia
+- Emiratos Árabes Unidos
+- Reino Unido
+- Estados Unidos
 
-## GeoIP restricted countries
+## Países restringidos por GeoIP
 
-- Canada
+- Canadá
 - China
-- Germany
+- Alemania
 - India
-- Itlay
-- Japan
-- Latvia
-- Malaysia
+- Italia
+- Japón
+- Letonia
+- Malasia
 - Portugal
-- Russia
-- Singapore
-- South Korea
-- UAE
-- UK
-- US
+- Rusia
+- Singapur
+- Corea del Sur
+- Emiratos Árabes Unidos
+- Reino Unido
+- Estados Unidos
 
-## Public DMCA complaints
+## Quejas públicas de DMCA
 
-- [Lumendatabase.org](https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
-- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
-- [Counterfeit and Piracy Watch List (.PDF)](https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
+- [Lumendatabase.org](https://www.lumendatabase.org/) - Una base de datos que Google utiliza para su lista negra, proporciona cientos de enlaces con películas y programas de televisión.
+- [Órdenes judiciales de ISP del Reino Unido](http://www.ukispcourtorders.co.uk/) - Una lista incompleta de sitios web recientemente eliminados en el Reino Unido por el Tribunal Superior.
+- [Lista de vigilancia de falsificaciones y piratería (.PDF)](https://torrentfreak.com/images/tradoc_157564.pdf) - Una lista de 2018 proporcionada por Europol y otros, para ver el estado actual de la piratería.
