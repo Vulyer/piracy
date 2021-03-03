@@ -206,7 +206,7 @@ sidebar_label: Juegos
 
 - [Citra](http://citra-emu.org/) - C++ desarrollado para Nintendo 3DS y es el primero de su tipo. Citra no funciona muy bien con PC más antiguas y necesita una CPU x64.
 
-### Interruptor de Nintendo
+### Nintendo Switch
 
 - [Yuzu](http://yuzu-emu.org/) - El primer y (único) emulador de C++ para Nintendo Switch. De los desarrolladores de Citra.
 
@@ -243,11 +243,10 @@ sidebar_label: Juegos
 
 ## Repacks (PC)
 
-- [FitGirl Repacks](http://fitgirl-repacks.site/) - Sitio popular de descarga directa y torrents para paquetes de juegos.
-- [Xatab Repacks](https://xatab-repack.net) - Repacker de juegos ruso, principalmente torrents.
-- [Juegos de ElAmigos](https://www.elamigos-games.com/) - Enlaces premium a juegos crackeados.
+- [FitGirl](http://fitgirl-repacks.site/) - Sitio popular de descarga directa y torrents para paquetes de juegos.
+- [Xatab](https://xatab-repack.net) - Repacker de juegos ruso, principalmente torrents.
+- [ElAmigos](https://www.elamigos-games.com/) - Enlaces premium a juegos crackeados.
 - [qoob.name](http://qoob.name/) - Sitio de repacker.
-- [Reempaquetado de Skidrow](https://skidrowrepacks.com/) - Reempacado del popular reempaquetador SKIDROW. También hay muchas cosas de anime.
 - [BlackBox](http://www.blackboxrepack.com/) - Un foro/sitio muy conocido para paquetes de juegos.
 - [DODI](http://dodi-repacks.site/) - Similar a los paquetes de FitGirl, conocidos y confiables por miles de personas en todo el mundo.
 - [Kaoskrew](http://kaoskrew.org/) - Reempaquetado del popular repacker SKIDROW, CPY, Razor1911, PLAZA, etc.
@@ -256,7 +255,7 @@ sidebar_label: Juegos
 - [qoob.name](http://qoob.name/) - Sitio de repacker de equipos de crackers populares como CPY, PLEX, etc.
 - [Tapochek](http://tapochek.net/) - Los paquetes oficiales de R.G Mechanics se pueden encontrar aquí.
 - [R.G Mechanics](https://rg-mechanics.org/) - Varios reempaques. NO OFICIAL
-- [Reempaquetado de Skidrow](https://skidrowrepacks.com/) - Reempacado del popular reempaquetador SKIDROW. ¡Muchas cosas de anime también!
+- [Skidrow](https://skidrowrepacks.com/) - Reempacado del popular reempaquetador SKIDROW. ¡Muchas cosas de anime también!
 - [Zorro](https://zorro.thebitbrine.com/) - Motor de búsqueda de reempaques de FitGirl, Xatab, Skidrow y más...
 - [TorrentGames](https://utorrentgames.org/) - (`RU`) - Sitio de repacker de juegos ruso, entrega los juegos a través de torrent.
 
