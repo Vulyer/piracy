@@ -22,6 +22,7 @@ sidebar_label: Discord
 
 ## Servidores
 
+- [Fiesta VLAN](https://discord.gg/cyaYf9gV) - Comunidad centrada en el juego online gratuito a través de cracks y VPNs
 - [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - Servidor oficial de FreeMediaHeckYeah.
 - [Snahp.it](https://discord.gg/ypyKZCj) - Servidor oficial de snahp.it.
 - [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Servidor oficial de f/MEGAlinks.
@@ -42,4 +43,4 @@ sidebar_label: Discord
 - [The Ratio](https://discordapp.com/invite/wab3Qag) - Una comunidad de entusiastas de seedbox. Consejos de compra, configuración de aplicaciones y ayuda de automatización.
 - [WarezNX](https://discord.gg/d6xxuPq) - Servidor comunitario de Nintendo Switch Warez.
 - [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Servidor de Discord basado en la comunidad.
-- [TopNow.se](https://discord.gg/marBA97): ofrece películas, programas de televisión y anime.
+- [TopNow.se](https://discord.gg/marBA97) - Ofrece películas, programas de televisión y anime.
