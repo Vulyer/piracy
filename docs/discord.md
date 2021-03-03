@@ -1,45 +1,45 @@
 ---
-title: Discord
+título: Discord
 sidebar_label: Discord
 ---
 
-- [BetterDiscord](https://github.com/JsSucks/BetterDiscordApp) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
-- [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
-- [Discord WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
-- [Discord notifications 1: Sonarr, Radarr and Lidarr](http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
-- [Discord toolkit](http://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
-- [DiscordCrypt](http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each another!).
-- [Do Not Track for Discord](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/DoNotTrack) - A plugin for BetterDiscord to prevent Discord tracking.
-- [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
-- [cache-monkey](https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also has a feature to purge the cache too.
+- [BetterDiscord](https://github.com/JsSucks/BetterDiscordApp) - Mejora Discord con mejores temas y agrega algunos complementos / scripts agradables.
+- [Raspador de canal de Discord](https://github.com/simon987/Discord-Channel-scraper) - Lee un número arbitrario de líneas de un canal de Discord.
+- [Discord WarezBot](https://github.com/enzobes/WarezBot) - Versión pública del bot de Discord para lanzamientos de la escena.
+- [Notificaciones de Discord 1: Sonarr, Radarr y Lidarr](http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - Un breve tutorial para trabajar con Sonarr que notifica a los usuarios de Discord sobre nuevos lanzamientos.
+- [Kit de herramientas de Discord](http://notabug.org/johndoe5436/discord-toolkit) - Creador de cuentas por lotes de Discord.
+- [DiscordCrypt](http://gitlab.com/leogx9r/DiscordCrypt) - Cifrado para Discord - también está [Simple DiscordCrypt](http://gitlab.com/An0/SimpleDiscordCrypt) - que funciona con la versión web de Discord (¡Ambos no son compatibles entre sí!).
+- [Do Not Track for Discord](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/DoNotTrack) - Un complemento para BetterDiscord para evitar el seguimiento.
+- [Ejecutando una eliminación completa](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Potente script para eliminar el historial completo de mensajes de Discord.
+- [cache-monkey](https://github.com/jamiepine/cache-monkey) - Cachemonkey, para ver imágenes almacenadas en el caché de discord, funciona para recuperar imágenes que fueron cargadas por el cliente de discord pero que fueron eliminadas. También tiene una función para purgar la caché.
 
-## Discord Clients
+## Clientes
 
-- [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
-- [Quarrel](https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
-- [PowerCord](https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
-- [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
+- [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) - Un mod de cliente de Discord ligero.
+- [Quarrel](https://github.com/UWPCommunity/Quarrel) - Un cliente de Discord de UWP para Windows 10.
+- [PowerCord](https://github.com/powercord-org/powercord) - Un mod de cliente de Discordapp ligero centrado en la simplicidad y el rendimiento.
+- [Ripcord](https://cancel.fm/ripcord/) - Un cliente de Discord de código cerrado sin seguimiento ni análisis (sin parte del marco electrónico).
 
-## Discord servers
+## Servidores
 
-- [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server.
-- [Snahp.it](https://discord.gg/ypyKZCj) - Official Discord server for snahp.it.
-- [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Official f/MEGAlinks Discord server.
-- [/hbg/ Homebrew General](https://discord.io/homebrew) - A Discord server that shares _newer_ Nintendo Switch Games.
-- [r/PkgLinks](https://discord.io/PkgLinks) - Reddup game sharing Discord Server.
-- [r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
-- [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
-- [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
-- [AniméVibe](https://discordapp.com/invite/4QGvkw8) - Official AniméVibe Discord channel.
-- [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
-- [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
-- [DoujinStyle](https://discord.gg/z2QDFdA) - Discord server with Doujin related materials. Things such as Japanese doujin music & games.
-- [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the official DreamTV Android app.
-- [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
-- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) - official Discord server.
-- [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
-- [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
-- [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
-- [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
-- [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord server.
-- [TopNow.se](https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
+- [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - Servidor oficial de FreeMediaHeckYeah.
+- [Snahp.it](https://discord.gg/ypyKZCj) - Servidor oficial de snahp.it.
+- [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Servidor oficial de f/MEGAlinks.
+- [/hbg/Homebrew General](https://discord.io/homebrew) - Un servidor de Discord que comparte _newer_ juegos de Nintendo Switch.
+- [r/PkgLinks](https://discord.io/PkgLinks) - Servidor de Reddup.
+- [r/soccerstreams](https://discord.gg/geyTtth) - Servidor oficial del subreddit /r/soccerstreams recientemente eliminado.
+- [9YearOldPirates](https://discord.gg/3YCF8u) - Servidor oficial de Discord para el grupo de relevos 9YearOldPirates.
+- [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Canal oficial de AniméGlare.
+- [AniméVibe](https://discordapp.com/invite/4QGvkw8) - Canal oficial de AniméVibe.
+- [APK'S 2 Day](https://discord.gg/2qWqzN8) - Este es un servidor de Discord que actúa como un centro para numerosas aplicaciones de transmisión.
+- [ApolloTV](https://discordapp.com/invite/DT9SgYE) - El servidor oficial de ApolloTV Discord.
+- [DoujinStyle](https://discord.gg/z2QDFdA) - Servidor de Discord con materiales relacionados con Doujin. Cosas como música y juegos de doujin japoneses.
+- [DreamTV](https://discordapp.com/invite/FQkQz6g) - Un servidor de Discord para la aplicación oficial de DreamTV para Android.
+- [club de adquisición legal](https://discordapp.com/invite/UmWJVvH) - Un servidor de piratería para discutir y compartir películas, televisión y aplicaciones.
+- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) - servidor oficial de Discord.
+- [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Hogar de /r/ps3homebrew y /r/ps4homebrew.
+- [The Eye](https://discordapp.com/invite/py3kX3Z) - Servidor oficial de Discord para The-Eye.eu.
+- [The Ratio](https://discordapp.com/invite/wab3Qag) - Una comunidad de entusiastas de seedbox. Consejos de compra, configuración de aplicaciones y ayuda de automatización.
+- [WarezNX](https://discord.gg/d6xxuPq) - Servidor comunitario de Nintendo Switch Warez.
+- [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Servidor de Discord basado en la comunidad.
+- [TopNow.se](https://discord.gg/marBA97): ofrece películas, programas de televisión y anime.
