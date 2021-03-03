@@ -1,28 +1,28 @@
 ---
-title: File Sharing
-sidebar_label: File Sharing
+title: Uso compartido de archivos
+sidebar_label: Uso compartido de archivos
 ---
 
-- [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
-- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
-- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
-- [DBREE](http://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
-- [Envelop](https://github.com/envelop-app) - Decentralized file sharing app via [Web](https://envelop.app/)/[Android](https://play.google.com/store/apps/details?id=app.envelop).
-- [FilePizza](http://file.pizza/) - Free peer-to-peer file transfers in your browser.
-- [Filezilla](http://filezilla-project.org/) - The free & open source (S)FTP solution.
-- [Flareget](http://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
-- [Fopnu](http://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
-- [Nord Locker](https://nordlocker.com/) - Store and share your files securely, 5 GB are free.
-- [Mega.nz Website](http://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
-- [Meiga](http://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
-- [NitroShare](http://nitroshare.net/) - Cross-Platform network file transfer application.
-- [OnionShare](http://onionshare.org/) - Securely and anonymously share a file of any size.
-- [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
-- [Muwire](https://muwire.com/) - I2P based file-sharing program.
-- [Plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
-- [PushBullet for desktop](http://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
-- [PushBullet](http://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
-- [Quazaa](http://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) - file-sharing client.
-- [Wormhole](https://github.com/warner/magic-wormhole) - Get arbitrary-sized files and directories (or short pieces of text) - from one computer to another safely.
-- [aria2](http://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
-- [uds](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
+- [Cargador de archivos e imágenes](http://z-o-o-m.eu/) - El programa más completo para cargar archivos e imágenes en diferentes servidores.
+- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP hace que sea extremadamente sencillo administrar las tareas relacionadas con FTP.
+- [D-lan](http://www.d-lan.net/) - Un software gratuito para compartir archivos en LAN.
+- [DBREE](http://dbr.ee/) - DBREE es una forma sencilla y sencilla de cargar y compartir cualquier tipo de archivo.
+- [Envelop](https://github.com/envelop-app) - Aplicación para compartir archivos descentralizada a través de [Web](https://envelop.app/) / [Android](https://play.google.com /store/apps/details?id=app.envelop).
+- [FilePizza](http://file.pizza/) - Transferencias gratuitas de archivos punto a punto en su navegador.
+- [FileZilla](http://filezilla-project.org/) - La solución FTP gratuita y de código abierto (S).
+- [Flareget](http://flareget.com/) - Acelerador y administrador de descargas multiproceso con todas las funciones.
+- [Fopnu](http://fopnu.com/) - Fopnu es una herramienta de red nueva y descentralizada para compartir archivos a través de P2P.
+- [Nord Locker](https://nordlocker.com/) - Almacena y comparte tus archivos de forma segura, 5 GB son gratis.
+- [Sitio web de Mega.nz](http://mega.nz/#sync) - Fácil sincronización automatizada entre tus computadoras y tu unidad en la nube MEGA.
+- [Meiga](http://meiga.igalia.com/) - Una herramienta que permite compartir directorios locales seleccionados a través de la web.
+- [NitroShare](http://nitroshare.net/) - Aplicación de transferencia de archivos de red multiplataforma.
+- [OnionShare](http://onionshare.org/) - Comparta de forma segura y anónima un archivo de cualquier tamaño.
+- [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Aplicación web que indiza todos los sitios populares de torrents y los guarda en la base de datos local.
+- [Muwire](https://muwire.com/) - Programa de intercambio de archivos basado en I2P.
+- [Plowshare](https://github.com/mcrapet/plowshare) - Herramienta de línea de comandos y motor para administrar sitios web para compartir.
+- [PushBullet para escritorio](http://sidneys.github.io/pb-for-desktop/) - La aplicación de escritorio que faltaba para Pushbullet.
+- [PushBullet](http://www.pushbullet.com/) - Pushbullet conecta tus dispositivos, haciéndolos sentir como uno.
+- [Quazaa](http://sourceforge.net/projects/quazaa/) - Un cliente de intercambio de archivos (P2P) multiplataforma y de múltiples redes.
+- [Wormhole](https://github.com/warner/magic-wormhole) - Obtén archivos y directorios de tamaño arbitrario (o fragmentos de texto cortos) de una computadora a otra de forma segura.
+- [aria2](http://aria2.github.io/) - Utilidad de descarga de línea de comandos multiprotocolo y fuente múltiple liviana.
+- [uds](https://github.com/stewartmcgown/uds) - Utilidad de código abierto para dividir sus archivos en partes babse64 que son lo suficientemente pequeñas como para cargarlas en Google Docs.
