@@ -1,63 +1,63 @@
 ---
-title: Direct Downloads
+title: Descarga directa
 sidebar_label: DDL
 ---
 
-- [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
-- [Plowshare](https://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.
-- [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to.
-- [WFDownloader App](http://www.wfdownloader.xyz/) - Batch downloader ultility.
-- [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Beginner guide on how to use `wget`.
-- [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
+- [Plowshare](https://github.com/mcrapet/plowshare) - Herramienta y motor de línea de comandos para administrar sitios web para compartir.
+- [pyLoad](https://pyload.net/) - Descargador ligero, personalizable y administrable de forma remota para sitios de alojamiento con 1 clic como rapidshare.com o uploaded.to.
+- [Aplicación WFDownloader](http://www.wfdownloader.xyz/) - Ultilidad de descarga por lotes.
+- [wget - una guía para principiantes](https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Guía para principiantes sobre cómo usar `wget`.
+- [Cómo omitir el límite de Mega Quota a través de JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
 
-## Download Managers
+## Gestores de descargas
 
-- [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. The [Event Scripter Scripts](http://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) - are a nice addition to "tweak" your JD with some scripts.
-- [Internet Download Manager](http://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
-  - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) - Use IDM forever without cracking.
-  - [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Unlimited downloading from Mega.nz with IDM.
-- [pyIDM](https://github.com/pyIDM/PyIDM) - Python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui.
-- [Ant Download Manager](http://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
-- [Xtreme Download Manager](http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
-- [FreeDownloadManager](https://www.freedownloadmanager.org/) - FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files.
-- [EagleGet](http://www.eagleget.com/) - EagleGet is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
-- [uGet](http://ugetdm.com/) - Open Source Download Manager.
+- [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader es una herramienta de administración de descargas de código abierto y gratuita con una gran comunidad de desarrolladores que hace que la descarga sea tan fácil y rápida como debería ser. [Event Scripter Scripts](http://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) - son una buena adición para "modificar" su JD con algunos scripts.
+- [Administrador de descargas de Internet](http://www.internetdownloadmanager.com/) - Uno de los mejores administradores de descargas de shareware para Windows.
+  - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) - Usar IDM para siempre sin crack.
+  - [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Descarga ilimitada de Mega.nz con IDM.
+- [pyIDM](https://github.com/pyIDM/PyIDM) - Alternativa de código abierto de Python a IDM (Internet Download Manager) con múltiples conexiones, motor de alta velocidad, basado en python, pycurl, youtube_dl y pysimplegui.
+- [Ant Download Manager](http://antdownloadmanager.com/) - Ant Download Manager es similar a IDM (también de pago).
+- [Xtreme Download Manager](http://sourceforge.net/projects/xdman/) - Alternativa de código abierto a IDM.
+- [FreeDownloadManager](https://www.freedownloadmanager.org/) - FDM puede aumentar todas tus descargas hasta 10 veces, procesar archivos multimedia de varios formatos populares, arrastrar y soltar URL directamente desde un navegador web y descargar simultáneamente varios archivos.
+- [EagleGet](http://www.eagleget.com/) - EagleGet es un administrador de descargas todo en uno gratuito, ligero y rápido, compatible con todos los navegadores populares y descargas de muchos servicios de transmisión, una alternativa perfecta a IDM.
+- [uGet](http://ugetdm.com/) - Administrador de descargas de código abierto.
 
-## DDL Tools
+## Herramientas
 
-- [youtube-dl](https://rg3.github.io/youtube-dl/) - A command-line program to download videos from YouTube.com and a few more sites.
-  - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - A cross-platform front-end GUI of the popular youtube-dl written in wxPython.
-  - [youtube-dl-helper](https://youtube-dl-helper.github.io/) - Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows).
-- [wget](http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
-  - [wget for Windows](http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
-- [MEGAsync](http://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-  - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-  - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
-  - [megadown](https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
-  - [megatools](https://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
-- [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader.
-- [aria2](http://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility.
-- [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
-- [axel](https://github.com/axel-download-accelerator/axel) - Light command line download accelerator.
-- [curl](http://en.wikipedia.org/wiki/CURL) - `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer.
-- [grayhatwarfare S3 bucket search](http://buckets.grayhatwarfare.com/) - Not likely to find much with this one but interesting nonetheless.
-- [Leonflix](http://leonflix.net/) - A multi-platform desktop app for finding movies and TV shows.
-- [Google Drive direct download link generator](http://maulvi.github.io/)
-- [netclix](https://github.com/ston3o/netclix) - A simple cli tool to get movie streaming premium links from VodLocker's API.
-- [Persepolis](http://persepolisdm.github.io/) - Front-end for aria2.
-- [rdcli](https://github.com/ston3o/rdcli) - The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid.
-- [ripme](https://github.com/RipMeApp/ripme) - A album/video downloader with support for over 80 sites.
-- [Swiss Transfer](http://www.swisstransfer.com/en) - Share Files up to 25GB.
-- [YouTube MP3 Rip](http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
-- [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
-- [Massivedl](https://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
-- [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-- [drivedl](https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
+- [youtube-dl](https://rg3.github.io/youtube-dl/) - Un programa de línea de comandos para descargar videos de YouTube.com y algunos sitios más.
+  - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - Una interfaz gráfica de usuario multiplataforma del popular youtube-dl escrito en wxPython.
+  - [youtube-dl-helper](https://youtube-dl-helper.github.io/) - Utiliza youtube-dl para descargar video / audio de muchos sitios sin necesidad de usar la línea de comandos (para Windows) .
+- [wget](http://www.gnu.org/software/wget/) - `wget` es una herramienta gratuita y de código abierto para descargar archivos usando HTTP, HTTPS, FTP y FTPS. Se puede llamar fácilmente desde scripts, cronjobs, terminales sin soporte para X-Windows, etc.
+  - [wget para Windows](http://eternallybored.org/misc/wget/) - Una utilidad de línea de comandos para recuperar archivos mediante los protocolos HTTP, HTTPS y FTP.
+- [MEGAsync](http://mega.nz/sync) - Fácil sincronización automatizada entre su computadora y su cuenta MEGA. Puede transmitir videos Mega directamente.
+  - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js te permite compartir tus archivos Mega.nz sin tener que compartir ningún enlace Mega.nz cifrándolos para crear un proxy a tus archivos.
+  - [megabasterd](https://github.com/tonikelope/megabasterd) - Otro paquete de descarga / carga / transmisión de MEGA multiplataforma no oficial (y feo).
+  - [megadown](https://github.com/tonikelope/megadown) - Script Bash para descargar archivos de mega.nz y megacrypter.
+  - [megatools](https://github.com/megous/megatools) - Herramientas de línea de comandos de código abierto y biblioteca C (libmega) - para acceder al almacenamiento en la nube de Mega.co.nz.
+- [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Script Bash para descargar archivos por lotes desde Zippyshare.
+- [annie](https://github.com/iawia002/annie) - Descargador de videos rápido, simple y limpio.
+- [aria2](http://aria2.github.io/) - Una utilidad de descarga de línea de comandos multiprotocolo y fuente múltiple liviana.
+- [Photon](https://github.com/alanzhangzm/Photon) - Un descargador ligero de múltiples subprocesos basado en aria2.
+- [axel](https://github.com/axel-download-accelerator/axel) - Acelerador de descarga de línea de comando ligero.
+- [curl](http://en.wikipedia.org/wiki/CURL) - `curl` es una herramienta de línea de comandos para descargar datos usando una variedad de protocolos. Fácilmente instalable en la mayoría de los sistemas operativos.
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Una utilidad para descargar programas de radio y televisión de BBC iPlayer.
+- [Búsqueda de cubos de grayhatwarfare S3](http://buckets.grayhatwarfare.com/) - No es probable que encuentre mucho con este, pero de todos modos es interesante.
+- [Leonflix](http://leonflix.net/) - Una aplicación de escritorio multiplataforma para buscar películas y programas de televisión.
+- [Generador de enlaces de descarga directa de Google Drive](http://maulvi.github.io/)
+- [netclix](https://github.com/ston3o/netclix) - Una sencilla herramienta cli para obtener enlaces premium de transmisión de películas desde la API de VodLocker.
+- [Persepolis](http://persepolisdm.github.io/) - Interfaz de usuario para aria2.
+- [rdcli](https://github.com/ston3o/rdcli) - La forma sencilla de descargar y eliminar las restricciones de archivos de descarga directa, torrents y magnets utilizando Real-Debrid.
+- [ripme](https://github.com/RipMeApp/ripme) - Un descargador de álbumes / videos con soporte para más de 80 sitios.
+- [Swiss Transfer](http://www.swisstransfer.com/en) - Comparta archivos de hasta 25 GB.
+- [YouTube MP3 Rip](http://youtubemp3.rip/) - Descargue videos musicales de YouTube como archivos MP3 sin registrarse.
+- [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Aplicación única y poderosa para descargar videos NetFlix de forma rápida y gratuita.
+- [Massivedl](https://github.com/dimkouv/massivedl) - Una herramienta de línea de comandos que ayuda a descargar una gran cantidad de archivos de la web en poco tiempo.
+- [instaloader](https://github.com/instaloader/instaloader) - Descarga imágenes (o videos) junto con sus leyendas y otros metadatos de Instagram.
+- [drivedl](https://github.com/architdate/drivedl) - Descargar archivos de Google Drive (incluidas las unidades de equipo, compartidas conmigo y mi unidad) al mismo tiempo.
 
 ## RapidLeech
 
-- [RapidLeech](https://github.com/Th3-822/rapidleech) - Rapid Leech is a free server transfer script for use on various popular upload/download sites.
+- [RapidLeech](https://github.com/Th3-822/rapidleech) - Rapid Leech es un script de transferencia de servidor gratuito para usar en varios sitios populares de carga / descarga.
 - [a092devsxd.herokuapp](http://a092devsxd.herokuapp.com/)
 - [ahputuleech.herokuapp](http://ahputuleech.herokuapp.com)
 - [alterink](http://www.alterink.com)
@@ -92,207 +92,207 @@ sidebar_label: DDL
 - [yes-original.com](https://yes-original.com/home/rapidleech-master/index.php)
 - [zarni.herokuapp](http://zarni.herokuapp.com)
 
-## Streaming
+## Transmisión
 
-- [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
-- [HDencode](https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
-- [Movie Files](https://moviefiles.org/) - Download Movies For free.
-- [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
-- [DL WarezForums](https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
-- [TTDG](http://185.105.101.95/) - Movies via streaming.
+- [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net es un sitio web gratuito en línea, que le permite descargar una URL de video de YouTube, Facebook, Dailymotion, Vimeo y más.
+- [HDencode](https://hdencode.com/) - Descarga de películas y programas de televisión - Fuente n. ° 1 para lanzamientos de alta definición.
+- [Archivos de película](https://moviefiles.org/) - Descargar películas gratis.
+- [Movies "R" Us](https://moviesrus.tk) - Las películas más recientes en 1080p. Disponible con descarga directa a través de MediaFire y transmisión a través de Anonfile.
+- [DL WarezForums](https://dr.warezforums.com/) - Descargas directas y transmisión directa, películas, archivos y más.
+- [TTDG](http://185.105.101.95/) - Películas por streaming.
 
 ## FTP
 
-- [glFTPd](http://glftpd.io/) - A great FTP server for anyone on a \*NIX platform.
-- [DrFTPD](https://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.
-- [FlashFXP](http://www.flashfxp.com/) - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
-- [ioFTPD](http://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
-- [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.
-- [Davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
-- [Mamont's open FTP Index](https://www.mmnt.net/) - Browsable directory listing of publicly available FTP-sites.
-- [Napalm FTP Indexer](https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
-- [pftp](https://www.pftp.de/) - Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
+- [FileZilla](https://filezilla-project.org/) - Cliente/Servidor FTP con interfaz gráfica.
+- [glFTPd](http://glftpd.io/) - Un gran servidor FTP para cualquiera en una plataforma \ * NIX.
+- [DrFTPD](https://github.com/drftpd-ng/drftpd3) - Servidor FTP distribuido Daemon v3.
+- [FlashFXP](http://www.flashfxp.com/) - Cliente FTP de Windows. Admite transferencias de archivos FTP, FXP, FTPS y SFTP. Descarga de prueba gratuita.
+- [ioFTPD](http://www.flashfxp.com/forum/ioftpd/ioftpd/) - Daemon FTP rápido y ligero para Windows.
+- [RaidenFTPD](http://www.raidenftpd.com/en/) - Software de servidor FTP para Windows 7: RaidenFTPD es un software de servidor FTP ampliamente utilizado. Funciona con clientes FTP de Windows / Mac / Linux e IE.
+- [Davos](https://github.com/linuxserver/davos) - Automatización FTP basada en web para servidores Linux.
+- [Índice FTP abierto de Mamont](https://www.mmnt.net/) - Lista de directorios navegables de sitios FTP disponibles públicamente.
+- [Napalm FTP Indexer](https://www.searchftps.net/) - NAPALM FTP Indexer permite buscar y descargar archivos ubicados en servidores FTP públicos.
+- [pftp](https://www.pftp.de/) - Port-File-Transfer-Program para no confundirse con el FTP estándar que es bastante diferente, le permite enviar y recibir directorios de forma recursiva y mover los directorios.
 
-## Search Engines and Crawlers
+## Motores de búsqueda y rastreadores
 
-- [ololo](https://ololo.to/) - A video streaming link search engine.
-- [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts.
-- [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
-- [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
-- [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters.
-- [OD-Database](https://od-db.the-eye.eu/) - Database of searchable open directories curated by The-Eye.eu.
-- [IPLIVE](https://iplive.club/) - DDL search engine.
-- [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
-- [ololo](https://ololo.to/) - A video streaming link search engine.
-- [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
-- [Anonembed](http://anonembed.xyz/) - Search Engine for Rapidvideo, Google Drive, Google photos, Verystream & more.
-- [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
-- [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
+- [ololo](https://ololo.to/) - Un motor de búsqueda de enlaces de transmisión de video.
+- [MegaSearch](http://megasearch.co) - Motor de búsqueda para encontrar contenido alojado en Mega y otros hosts premium.
+- [VideoSpider](https://videospider.in/) - VideoSpider rastrea varios sitios web y motores de búsqueda para encontrar enlaces de transmisión de películas y episodios de TV.
+- [Orion](https://orionoid.com/) - Orion es un servicio que indexa metadatos y enlaces de una variedad de sitios web y redes públicas, incluidos los índices de torrents, Usenet y de alojamiento.
+- [Alluc](https://w1.alluc.uno/) - Motor de búsqueda con más de 80 millones de enlaces de transmisión de más de 700 servicios VOD, servidores de vídeo y servidores de archivos.
+- [OD-Database](https://od-db.the-eye.eu/) - Base de datos de directorios abiertos con capacidad de búsqueda curada por The-Eye.eu.
+- [IPLIVE](https://iplive.club/) - Motor de búsqueda DDL.
+- [SoftArchive](https://sanet.st/full/) - SoftArchive o SA es un sitio web de lanzamiento de escenas, más conocido por los nuevos lanzamientos de software, juegos, música, películas y libros electrónicos.
+- [ololo](https://ololo.to/) - Un motor de búsqueda de enlaces de transmisión de video.
+- [Orion](https://orionoid.com/) - Orion es un servicio que indexa metadatos y enlaces de una variedad de sitios web y redes públicas, incluidos los índices de torrents, usenet y hoster.
+- [Anonembed](http://anonembed.xyz/) - Motor de búsqueda para Rapidvideo, Google Drive, Google photos, Verystream y más.
+- [FilesLoop](https://www.filesloop.com/) - Busque y descargue torrents y archivos desde varios alojamientos de archivos como Uploaded, etc.
+- [Rapidlinks](https://rapidlinks.org) - (RU) - Motor de búsqueda ruso para varios sharehoster.
 
-## DDL Link Sites
+## Sitios de enlaces de descarga directa
 
-- [snahp.it](https://snahp.it/) - Replaced /r/megalinks.
-  - [Snahp.it Forum](https://forum.snahp.it/) - (registration disabled) - A popular forum which provides links to HD rips & software (mostly mega & zippyshare).
-- [BlackPearl.biz](https://blackpearl.biz/) - Drop-in replacement for snahp.it while their registrations remain closed.
-- [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
-- [TwoDDL](http://2ddl.ws) - Direct download links.
+- [snahp.it](https://snahp.it/) - Reemplaza a /r/megalinks.
+  - [Foro de Snahp.it](https://forum.snahp.it/) - (registro deshabilitado) - Un foro popular que proporciona enlaces a programas y copias en HD (principalmente mega y zippyshare).
+- [BlackPearl.biz](https://blackpearl.biz/) - Reemplazo directo de snahp.it mientras sus registros permanezcan cerrados.
+- [Movies "R" Us](https://moviesrus.tk) - Las películas más recientes en 1080p. Disponible con descarga directa a través de MediaFire y transmisión a través de AnonFile.
+- [TwoDDL](http://2ddl.ws) - Enlaces de descarga directa.
 - [RapidMoviez](http://rmz.cr/)
 - [MkvCage](https://www.mkvcage.ws/)
-- [movidy](https://movidy.co) - Links for movies and shows in Spanish.
+- [movidy](https://movidy.co) - Enlaces para películas y programas en español.
 - [watchtvseries](http://watchtvseries.unblckd.club/)
 - [ScnLog](https://scnlog.me/)
-- [Movie-blog.org](http://movie-blog.sx/) - German site for movies.
-- [Movieworld.to](http://movieworld.to/) - Another German site for movies.
-- [DDL-Music](https://ddl-music.to/) - German site for music.
-- [480mkv](http://480mkv.com/) - 480p DDL for TV Shows.
-- [r/FREEMEDIAFUCKYEAH/](https://reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, movies and more.
-- [r/DataHoarder/](https://reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
-- [r/ZippyShare](https://www.removeddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK, Germany and other countries_).
-- [Zippy Direct](https://zippy.direct/) - ZippyShare proxy.
-- [0DayDown](https://www.0daydown.com/) - (CN/EN) - macOS, Music & other links (works with JDownloader).
-- [3dl.tv](https://3dl.tv/) - Music, Movies, TV Shows, apps & more.
-- [AdiT-HD](https://adit-hd.com/) - Direct movie download database.
-- [AppNee Freeware Group](https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, Adobe & more.
-- [Audioz](https://audioz.download/) - Provides Audio related software like Cubase etc.
-- [AvaxHome](https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [AVXHome](http://avxhome.se/) - Best of eBooks, Software, Mag & more.
-- [BetaArchive](https://www.betaarchive.com/) - Windows ISOs, Windows tools & more.
-- [Board4All](https://www.board4all.biz/) - A forum which provides and shares all sorts of stuff.
-- [Boerse.to](https://boerse.to/) - (GER) - (blocked by some ISP) - A big and well-known german warez forum.
-- [Byte.to](https://byte.to/) - (GER) - Movies (SD/HD/UHD), Docus, WWE & Series.
-- [CWER.ws](https://cwer.ws) - (RU) - Well-known russian board for web warez.
-- [DDL-Warez](https://ddl-warez.to/) - (GER) - German software, movies & tv board.
-- [DDLValley](https://www.ddlvalley.me/) - DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
-- [DownloadBoerse.io](http://downloadboerse.io/forum/) - German mygully clone.
-- [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) - Pastebin user who uploads premium links for TV shows.
-- [DirtyWarez Forum](https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
-- [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
-- [Dospelis](https://www.dospelis.net) - Spanish DDL indexer.
-- [DownArchive](http://downarchive.org/) - DDL blog with premium links on a number of hosts. Lots of software.
-- [DownloadLY.IR](http://downloadly.ir/) - (IR) - Software download portal.
-- [DownTurk](http://www.downturk.net/) - Software portal.
-- [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
-- [FilmRls](https://filmrls.com/) - Movies, Series and TV Shows.
-- [filewarez.tv](https://filewarez.tv/) - Invite-only, hosts both Mega and Google Drive links for TV shows.
-- [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) - Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!).
-- [GLOAD.cc](https://gload.cc/) - Provides Zippyshare as download-friendly mirrors.
-- [hdencode](https://hdencode.com/) - Videos/Movies in HD Quality.
-- [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
-- [Intercambios Virtuales](http://www.intercambiosvirtuales.org/) - Yet another software portal.
-- [IntoTheInter](https://intotheinter.net/) - (EN) - (needs invite) - Android apps, Windows Software & Games.
-- [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!.
-- [Mawto](https://www.mawtoload.com/) - (IR) - Android apps, Windows Software & Games.
-- [MaxRelease](http://max-rls.com/) - Games, software, magazines, movies, music & tv shows.
-- [Movie Glide](https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
-- [MovieFiles](https://moviefiles.org/) - Direct download search engine which generates Google Drive links.
-- [Moviesleak](https://moviesleak.net/) - Yet another movie page, the focus is in IMDB announcements.
-- [Mutaz](https://www.mutaz.net/free-programs/) - Tracks scene software releases.
-- [NGB.to](https://ngb.to/) - Another Gulli/MyGully clone.
-- [Nsane Forum](https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
-- [NitroBlog](https://nblog.org/) - PC, PS3, VITA, WII & ISO ROMs.
-- [NulledTeam Underground](https://www.nulledteam.com/) - Software forum for nulled script/tools/software.
-- [PCPortal](https://pcportal.org/) - (RU) - One of the biggest russian software forums.
-- [PSARips](https://psarips.com/) - Popular site for movies and TV shows, includes torrent files.
-- [RADIXX11](https://radixx11rce2.blogspot.com) - (EN-US) - Software forum.
-- [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
-- [ReleaseBB](https://rlsbb.ru/) - (RU) - Russian Software Portal.
-- [RSLinks](https://rslinks.org/) - Tracks scene software releases and mirrors them.
-- [Rsload](https://rsload.net/) - (RU/EN) - A big software portal.
-- [RU-Board](http://forum.ru-board.com/) - (RU) - Well-known russian warez board.
-- [RuTracker](https://rutracker.cr/) - (RU) - If you didn't alreay knew RUTracker you never heard of Warez at all.
-- [SceneSource](https://scnsrc.me/) - WordPress powered website dedicated to bringing you the latest info on new scene releases.
-- [Soft98.iR](https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
-- [SANET](http://sanet.ws/) - SoftArchive is the oldest and most reliable resource for direct downloa- [SolidShare](https://www.solidshare.net/) - (TR) - Software Portal.
-- [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
-- [TNCTR](https://www.tnctr.com/) - (TR) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
-- [UpTown](https://en.uptodown.com/) - Software portal.
-- [UHDMV](https://uhdmv.com/) - Yet another alternative to the popular Snahp website.
-- [Vidics](https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
-- [Warez-BB.org](https://warez-bb.org/) - Elite warez forum. (invite needed).
-- [WarezBB.org](http://warezbb.org/) - Invite-only elite forum.
-- [WarezForums](https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
-- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
-- [WatchTVSeries](https://watchtvseries.unblocked.krd/) - Watch TV shows online.
-- [ZeroBoard](https://zeroboard.org/) - A board which provides Windows related stuff.
-- [up4pc](https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
-- [CB01.uno](https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
-- [Release BB](http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
+- [Movie-blog.org](http://movie-blog.sx/) - Sitio alemán de películas.
+- [Movieworld.to](http://movieworld.to/) - Otro sitio alemán de películas.
+- [DDL-Music](https://ddl-music.to/) - Sitio alemán de música.
+- [480mkv](http://480mkv.com/) - Descarga directa de 480p para programas de televisión.
+- [r/FREEMEDIAFUCKYEAH /](https://reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, películas y más.
+- [r/DataHoarder /](https://reddit.com/r/DataHoarder/) - Compartir enlaces de descarga (similar a /r/opendirectories/).
+- [r/ZippyShare](https://www.removeddit.com/r/ZippyShare) - (Multi) - Enlaces DD alojados en ZippyShare (_bloqueados en el Reino Unido, Alemania y otros países_).
+- [Zippy Direct](https://zippy.direct/) - Proxy ZippyShare.
+- [0DayDown](https://www.0daydown.com/) - (CN / EN) - macOS, Música y otros enlaces (funciona con JDownloader).
+- [3dl.tv](https://3dl.tv/) - Música, películas, programas de televisión, aplicaciones y más.
+- [AdiT-HD](https://adit-hd.com/) - Base de datos de descarga directa de películas.
+- [AppNee Freeware Group](https://appnee.com/) - Sitio DD masivo, libros electrónicos, programas, juegos, sistemas operativos, Adobe y más.
+- [Audioz](https://audioz.download/) - Proporciona software relacionado con audio como Cubase, etc.
+- [AvaxHome](https://avxhm.se) - Otro sitio DDL con libros electrónicos, TV, películas, revistas, software, cómics, periódicos, juegos, gráficos, etc.
+- [AVXHome](http://avxhome.se/) - Lo mejor en libros electrónicos, software, revistas y más.
+- [BetaArchive](https://www.betaarchive.com/) - ISO de Windows, herramientas de Windows y más.
+- [Board4All](https://www.board4all.biz/) - Un foro que ofrece y comparte todo tipo de cosas.
+- [Boerse.to](https://boerse.to/) - (GER) - (bloqueado por algún ISP) - Un gran y conocido foro de warez alemán.
+- [Byte.to](https://byte.to/) - (GER) - Películas (SD / HD / UHD), Docus, WWE y Series.
+- [CWER.ws](https://cwer.ws) - (RU) - Conocido foro ruso para web warez.
+- [RU-Board](http://forum.ru-board.com/) - (RU) - Otro conocido foro ruso de warez.
+- [DDL-Warez](https://ddl-warez.to/) - (GER) - Tablero de software, películas y televisión en alemán.
+- [DDLValley](https://www.ddlvalley.me/) - Enlaces de descarga para películas, juegos, programas de televisión, aplicaciones, libros electrónicos y música.
+- [DownloadBoerse.io](http://downloadboerse.io/forum/) - Clon de mygully alemán.
+- [Pastebin de DeeJayPirate](https://pastebin.com/u/DeeJayPirate) - Usuario de Pastebin que carga enlaces premium para programas de televisión.
+- [DirtyWarez Forum](https://forum.dirtywarez.com/) - (EN-US) - Foro popular de warez con películas, programas de televisión, libros electrónicos, anime, juegos y más.
+- [DL4All](http://dl4all.org/) - Varios juegos, tutoriales, programas de televisión, música y material móvil.
+- [Dospelis](https://www.dospelis.net) - Indexador DD español.
+- [DownArchive](http://downarchive.org/) - Blog DD con enlaces premium en varios hosts. Mucho software.
+- [DownloadLY.IR](http://downloadly.ir/) - (IR) - Portal de descarga de software.
+- [DownTurk](http://www.downturk.net/) - Portal de software.
+- [Foros de ExeLab](https://exelab.ru/f/index.php?action=vtopic&forum=5)
+- [FilmRls](https://filmrls.com/) - Películas, series y programas de televisión.
+- [filewarez.tv](https://filewarez.tv/) - Solo con invitación, aloja enlaces de Mega y Google Drive para programas de televisión.
+- [Espejos FTP](ftp://77.247.243.7/MS/Windows-10/) - Espejos de descargas ISO de Windows (¡los enlaces ftp no son visibles en el Markdown de GitHub!).
+- [GLOAD.cc](https://gload.cc/) - Proporciona Zippyshare como espejos fáciles de descargar.
+- [hdencode](https://hdencode.com/) - Vídeos / Películas en calidad HD.
+- [IceFilms.info](https://www.icefilms.info/) - Otro sitio de descargas con enlaces de TV y películas en FileUpload, GoUnlimited, Filecandy y más.
+- [Intercambios Virtuales](http://www.intercambiosvirtuales.org/) - Otro portal de software más.
+- [IntoTheInter](https://intotheinter.net/) - (EN) - (necesita invitación) - Aplicaciones de Android, software y juegos de Windows.
+- [KickassWarez](https://kickasswarez.info/) - (EN / RU) - A veces sin conexión, aloja TV, películas, revistas, software, cómics, periódicos, juegos, gráficos, etc.
+- [LavTeam](http://www.lavteam.org/) - (RU) - Otro portal de software ruso. ¡Como polvo en el desierto !.
+- [Mawto](https://www.mawtoload.com/) - (IR) - Aplicaciones de Android, software y juegos de Windows.
+- [MaxRelease](http://max-rls.com/) - Juegos, software, revistas, películas, música y programas de televisión.
+- [Movie Glide](https://www.movieglide.com/) - Vídeos / Películas y programas de televisión en calidad HD.
+- [MovieFiles](https://moviefiles.org/) - Motor de búsqueda de descarga directa que genera enlaces de Google Drive.
+- [Moviesleak](https://moviesleak.net/) - Otra página más de películas, el foco está en los anuncios de IMDB.
+- [Mutaz](https://www.mutaz.net/free-programs/) - Realiza un seguimiento de las versiones del software de escena.
+- [NGB.to](https://ngb.to/) - Otro clon de Gulli / MyGully.
+- [Foro Nsane](https://www.nsaneforums.com/) - Foro público para que todos puedan hablar sobre software y noticias de todo el mundo.
+- [NitroBlog](https://nblog.org/) - ROM de PC, PS3, VITA, WII e ISO.
+- [NulledTeam Underground](https://www.nulledteam.com/) - Foro de software para secuencias de comandos / herramientas / software anulados.
+- [PCPortal](https://pcportal.org/) - (RU) - Uno de los foros de software más grandes de Rusia.
+- [PSARips](https://psarips.com/) - Sitio popular para películas y programas de televisión, incluye archivos torrent.
+- [RADIXX11](https://radixx11rce2.blogspot.com) - (EN-US) - Foro de software.
+- [Reduson](https://www.reduson.com/) - (EN / RU) - Otro portal de software para varios tipos de lanzamientos como software, revistas, juegos y muchos más.
+- [ReleaseBB](https://rlsbb.ru/) - (RU) - Portal de software ruso.
+- [RSLinks](https://rslinks.org/) - Realiza un seguimiento de las versiones de software de la escena y las refleja.
+- [Rsload](https://rsload.net/) - (RU / EN) - Un gran portal de software.
+- [RuTracker](https://rutracker.org/) - (RU) - Si aún no conocías RUTracker, nunca habías oído hablar de Warez.
+- [SceneSource](https://scnsrc.me/) - Sitio web impulsado por WordPress dedicado a brindarle la información más reciente sobre nuevos lanzamientos de escenas.
+- [Soft98.iR](https://soft98.ir/software/) - (IR) - Todo el software se descarga en un solo sitio web.
+- [SANET](http://sanet.ws/) - SoftArchive es el recurso más antiguo y confiable para descarga directa- [SolidShare](https://www.solidshare.net/) - (TR) - Portal de software.
+- [Tekspert](https://tekspert.se/) - (EN / US) - Foro de software.
+- [TNCTR](https://www.tnctr.com/) - (TR) - Comunidad de red turca para software, libros electrónicos, aplicaciones, portátiles, AIO y codificación.
+- [UpTown](https://en.uptodown.com/) - Portal de software.
+- [UHDMV](https://uhdmv.com/) - Otra alternativa más al popular sitio web de Snahp.
+- [Vidics](https://www.vidics.to/) - Vidics ofrece programas de televisión y estrenos de películas.
+- [Warez-BB.org](https://warez-bb.org/) - Foro de Elite warez. (se necesita invitación).
+- [WarezBB.org](http://warezbb.org/) - Foro de élite solo para invitados.
+- [WarezForums](https://warezforums.com/) - (EN / US) - Foro de Warez con películas, programas de televisión, libros electrónicos, anime, juegos y más a través de G-Drive y Mega.
+- [watchepisodioseries](https://watchepisodioseries.bypassed.wtf/) - Watch Episode Series proporciona lanzamientos de programas de televisión de la escena.
+- [WatchTVSeries](https://watchtvseries.unblocked.krd/) - Vea programas de televisión en línea.
+- [ZeroBoard](https://zeroboard.org/) - Un foro que proporciona material relacionado con Windows.
+- [up4pc](https://up4pc.com/) - Descarga el software para PC, incluidos los cracks, a través de ZippyShare, GDrive y Mega.
+- [CB01.uno](https://cb01.gallery/) - (`IT`) - Películas, programas de televisión y animaciones.
+- [Release BB](http://rlsbb.ru/) - (`RU / ENG`) - Fuente diaria de cosas increíbles.
 
-## File hosts
+## Hosts de archivos
 
-- [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
-- [Real-Debrid](https://real-debrid.com/) - Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player.
-- [Premiumize](https://www.premiumize.me/) - Combine direct and secure access to premium services.
-- [Premiumizer](https://github.com/piejanssens/premiumizer) - Premiumizer is a download management tool for premiumize.me cloud downloads.
-- [OffCloud](https://offcloud.com/?=85a8b709) - A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
-- [Reevown](https://reevown.com/) - A free download service with which you can perform premium downloads.
-- [File sharing table](https://nafanz.github.io/) - Regularly updated table of information about file hosts.
+- [Wiki de alojamiento de archivos](https://filehostlist.miraheze.org/wiki/Main_Page) - Este sitio tiene como objetivo proporcionar las listas más completas de generadores de enlaces premium, descargadores de torrents y más, con (posiblemente) actualizaciones frecuentes.
+- [Real-Debrid](https://real-debrid.com/) - Real-Debrid es un descargador sin restricciones que le permite descargar rápidamente archivos alojados en Internet o transmitirlos instantáneamente a un reproductor web innovador.
+- [Premiumize](https://www.premiumize.me/) - Combine el acceso directo y seguro a los servicios premium.
+- [Premiumizer](https://github.com/piejanssens/premiumizer) - Herramienta de gestión de descargas para descargas en la nube premiumize.me.
+- [OffCloud](https://offcloud.com/?=85a8b709) - Un SaaS simple, elegante e intuitivo para recuperar cualquier dato de la nube.
+- [Reevown](https://reevown.com/) - Un servicio de descarga gratuito con el que puedes realizar descargas premium.
+- [Tabla de intercambio de archivos](https://nafanz.github.io/) - Tabla de información actualizada periódicamente sobre los hosts de archivos.
 - [Mega](https://mega.nz/)
 - [RapidGator](https://rapidgator.net/)
 - [4shared](https://www.4shared.com/)
 - [Mediafire](https://www.mediafire.com/)
 - [Sendspace](https://www.sendspace.com/)
-- [Uploaded](https://uploaded.net/)
+- [Subido](https://uploaded.net/)
 - [Zippyshare](https://www.zippyshare.com/)
 - [NitroFlare](http://nitroflare.net/)
 - [PutLocker](https://www5.putlockertv.to/)
-- [Oboom](https://www.oboom.com/) - (_free/paid_) - Provides up to 50 GB free space, Swiss made!
-- [Smoozed](https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
-- [globalupload.io](https://globalupload.io/) - IPFS and hash based services foryour files, a multi hosting option is planned.
-- [uploadfiles](https://uploadfiles.io/) - From files, images, music, video and more – Uploadfiles is a free and easy way to share your data
-- [GoFile](https://gofile.io/welcome) - File sharing platform, anonymous and free.
-- [nofile](http://nofile.io/) - File sharing platform, anonymous and free (GeoIP block).
-- [LetsUpload](https://letsupload.co/) - Created around the times when Mega firstly appeared, one of the big stars under the trusted hosters. They do not comply with DMCA.
-- [Racaty.net](https://racaty.net/) - Store, Sync & Share your own data securely.
+- [Oboom](https://www.oboom.com/) - (_gratis / pagado_) - Proporciona hasta 50 GB de espacio libre, fabricado en Suiza.
+- [Smoozed](https://www.smoozed.biz/) - Afirma ser el mayor host múltiple, archivos cifrados y descargas rápidas.
+- [globalupload.io](https://globalupload.io/) - Servicios basados en IPFS y hash para sus archivos, se planea una opción de hospedaje múltiple.
+- [uploadfiles](https://uploadfiles.io/) - Desde archivos, imágenes, música, videos y más - Uploadfiles es una forma fácil y gratuita de compartir sus datos
+- [GoFile](https://gofile.io/welcome) - Plataforma para compartir archivos, anónima y gratuita.
+- [nofile](http://nofile.io/) - Plataforma para compartir archivos, anónima y gratuita (bloque GeoIP).
+- [LetsUpload](https://letsupload.co/) - Creado en la época en que apareció Mega por primera vez, una de las grandes estrellas bajo los anfitriones de confianza. No cumplen con DMCA.
+- [Racaty.net](https://racaty.net/) - Almacena, sincroniza y comparte tus propios datos de forma segura.
 
-## Open Directories
+## Directorios abiertos
 
-- [The Eye](https://the-eye.eu/public/) - The Eye is a non-profit website dedicated to content archival and long-term preservation.
+- [The Eye](https://the-eye.eu/public/) - The Eye es un sitio web sin fines de lucro dedicado al archivo de contenido y la preservación a largo plazo.
   - [/public/Piracy/](https://the-eye.eu/public/Piracy/)
   - [exodos.the-eye.eu](https://exodos.the-eye.eu/)
-  - [In progress subreddit archive](https://the-eye.eu/r)
-  - [All DOS based games](https://exodos.the-eye.eu)
+  - [Archivo subreddit en curso](https://the-eye.eu/r)
+  - [Todos los juegos basados en DOS](https://exodos.the-eye.eu)
   - [Keygens](https://parazite.the-eye.eu/)
-  - [25TB of retro stuff](https://vv.the-eye.eu/)
-  - [The-Eye merch](https://56k.pizza/)
-  - [The-Eye search engine](https://searchin.the-eye.eu)
+  - [25 TB de material retro](https://vv.the-eye.eu/)
+  - [Merch de The-Eye](https://56k.pizza/)
+  - [Motor de búsqueda The-Eye](https://searchin.the-eye.eu)
   - [Image Fusker](https://fusker.the-eye.eu)
-  - [Custom Google search](https://cgs.the-eye.eu)
-  - [Open directory index](https://od-db.the-eye.eu)
-  - [NFSW reddit reverse image search](https://irar.the-eye.eu)
-  - [15TB+ in 31,500,000+ files mostly from nsfw reddit subs](https://the-eye.eu/imgur/)
-- [Panelshow.club](http://panelshow.club/) - Directory of panel show TV episodes from [r/panelshow](https://www.reddit.com/r/panelshow).
-- [andesite](https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
-- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories.
-- [r/MegaLinks4U](https://reddit.com/r/MegaLinks4U/) - Share megalinks, mostly used for porn.
-- ["All resources I know related to Open Directories"](https://www.removeddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Thorough post from /u/ElectroXexual.
-- [r/opendirectories](https://www.removeddit.com/r/opendirectories) - Unprotected directories of pics, vids, music, software and otherwise interesting files.
-- [36 GB of Flash Games](https://www.removeddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) - Posted by /u/blue*star*.
-- [FileMasta](https://github.com/HerbL27/FileMasta) - Search servers for video, music, books, software, games, subtitles and much more.
-- [httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings.
-- [opendirectories-bot](https://github.com/simon987/opendirectories-bot) - Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit.
-- [The Holy Grail of Indexes](https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Posted by /u/shadow_hunter104.
-- [Andesite](https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
-- [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
-- [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
-- [AIOSearch Guide](https://www.reddit.com/r/Piracy/comments/fa81st/aio_search_guide/)
+  - [Búsqueda personalizada de Google](https://cgs.the-eye.eu)
+  - [Índice de directorio abierto](https://od-db.the-eye.eu)
+  - [Búsqueda de imagen inversa NFSW reddit](https://irar.the-eye.eu)
+  - [15 TB + en 31,500,000+ archivos principalmente de nsfw reddit subs](https://the-eye.eu/imgur/)
+- [Panelshow.club](http://panelshow.club/) - Directorio de episodios de TV de programas de panel de [r / panelshow](https://www.reddit.com/r/panelshow).
+- [andesite](https://github.com/nektro/andesite) - Administra fácilmente el acceso a tu directorio abierto a través de OAuth2.
+- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indiza directorios abiertos.
+- [r/MegaLinks4U](https://reddit.com/r/MegaLinks4U/) - Comparte megalinks, que se utilizan principalmente para porno.
+- ["Todos los recursos que conozco relacionados con los directorios abiertos"](https://www.removeddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Publicación detallada de /u/ElectroXexual.
+- [r/opendirectories](https://www.removeddit.com/r/opendirectories) - Directorios desprotegidos de fotografías, videos, música, software y otros archivos interesantes.
+- [36 GB de juegos flash](https://www.removeddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) - Publicado por /u/blue *star*.
+- [FileMasta](https://github.com/HerbL27/FileMasta) - Servidores de búsqueda de video, música, libros, software, juegos, subtítulos y mucho más.
+- [httpdirfs](https://github.com/fangfufu/httpdirfs) - Un sistema de archivos que le permite montar listados de directorios HTTP.
+- [opendirectories-bot](https://github.com/simon987/opendirectories-bot) - Bot utilizado en /r/opendirectories para analizar el contenido de los directorios abiertos publicados en el subreddit.
+- [El Santo Grial de los índices](https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Publicado por /u/shadow_hunter104.
+- [dirsearch](https://github.com/maurosoria/dirsearch) - Escáner de ruta web.
+- [Guía sobre la búsqueda de directorios abiertos](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
+- [Guía de búsqueda de AIOS](https://www.reddit.com/r/Piracy/comments/fa81st/aio_search_guide/)
 
-## Open directory Search Engines
+## Motores de búsqueda de directorio abierto
 
-- [FilePursuit](https://filepursuit.com) - Meta search engine for Warez.
-- [FileChef](http://filechef.com/) - Get direct download links for almost anything.
-- [Strixx](https://strixx.now.sh/) - Open Directory Search Tool.
-- [Musgle](http://www.musgle.com/) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!.
-- [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Yet abother Music search engine.
-- [lumpySoft.com](https://lumpysoft.com/) - A Google index search with predefined tags.
-- [Mattpalm.com](https://mattpalm.com/search/) - Get direct download links for almost anything.
-- [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
-- [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
-- [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/) - An open directory search tool.
-- [Crawli](https://crawli.net) - Searches for online/offline content.
-- [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
-- [filediva](http://www.filediva.com) - Yet another meta search engine.
-- [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
-- [IPLIVE](https://iplive.club/) - DDL search engine.
-- [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
+- [FilePursuit](https://filepursuit.com) - Meta motor de búsqueda para Warez.
+- [FileChef](http://filechef.com/) - Obtén enlaces de descarga directa para casi cualquier cosa.
+- [Strixx](https://strixx.now.sh/) - Herramienta de búsqueda de directorio abierto.
+- [Musgle](http://www.musgle.com/) - Musgle en acción, simplemente escribe el título de una canción, o el nombre del artista, o ambos en una barra de búsqueda y presiona 'Enter', serás redirigido a Google con resultados de búsqueda relevantes. Haz clic en uno de esos resultados y tendrás la oportunidad de descargar directamente la canción que estás buscando.
+- [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Sin embargo, un motor de búsqueda de música más.
+- [lumpySoft.com](https://lumpysoft.com/) - Una búsqueda de índice de Google con etiquetas predefinidas.
+- [Mattpalm.com](https://mattpalm.com/search/) - Obtén enlaces de descarga directa para casi cualquier cosa.
+- [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Obtén enlaces de descarga directa para casi cualquier cosa.
+- [wtfnzb](https://wtfnzb.pw/) - Directorio abierto para software.
+- [Herramienta de búsqueda de directorio abierto de Abifog](https://opendirsearch.abifog.com/) - Una herramienta de búsqueda de directorio abierto.
+- [Crawli](https://crawli.net) - Busca contenido en línea / fuera de línea.
+- [DDLSearch](http://ddlsearch.free.fr) - Meta motor de búsqueda, los resultados se muestran a través del motor de búsqueda de Google.
+- [Fileiva](http://www.filediva.com) - Otro meta motor de búsqueda.
+- [Alluc](https://w1.alluc.uno/) - Motor de búsqueda con más de 80 millones de enlaces de transmisión de más de 700 servicios VOD, servidores de vídeo y servidores de archivos.
+- [IPLIVE](https://iplive.club/) - Motor de búsqueda DDL.
+- [VideoSpider](https://videospider.in/) - VideoSpider rastrea varios sitios web y motores de búsqueda para encontrar enlaces de transmisión de películas y episodios de TV.
