@@ -1,13 +1,13 @@
 ---
-title: DC++
+título: DC++
 sidebar_label: DC++
 ---
 
-- [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) - Wikipedia page describing DC++.
-- [Direct Connect](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) - Wikipedia page describing Direct Connect protocol.
-- [LinuxDC++](https://launchpad.net/linuxdcpp) - Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
-- [Tankafett](http://tankafett.biz/?do=hublist) - List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
-- [AirDC++](https://www.airdcpp.net/) - Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
-- [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) - Windows/Linux/macOS DC++ client, with ADC and DHT support.
-- [FlylinkDC++](http://www.flylinkdc.com/) - Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
-- [Linux DC++](https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client.
+- [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) - Página de Wikipedia que describe DC++.
+- [Direct Connect](https://en.wikipedia.org/wiki/Direct_Connect_ (protocolo)) - Página de Wikipedia que describe el protocolo Direct Connect.
+- [LinuxDC++](https://launchpad.net/linuxdcpp) - Utilizando el último núcleo DC++, LinuxDC++ ofrece una funcionalidad similar al cliente de Windows como descarga segmentada, integridad de archivos basada en TTH, etc. con una interfaz de usuario GTK+.
+- [Tankafett](http://tankafett.biz/?do=hublist) - Lista de centros públicos de DC++, anteriormente conocidos como hublist.org y TheHubList.com.
+- [AirDC++](https://www.airdcpp.net/) - Cliente GUI de Windows y Linux Web DC++ en desarrollo activo, con soporte ADC, IPv6 y DHT.
+- [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) - Cliente Windows / Linux / macOS DC++, compatible con ADC y DHT.
+- [FlylinkDC++](http://www.flylinkdc.com/) - Cliente Windows DC++ y BitTorrent en desarrollo activo, con soporte ADC y DHT.
+- [Linux DC++](https://launchpad.net/linuxdcpp) - Cliente DC++ fácil de configurar y usar.
