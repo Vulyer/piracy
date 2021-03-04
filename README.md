@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/img/logo.svg" alt="arrrr!"></a>
+  <img width="200" src="https://piracy.now.sh/img/logo.svg" alt="arrrr!">
   <h1 align="center">Piratear</h1>
   <h3 align="center">Todo es gratis, si sabes donde buscar</h3>
 </div>
