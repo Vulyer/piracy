@@ -1,21 +1,23 @@
 ---
-title: Movies and TV shows
-sidebar_label: Movies and TV shows
+título: Películas y Series
+sidebar_label: películas y series
 ---
 
-- [TVRaven](https://www.onetvraven.pro/) - Large TV collection, friendly UI.
-- [WatchSeries](http://dwatchseries.to/) - TV series, multiple links/backups to different streaming hosts.
-- [TVBox](https://tvbox.ag/) - TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts.
-- [enx265](https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
-- [r/freefolk](https://www.removeddit.com/r/freefolk) - Streams for new episodes of Game of Thrones.
-- [r/ProshotMusicals](https://www.removeddit.com/r/ProShotMusicals) - Subreddit for all those theatre obsessed people who want proshots instead of bootlegs to be seen.
-- [castnow](https://github.com/xat/castnow) - Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
-- [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
-- [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
-- [480MKV](https://480mkv.com) - Small size videos, movies and TV shows.
-- [enx265](https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
-- [TheTrove](https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
-- [fullmoviesandtv multireddit](https://www.removeddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) - Multireddit of All of the below listed subreddits.
+- [Stremio](https://www.stremio.com/) - Solución todo-en-uno. Descubre/busca películas y series, las transmite en el momento y busca subtítulos automáticamente. Se puede usar sin registrarse.
+
+- [TVRaven](https://www.onetvraven.pro/) - Gran colección de TV, interfaz de usuario amigable.
+- [WatchSeries](http://dwatchseries.to/) - Series de TV, múltiples enlaces/copias de seguridad a diferentes hosts de transmisión.
+- [TVBox](https://tvbox.ag/) - TV/Películas, sitio fácil de navegar, múltiples enlaces/copias de seguridad a diferentes hosts de transmisión.
+- [enx265](https://enx265.com/): una comunidad dedicada a cargar sólo películas y programas de TV codificados en H265.
+- [r/freefolk](https://www.removeddit.com/r/freefolk) - Transmisiones para nuevos episodios de Game of Thrones.
+- [r/ProshotMusicals](https://www.removeddit.com/r/ProShotMusicals) - Subreddit para todas aquellas personas obsesionadas con el teatro que quieren que se vean proshots en lugar de bootlegs.
+- [castnow](https://github.com/xat/castnow) - Castnow es una utilidad de línea de comandos que se puede utilizar para reproducir archivos multimedia en su dispositivo Chromecast.
+- [iNFekt](https://infekt.ws/) - Una aplicación de visualización de texto que ha sido cuidadosamente diseñada en torno a su tarea principal: ver y presentar archivos NFO.
+- [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList es un proyecto iniciado para mostrar y compartir tantos enlaces de la escena y warez como sea posible.
+- [480MKV](https://480mkv.com) - Vídeos, películas y programas de televisión de tamaño pequeño.
+- [enx265](https://enx265.com/): una comunidad dedicada a cargar solo películas y programas de TV codificados en H265.
+- [TheTrove](https://thetrove.net/) - The Trove es un sitio web sin fines de lucro dedicado al archivo de contenido y la preservación a largo plazo de juegos de rol.
+- [fullmoviesandtv multireddit](https://www.removeddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) - Multireddit de todos los subreddits enumerados a continuación.
   - [r/1080pMoviesOnline](https://www.removeddit.com/r/1080pMoviesOnline)
   - [r/BestOfStreamingVideo](https://www.removeddit.com/r/BestOfStreamingVideo)
   - [r/fullcartoonsonyoutube](https://www.removeddit.com/r/fullcartoonsonyoutube/)
@@ -26,121 +28,121 @@ sidebar_label: Movies and TV shows
   - [r/fullmoviesonyoutube](https://www.removeddit.com/r/fullmoviesonyoutube/)
   - [r/fulltvshowsonvimeo](https://www.removeddit.com/r/fulltvshowsonvimeo/)
   - [r/fulltvshowsonyoutube](https://www.removeddit.com/r/fulltvshowsonyoutube/)
-- [at.my TV](http://at-my.tv/) - TV Calendar, TV Episode Guide, TV Show Listings.
-- [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
-- [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
-- [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
-- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
-- [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) - Posted by /u/huldre99.
-- [The Encoding Guide](https://encoding-guide.neocities.org/) - In-depth guide on encoding video.
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman.
-- [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
-- [Episodes](https://github.com/guptachetan1997/Episodes) - Self Hosted TV show Episode tracker and recommender.
-- [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
-- [Streaming Sites](https://streamingsites.com/) - List of best free and premium streaming sites for movies and TV shows.
+- [at.my TV](http://at-my.tv/) - Calendario de TV, Guía de episodios de TV, Listados de programas de TV.
+- [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - Un calendario personalizado que rastrea los programas que te gustan/fav.
+- [Enlaces de descarga de guiones](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - Más de 100 guiones puestos a disposición por estudios y empresas de producción.
+- [Script Slug](https://www.scriptslug.com/) - Explora cientos de guiones.
+- [¡Springfield! Springfield!](Https://www.springfieldspringfield.co.uk/) - Base de datos de transcripciones de películas para iOS y Android.
+- [Cómo conseguir todo en Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) - Publicado por/u/huldre99.
+- [La guía de codificación](https://encoding-guide.neocities.org/) - Guía detallada sobre la codificación de vídeo.
+- [Cómo transmitir películas, TV, anime y deportes en línea](https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Gran lista de/u/nbatman.
+- [Transmisión de medios pirateados en 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Pagar dinero para robar películas y música En Internet.
+- [Episodios](https://github.com/guptachetan1997/Episodes) - Programas de televisión autohospedados. Seguimiento y recomendación de episodios.
+- [Desglose de las convenciones de nomenclatura de video, la tasa de bits y la calidad. También se cubre: conversión de mkv a mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
+- [Sitios de transmisión](https://streamingsites.com/) - Lista de los mejores sitios de transmisión gratuitos y premium para películas y programas de televisión.
 
-## Content Discovery
+## Descubrimiento de contenido
 
-- [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) - Complete list of all available 2160p remuxes.
-- [Flox](https://github.com/devfake/flox) - Flox is a self-hosted movie, series and nime watch list.
-- [IMDb](https://www.imdb.com/) - Find movies, TV shows, celebrities, and more.
-- [JustWatch](https://www.justwatch.com/) - On JustWatch you are able to find out where to watch your favorite movies & TV series.
-- [Letterboxd](https://letterboxd.com/) - Your life in film, the social network for film lovers.
-- [MetaCritic](https://www.metacritic.com) - Website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
-- [Movieo](https://movieo.me/) - Discover, organize and track over 250,000 movies.
-- [nulled.cc](https://www.nulled.cc/) - Warez Scripts and a forum for additional piracy related resources.
-- [popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics.
-- [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) - Similar like traktv but offers a Chrome app for Netflix.
-- [Squawkr.io](https://www.squawkr.io/) - Sends you a notifications when movies are available for download.
-- [Trakt.tv](https://trakt.tv/) - A platform that does many things, but primarily keeps track of TV shows and movies you watch.
-- [TVmaze](https://www.tvmaze.com/) - TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
-- [What is my movie?](https://www.whatismymovie.com/) - AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres etc. We find movies for you to watch.".
-- [WhereYouWatch](https://whereyouwatch.com/latest-reports/) - Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
-- [Flickmetrix](https://flickmetrix.com/) - Movie database search engine with disc/Netflix/Prime filtering.
-- [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) - The latest info on new Blu-ray and DVD releases.
-- [Simkl](https://simkl.com/) - Movie and TV show scrobbler similar to Trakt.tv.
-- [tastedive.com/](https://tastedive.com/) - A recommendation engine that helps you explore music, movies, TV shows, books, authors, games, and podcasts
+- [Lista de Remux de BluRay 2160p](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) - Lista completa de todos los remuxes de 2160p disponibles.
+- [Flox](https://github.com/devfake/flox) - Flox es una lista de observación de películas, series y anime alojada por sí mismo.
+- [IMDb](https://www.imdb.com/) - Encuentra películas, programas de televisión, celebridades y más.
+- [JustWatch](https://www.justwatch.com/) - En JustWatch puedes averiguar dónde ver tus películas y series de televisión favoritas.
+- [Letterboxd](https://letterboxd.com/) - Tu vida en el cine, la red social para los amantes del cine.
+- [MetaCritic](https://www.metacritic.com) - Sitio web que agrega reseñas de productos multimedia: álbumes de música, videojuegos, películas, programas de televisión y, anteriormente, libros.
+- [Movieo](https://movieo.me/) - Descubre, organiza y realiza un seguimiento de más de 250.000 películas.
+- [nulled.cc](https://www.nulled.cc/) - Warez Scripts y un foro para recursos adicionales relacionados con la piratería.
+- [popular-movies](https://github.com/sjlu/popular-movies) - Intenta crear una lista de películas populares basada en una serie de heurísticas.
+- [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) - Similar a traktv pero ofrece una aplicación de Chrome para Netflix.
+- [Squawkr.io](https://www.squawkr.io/) - Envía notificaciones cuando las películas están disponibles para descargar.
+- [Trakt.tv](https://trakt.tv/) - Una plataforma que hace muchas cosas, pero principalmente realiza un seguimiento de los programas de televisión y las películas que miras.
+- [TVmaze](https://www.tvmaze.com/) - TVmaze es una comunidad de amantes de la televisión y colaboradores dedicados que discuten y ayudan a mantener la información de televisión en la web.
+- [¿Cuál es mi película?](Https://www.whatismymovie.com/) - Búsqueda de películas impulsada por IA. "Usa tus propias palabras o busca con títulos, actores, directores, géneros, etc. Encontramos películas para que las veas".
+- [WhereYouWatch](https://whereyouwatch.com/latest-reports/) - Sigue las próximas películas y recibe alertas por correo electrónico cuando estén en línea como descarga o transmisión, pirateadas o a la venta.
+- [Flickmetrix](https://flickmetrix.com/) - Motor de búsqueda de bases de datos de películas con filtrado de disco/Netflix/Prime.
+- [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) - La información más reciente sobre los nuevos lanzamientos de Blu-ray y DVD.
+- [Simkl](https://simkl.com/) - scrobbler de Películas y series similar a Trakt.tv.
+- [tastedive.com/](https://tastedive.com/) - Un motor de recomendaciones que te ayuda a explorar música, películas, programas de TV, libros, autores, juegos y podcasts
 
-## Streaming
+## Transmisión (streaming)
 
-- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Reddit with all types of Streaming Links.
-- [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
-  - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
-  - [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows.
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Huge list by u/nbatman
-- [r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) - Alternate subreddit curated by /u/nbatman.
-- [YMovies](https://ymovies.tv/) - Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents).
-- [M4UFree.TV](http://m4ufree.tv/) - Unique design, HD server with backup and additional hosts.
-- [Movie123](http://movie123.club/) - Unique design, HD server with Backup and additional hosts.
-- [Streamlord](http://www.streamlord.com/) - Unique design, HD server (subtitles).
-- [FlixGo](https://flixgo.net/) - Unique design, HD server, very nice speeds.
-- [123Movies](https://123movies.website/) - Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
-- [Yes! Movies](https://yesmovies.to) - Basic streaming site layout, HD server with additional hosts.
-- [Spacemov](http://spacemov.io/) - Basic streaming site layout, HD server, only certain films have additional hosts.
-- [HDOnline](https://www1.hdonline.eu) - Basic streaming site layout, HD server with additional hosts.
-- [#1 Movies](https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
-- [AZMovies](https://azmovies.xyz/) - AZMovies your best source for watching movies online, with High Quality 1080p movies, you can stream anytime.
-- [Arabseed](https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
-- [Best Free Streaming](https://www.bestfreestreaming.com/) - Another streaming site that rates streaming services.
-- [CMoviesHD](https://www2.cmovieshd.bz) - Basic streaming site layout, HD server with additional hosts.
-- [DP Stream](https://www.dpstream.net/) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
-- [Daxiv Video](https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [FMOVIES](https://fmovies.to/) - Just a better place for watching online movies for free!.
-- [Filmz.cc](https://www.filmz.cc/) - French streaming website.
-- [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
-- [HD MOVIES](https://hdm.to/) - Watch free movies online in 1080p at HDM.to - Stream & download the latest HD movies online for free without registration.
-- [HDEUROPIX](https://topeuropix.net/) - Free Streaming HD Movies Online with captions. Full Movies Streaming Popular TV Series Watch Free HD topeuropix.net.
-- [HDO](https://hdo.to/) - Watch HD Movies Online For Free the latest movies, tv-series without Registration at hdonline.to.
-- [INDOXXI](https://indoxxi.cx/) - Movies releases.
-- [KStreaming](https://www.k-streaming.tv/) - Film Streaming et Série Streaming Gratuit.
-- [LookMovie](https://lookmovie.ag/) - (`needs adblocker`) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
-- [MKVHub](https://www.mkvhub.com/) - MkvHub is the best website to download high-quality 720p, 1080p WEB-DL HDRip BluRay Movies and TV Shows with Single Direct Download Link.
-- [Nox](https://nox.tv/) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - News. Reporters Without Borders.
-- [PelisPedia](https://www.pelispedia.tv/) - (es-do) - Movies & TV Shows.
-- [Qwemovies](https://www3.qwemovies.com/) - Watch HD Movies Online For Free and Download the latest movies without Registration at qwemovies.to.
-- [Rainierland](https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
-- [Series9](https://www2.series9.io/) - Search engine for movies and tv shows (incl. animes).
-- [Soap2day](https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles.
-- [Sokrostream.vip](https://sokrostream.vip/) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport.
-- [Solarmovie](https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
-- [StreamCR](https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!.
-- [ShareMania.US](http://sharemania.us/) - (_insecure_) - HDTV, HD Music Videos, 1080i, 720p, Live, TV Shows.
-- [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
-- [Streamcomplete](https://streamcomplet.me/) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
-- [TakiART](https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
-- [Time2Watch](https://time2watch.in/) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
-- [Tubeninja](https://tubeninja.net) - All-in-one audio and video downloader that doesn't require any installation.
-- [VF-Streaming](https://www.vf-stream.org/) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
-- [Vidcloud](https://vidcloud.icu/) - Basic streaming site layout, HD server with additional hosts.
-- [VodLocker](https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
-- [VoirFilms.ws](https://ww6.voirfilms.ws/) - -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
-- [WatchFree](https://watchfree.at/) - Watch Movies Online Free. Watch your favorite movies and tv-series in hd quality on watchfree.to + putlocker.
-- [cine.to](https://cine.to/) - Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
-- [cinebloom](https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
-- [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Reddit con todo tipo de enlaces de transmisión.
+- [Streamlink](https://streamlink.github.io/) - Una utilidad CLI que canaliza transmisiones de video desde varios servicios a un reproductor de video.
+  - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - Un navegador Twitch.tv multiplataforma para Streamlink.
+  - [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - Una versión portátil de Streamlink para Windows.
+- [Cómo transmitir películas, TV, anime y deportes en línea](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Gran lista de u/nbatman
+- [r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, sitios de transmisión aleatoria.
+- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) - Subreddit alternativo curado por/u/nbatman.
+- [YMovies](https://ymovies.tv/) - Diseño único, servidor HD con hosts adicionales, buenas velocidades, YIFY y otras versiones (+ torrents).
+- [M4UFree.TV](http://m4ufree.tv/) - Diseño único, servidor HD con respaldo y hosts adicionales.
+- [Movie123](http://movie123.club/) - Diseño único, servidor HD con respaldo y hosts adicionales.
+- [Streamlord](http://www.streamlord.com/) - Diseño único, servidor HD (subtítulos).
+- [FlixGo](https://flixgo.net/) - Diseño único, servidor HD, muy buenas velocidades.
+- [123Movies](https://123movies.website/) - Diseño básico del sitio de transmisión, servidor HD con hosts adicionales. Anteriormente HDFlix.
+- [¡Sí! Películas](https://yesmovies.to) - Diseño básico del sitio de transmisión, servidor HD con hosts adicionales.
+- [Spacemov](http://spacemov.io/) - Diseño básico del sitio de transmisión, servidor HD, sólo algunas películas tienen hosts adicionales.
+- [HDOnline](https://www1.hdonline.eu) - Diseño básico del sitio de transmisión, servidor HD con hosts adicionales.
+- [Películas n.°1](https://www1.1movies.is) - Vea películas en línea de forma gratuita en calidad HD sin descargarlas ni registrarse.
+- [AZMovies](https://azmovies.xyz/) - AZMovies es su mejor fuente para ver películas en línea, con películas de alta calidad de 1080p, puede transmitir en cualquier momento.
+- [Arabseed](https://arabseed.tv/) - (AR) - Compras en línea de una gran selección en Digital Music Store.
+- [Mejor transmisión gratuita](https://www.bestfreestreaming.com/) - Otro sitio de transmisión que califica los servicios de transmisión.
+- [CMoviesHD](https://www2.cmovieshd.bz) - Diseño básico del sitio de transmisión, servidor HD con hosts adicionales.
+- [DP Stream](https://www.dpstream.net/) - Películas/Series/Animés a tu disposición en diferentes hosts.
+- [Daxiv Video](https://daxiv.com/) - Películas y programas de TV en línea o transmitidos directamente a tu televisor inteligente, consola de juegos, PC, Mac, dispositivo móvil, tableta y más. Principalmente contenido chino.
+- [FMOVIES](https://fmovies.to/) - ¡Simplemente un lugar mejor para ver películas en línea gratis!
+- [Filmz.cc](https://www.filmz.cc/) - Sitio web de transmisión en francés.
+- [Flixanity](https://flixanity.xyz/) - Mira películas y programas de televisión en línea. Mire desde dispositivos como iOS, Android, PC, PS4, Xbox One y más. El registro es 100% gratuito y sencillo.
+- [PELÍCULAS HD](https://hdm.to/) - Mira películas gratis en línea en 1080p en HDM.to - Transmite y descarga las últimas películas HD en línea de forma gratuita sin registrarte.
+- [HDEUROPIX](https://topeuropix.net/) - Transmisión gratuita de películas HD en línea con subtítulos. Películas completas. Transmisión de series de TV populares. Ver HD gratis en topeuropix.net.
+- [HDO](https://hdo.to/) - Vea películas HD en línea de forma gratuita las últimas películas y series de televisión sin registrarse en hdonline.to.
+- [INDOXXI](https://indoxxi.cx/) - Estrenos de películas.
+- [KStreaming](https://www.k-streaming.tv/) - Transmisión de películas y transmisión en serie gratuita.
+- [LookMovie](https://lookmovie.ag/) - (`necesita adblocker`) - Mira películas y programas de televisión gratis en 1080p y 720p. Cada hora se agregan nuevas películas y episodios.
+- [MKVHub](https://www.mkvhub.com/) - MkvHub es el mejor sitio web para descargar películas y programas de TV WEB-DL HDRip BluRay de 720p, 1080p de alta calidad con un único enlace de descarga directa.
+- [Nox](https://nox.tv/) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - Noticias. Reporteros sin fronteras.
+- [PelisPedia](https://www.pelispedia.tv/) - (es-do) - Películas y programas de televisión.
+- [Qwemovies](https://www3.qwemovies.com/) - Vea películas HD en línea gratis y descargue las últimas películas sin registrarse en qwemovies.to.
+- [Rainierland](https://rainierland.is/) - Hogar oficial de rainierland - sin anuncios y solo buenas películas.
+- [Series9](https://www2.series9.io/) - Motor de búsqueda de películas y programas de televisión (incluidos animes).
+- [Soap2day](https://www.soap2day.com/) - Diseño único, muy buenas velocidades, servidor HD con subtítulos.
+- [Sokrostream.vip](https://sokrostream.vip/) - Películas 2019 · Películas 2018 · Acción · Ciencia-Ficción · Comédie · Horreur · Rapport.
+- [Solarmovie](https://solarmoviez.ru/) - Vea películas en línea y vea series de televisión en línea en Solarmovie sin registrarse.
+- [StreamCR](https://scr.cr/) - Vea películas y series de televisión en línea de forma gratuita. ¡Transmite episodios de Game of Thrones, Breaking Bad, Stranger Things y más!
+- [ShareMania.US](http://sharemania.us/) - (_insecure_) - HDTV, videos musicales HD, 1080i, 720p, programas de TV en vivo.
+- [StreamCouch](https://www2.streamcouch.com/) - Vea gratis la transmisión de películas más reciente indexada a medida que aparecen en línea, en alta calidad HD.
+- [Streamcomplete](https://streamcomplet.me/) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films completa en versión francesa a voir online.
+- [TakiART](https://www.takiartmovies.ga/) - Vea y descargue las últimas películas de Hollywood de forma gratuita.
+- [Time2Watch](https://time2watch.in/) - Películas, series y mangas en streaming y descarga gratuita para PC, iPhone, iPad y teléfonos inteligentes autres.
+- [Tubeninja](https://tubeninja.net) - Descargador de audio y video todo en uno que no requiere instalación.
+- [VF-Streaming](https://www.vf-stream.org/) - (FR) Vea las mejores películas, series y manga en transmisión HD gratuita sin suscripción en VF Stream. Venga y descubra las últimas películas completas en francés. 
+- [Vidcloud](https://vidcloud.icu/) - Diseño básico del sitio de transmisión, servidor HD con hosts adicionales.
+- [VodLocker](https://vodlocker.tv/) - Hogar oficial de vodlocker - sin anuncios y solo buenas películas.
+- [VoirFilms.ws](https://ww6.voirfilms.ws/) - (FR) Transmisión de películas, descarga, dvdrip, gratis.
+- [WatchFree](https://watchfree.at/) - Vea películas en línea gratis. Vea sus películas y series de televisión favoritas en calidad HD en watchfree.to + putlocker.
+- [cine.to](https://cine.to/) - Siéntese y relájese mientras mira el cine más nuevo o su película favorita de forma gratuita. Solo cine.to & chill.
+- [cinebloom](https://www2.cinebloom.com) - Acción Aventuras Animación Biografía Comedia Crimen Documental Drama Familia Fantasía Historia Terror Música Musical Misterio Romance Ciencia ficción Deporte Thriller Guerra Western.
+- [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Sitio de descarga gratuita, descarga películas completas, series, libros electrónicos, espectáculos, documentales y mucho más, en uptobox, 1fichier.
 - [libertyVF](https://ww1.libertyvf.org/)
-- [onemov](https://onemov.net/) - Online Full HD Movie Free.
-- [YourPTFlixMovies](https://yourptflixmovies.com/) - A forum dedicated to share or talk about any streaming material.
-- [Movie-Forum](https://movie-forum.co/forum.php) - Forum to share stream links of movies and TV shows.
-- [filmyzilla1](https://filmyzilla1.com/genre/animation/) - Animated Hindi movies.
-- [puretoons](https://puretoons.me/) - Animated Hindi movies.
-- [deadtoonsindia](https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
-- [reelgood](https://reelgood.com/) -Legal Multi Service provider for Netflix, Hulu & Co.
+- [onemov](https://onemov.net/) - Películas Full HD en línea gratis.
+- [YourPTFlixMovies](https://yourptflixmovies.com/) - Un foro dedicado a compartir o hablar sobre cualquier material de transmisión.
+- [Movie-Forum](https://movie-forum.co/forum.php) - Foro para compartir enlaces de transmisión de películas y programas de televisión.
+- [filmyzilla1](https://filmyzilla1.com/genre/animation/) - Películas animadas en hindi.
+- [puretoons](https://puretoons.me/) - Películas animadas en hindi.
+- [deadtoonsindia](https://deadtoonsindia.ne) - Películas y programas de televisión animados en hindi.
+- [reelgood](https://reelgood.com/) - Proveedor legal de servicios múltiples para Netflix, Hulu & Co.
 
 ### Streaming 1080p
 
 - [0123movies](https://www.0123moviesback.com/)
 - [CineBloom](https://www2.cinebloom.com/)
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
-- [Cyberflix](https://cyberflix.me/) - (Android) - Claims to be 100% free from virus and malware. Direct Download Links are avbl.
-- [crawler](https://crawler.to/)
+- [Cyberflix](https://cyberflix.me/) - (Android) - Afirma estar 100% libre de virus y malware. Los enlaces de descarga directa son avbl.
+- [rastreador](https://crawler.to/)
 - [Daxiv](https://daxiv.com/)
 - [Fembed](https://fembed.com/)
-- [Goldesel.to](https://goldesel.to/) - You can ignore the Google Safe Bbrowsing warning. Movies, TV shows & more since over 15 years.
+- [Goldesel.to](https://goldesel.to/) - Puedes ignorar la advertencia de Navegación segura de Google. Películas, programas de televisión y más desde hace más de 15 años.
 - [HD Europix](https://europixhd.net/)
-  - [Mirror](https://topeuropix.net/)
-- [KatmovieHD](https://katmoviehd.nl/) - Movies, TV Shows & sharing group.
+  - [Espejo](https://topeuropix.net/)
+- [KatmovieHD](https://katmoviehd.nl/) - Películas, programas de televisión y grupo para compartir.
 - [LeonFlix](https://leonflix.net/)
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://moviestreams.org/)
@@ -156,13 +158,13 @@ sidebar_label: Movies and TV shows
 - [Vmovee](https://vmovee.ws/)
 - [Ymovies](https://ymovies.tv/)
 - [PSARips One](https://psarips.one/)
-- [BonsaidHD](https://bonsaihd.site/) - Quality that Matters, Hindi and Bollywood movies.
-- [Allostream](https://allostream.biz) - TV shows and series.
-- [Annuaire-telechargement-ec](https://www.annuaire-telechargement.best/) - Movies, TV shows and series in HQ.
-- [Annuaire Telechargement](https://www.annuaire-telechargement.al/) - Movies and Streaming.
-- [Annuaire-telechargement-fr](https://www.annuaire-telechargement.fr/) - Movies and TV streaming in HQ.
-- [ATFUT](https://www.movies4you.ovh/) - Movies and TV streaming.
-- [DivxTOP](https://www.divxtop.com/) - Movies and TV streaming.
+- [BonsaidHD](https://bonsaihd.site/) - Calidad que importa, películas en hindi y Bollywood.
+- [Allostream](https://allostream.biz) - Programas y series de televisión.
+- [Annuaire-telechargement-ec](https://www.annuaire-telechargement.best/) - Películas, programas de televisión y series en alta calidad.
+- [Annuaire Telechargement](https://www.annuaire-telechargement.al/) - Películas y transmisión.
+- [Annuaire-telechargement-fr](https://www.annuaire-telechargement.fr/) - Transmisión de películas y TV en alta calidad.
+- [ATFUT](https://www.movies4you.ovh/) - Transmisión de películas y TV.
+- [DivxTOP](https://www.divxtop.com/) - Transmisión de películas y TV.
 - [DPSTREAM](https://www.dpstream.com)
 - [DPStreaming](https://dpstreaming.vip/)
 - [ETOPOP](https://www.etopop.fr/)
@@ -175,32 +177,32 @@ sidebar_label: Movies and TV shows
 - [N1Streaming](https://n1streamings.com/)
 - [Papystreaming](https://www.papy-streaming.fr/)
 - [Planet-Streaming1](https://wwvv.streaming-planet.com/)
-- [RareFilm](http://rarefilm.net/) - Rare Films on Requests. Download Rare Classic and Selected Films, Request on Classic Movies.
-- [Rarefilmm](https://rarefilmm.com/) - The cave of forgotten films!.
+- [RareFilm](http://rarefilm.net/) - Películas raras a pedido. Descargue películas clásicas raras y seleccionadas, solicite películas clásicas.
+- [Rarefilmm](https://rarefilmm.com/) - ¡La cueva de las películas olvidadas!
 - [Radego](http://radego.com/rradego/)
 - [Serie-Streaming](https://www.guardaserie.tube/)
 - [Seriecomplete](https://w22.seriecomplete.com/series/)
 - [SKStream](https://launchpad.net/skstream)
-- [Streamcomplet](https://www.streamcomplet.page/fr/) - _sometimes offline_.
-- [Streaming-VOSTFR](https://vostfree.com/) - Anime an TV shows.
+- [Streamcomplet](https://www.streamcomplet.page/fr/) - _a veces sin conexión_.
+- [Streaming-VOSTFR](https://vostfree.com/) - Programas de televisión y anime.
 - [StreamingDIVX1](https://StreamingDIVX1.com)
-- [Time2watch](https://time2watch.gg/) - _sometimes offline_.
+- [Time2watch](https://time2watch.gg/) - _a veces sin conexión_.
 - [Voir-Films-Series](https://www.voirfilms.al/series/)
 - [VOSTFRSerie](https://vostfrserie.biz/)
 - [Wikiserie](https://www.wikiserie.biz/)
-- [Dramaday](https://dramaday.net/) - A website dedicated to drama based movies and OST.
-- [Enthus1ast](http://enthus1ast.com/) - Movie sharing community.
-- [magellantv](https://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
-- [HEVCBay](https://hevcbay.com/) - Provides Movies.
-- [x265 Movies](https://x265movies.co/) - x265 Movies provides Movies and TV shows.
-- [HugeWarez](http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
-- [MKVBee](https://mkvbee.com/) - High Quality movies and TV shows.
-- [YourSerie](https://www.yourserie.com/) - High Quality movies and TV shows.
+- [Dramaday](https://dramaday.net/) - Un sitio web dedicado a películas basadas en drama y BSOs.
+- [Enthus1ast](http://enthus1ast.com/) - Comunidad para compartir películas.
+- [magellantv](https://www.magellantv.com/featured) - Vea miles de excelentes documentales en MagellanTV. Transmisión ilimitada, sin anuncios y transmisión 4K son excelentes razones para probar MagellanTV.
+- [HEVCBay](https://hevcbay.com/) - Proporciona películas.
+- [Películas x265](https://x265movies.co/) - Películas x265 ofrece películas y programas de TV.
+- [HugeWarez](http://hugewarez.net/movie/) - HugeWarez ofrece no solo películas, sino también programas de televisión y muchas otras cosas.
+- [MKVBee](https://mkvbee.com/) - Películas y programas de televisión de alta calidad.
+- [YourSerie](https://www.yourserie.com/) - Películas y programas de televisión de alta calidad.
 - [Crazy4tv](https://crazy4tv.com/)
 - [MoviesWBB](http://movieswbb.com/)
-- [GDriveDL](https://gdrivedl.com/) - Movies and TV shows via Google Drive.
-- [megaDDL](https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
-- [streamingita.live](https://streamingita.live/series/) - Yet another streaming service for Movies and Series.
+- [GDriveDL](https://gdrivedl.com/) - Películas y programas de televisión a través de Google Drive.
+- [megaDDL](https://megaddl.co/) - megaDDL ofrece principalmente programas de televisión y películas.
+- [streamingita.live](https://streamingita.live/series/) - Otro servicio de transmisión de películas y series.
 - [solarmoviez.to](https://solarmoviez.to/)
 - [123movies.is](https://123movies.is/)
 - [dirtywarez.org](https://dirtywarez.org/cat/streaming)
@@ -214,18 +216,18 @@ sidebar_label: Movies and TV shows
 - [123NetflixPro](https://www2.123netflix.pro/)
 - [1movies](https://www1.1movies.is/)
 - [bmovies](http://bmovies.to/)
-  - [Mirror 1](https://bmovies.life/)
-  - [Mirror 2](https://bmovies.se/)
-  - [Mirror 3](https://bmovies.is/)
+  - [Espejo 1](https://bmovies.life/)
+  - [Espejo 2](https://bmovies.se/)
+  - [Espejo 3](https://bmovies.is/)
 - [CafeMovie](https://cafemovie.live/)
 - [ddlhub](https://ddlhub.xyz/)
 - [Flix555](https://flix555.com)
 - [Flixtor](https://flixtor.to/)
-- [Fmovies](https://fmovie.info) - Just a better place for watching online movies for free!
-  - [Mirror 1](https://fmovies.se)
-  - [Mirror 2](https://fmovies.to)
-  - [Mirror 3](https://fmovies.is)
-- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html)
+- [Fmovies](https://fmovie.info) - ¡Simplemente un lugar mejor para ver películas en línea gratis!
+  - [Espejo 1](https://fmovies.se)
+  - [Espejo 2](https://fmovies.to)
+  - [Espejo 3](https://fmovies.is)
+- [Películas completas de YouTube](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html)
 - [GOMovieshub](https://www.gomovieshub.se/)
 - [HackIMDb](https://hackimdb.com/)
 - [HDeuropix](https://hdeuropix.io/)
@@ -233,18 +235,18 @@ sidebar_label: Movies and TV shows
 - [ILoveToWatch](https://ilovetowatch.online/)
 - [IWannaWatch](https://www.iwannawatch.is/)
 - [Khaanflix](https://khaanflix.com/)
-- [MegaDDL](https://megaddl.co) - Various movies via Mega, 1Fitcher and other file-hoster.
-- [Megadede](https://www.megadede.com/) - (SP) - Yet another spanish streaming site with TV shows and movies.
-- [Movidy](https://movidy.co/) - (SP) - Spanish streaming website for movies and TV series.
+- [MegaDDL](https://megaddl.co) - Varias películas a través de Mega, 1Fitcher y otros servidores de archivos.
+- [Megadede](https://www.megadede.com/) - (ES) - Otro sitio de transmisión en español con programas de televisión y películas.
+- [Movidy](https://movidy.co/) - (ES) - Sitio web de transmisión en español de películas y series de televisión.
 - [MovieGlide](https://www.movieglide.com/)
 - [Movies24](https://movies24.top/)
 - [MovieZion](https://www.nicemoviezion.pro/)
 - [Niter](https://niter-movies.com/)
-- [pahe.in](https://pahe.in/) - Streams via Uptostream, Google Drive or Mega.
-  - [Mirror](http://Pahe.me)
-  - [Mirror](http://pahe.ph)
+- [pahe.in](https://pahe.in/) - Transmisiones a través de Uptostream, Google Drive o Mega.
+  - [Espejo](http://Pahe.me)
+  - [Espejo](http://pahe.ph)
 - [ProSpice](https://prospice.surge.sh/)
-- [Send It](https://sendit.gg/)
+- [Envíalo](https://sendit.gg/)
 - [SeriesFree](https://seriesfree.to/)
 - [SeriesTop](https://www.seriestop.net/index.php)
 - [Solarmoviez](https://solarmoviez.ru/)
@@ -263,128 +265,128 @@ sidebar_label: Movies and TV shows
 - [Watchfree.at](https://watchfree.at/watchfree.html)
 - [Watchfree.movie](https://www1.watchfree.movie/)
 - [WatchOnline.al](https://watchonline.al/)
-- [WawaCity](https://ww3.wawacity.ec) - Movies & tv series.
+- [WawaCity](https://ww3.wawacity.ec) - Películas y series de televisión.
 - [XMovies8](https://xmovies8.ru/)
-- [Yes! Movies](https://yesmovies.to/)
+- [¡Sí! Películas](https://yesmovies.to/)
 - [YesMovies.fun](https://yesmovies.fun/)
 - [ZMovies](https://zmovies.top/)
 - [Worldscinema](https://worldscinema.org/)
 - [Rarfilm](http://rarefilm.net/)
-- [xyztv.xyz](https://xyztv.xyz/) - TV Shows.
-- [ask4movie](https://ask4movie.co/) - (`needs adblocker`) - Netflix like UI. Stream series and movies.
-- [Seriesvault](https://seriesvault.org/) - TV Series that we all love.
-- [O2TvSeries.CO](https://o2tvseries.co/) - Download & stream your all favorite Movies, TV Series and K-Dramas in High Quality.
-- [OK.ru](https://ok.ru/videos/) - Legal and other videos, differnt quality, mostly 720p.
-- [tuga.tv](https://tuga.tv/) - Sistema PLEX - Cinema + Netflix + HBO + PrimeVideo + Disney + HULU
-- [mrpiracy](https://v1.mrpiracy.xyz/) - (`GeoIP block`) - Lots of movies and TV shows.
+- [xyztv.xyz](https://xyztv.xyz/) - Programas de televisión.
+- [ask4movie](https://ask4movie.co/) - (`necesita adblocker`) - Interfaz de usuario similar a Netflix. Transmita series y películas.
+- [Seriesvault](https://seriesvault.org/) - Serie de televisión que todos amamos.
+- [O2TvSeries.CO](https://o2tvseries.co/) - Descargue y transmita todas sus películas, series de TV y K-Dramas favoritos en alta calidad.
+- [OK.ru](https://ok.ru/videos/) - Videos legales y de otro tipo, calidad diferente, en su mayoría 720p.
+- [tuga.tv](https://tuga.tv/) - Sistema PLEX - Cine + Netflix + HBO + PrimeVideo + Disney + HULU
+- [mrpiracy](https://v1.mrpiracy.xyz/) - (`GeoIP block`) - Muchas películas y programas de televisión.
 
-### Stream Sharing
+### Transmisión compartida
 
-- [r/Movie_Club](https://www.removeddit.com/r/Movie_Club) - Where you can get together with strangers and watch a great movie every week!.
-- [&chill](https://andchill.tv/) - Watch videos with other people, it acts like a video streaming service.
-- [ArconaiTV](https://www.arconaitv.us/) - Another stream sharing platform with a nice UI.
-- [CyTube](https://cytu.be/) - Channel-based shared streaming platform for synchronised viewing of YouTube and Google Drive videos.
-- [Netflix Party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa/related) - Netflix Party is a Chrome extension for watching Netflix remotely with other users.
-- [sync](https://github.com/calzoneman/sync/) - Node.js Server and JavaScript/HTML Client for synchronizing online media.
-- [SyncLounge](https://synclounge.tv/) - Third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
-- [watch2gether](https://www.watch2gether.com/) - Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
-- [Cybergame.tv](https://cybergame.tv/) - Stream copyrighted content via rtmp protocol.
-- [Kast is Watch Parties Made Easy](https://kast.gg) - Watch parties made easy. Share movies, TV shows, games, and whatever you want with 100+ people.
-- [rabb.it](https://rabb.it/) - Hang out and watching stuff with your friends online!.
-- [Discord Go Live](https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
+- [r/Movie_Club](https://www.removeddit.com/r/Movie_Club) - ¡Donde puedes reunirte con extraños y ver una gran película cada semana !.
+- [& chill](https://andchill.tv/) - Mira videos con otras personas, actúa como un servicio de transmisión de videos.
+- [ArconaiTV](https://www.arconaitv.us/) - Otra plataforma para compartir transmisiones con una interfaz de usuario agradable.
+- [CyTube](https://cytu.be/) - Plataforma de transmisión compartida basada en canales para visualización sincronizada de videos de YouTube y Google Drive.
+- [Netflix Party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa/related) - Netflix Party es una extensión de Chrome para ver Netflix de forma remota con otros usuarios.
+- [sincronización](https://github.com/calzoneman/sync/) - Servidor Node.js y Cliente JavaScript/HTML para sincronizar medios en línea.
+- [SyncLounge](https://synclounge.tv/): herramienta de terceros que te permite ver Plex sincronizado con tus amigos/familiares, estés donde estés.
+- [watch2gether](https://www.watch2gether.com/) - Disfruta de Internet sincronizado con tus amigos. Vea videos, escuche música o vaya de compras en Watch2Gether.
+- [Cybergame.tv](https://cybergame.tv/) - Transmita contenido protegido por derechos de autor a través del protocolo rtmp.
+- [Kast es fácil de ver las fiestas](https://kast.gg) - Ver las fiestas de manera fácil. Comparte películas, programas de televisión, juegos y lo que quieras con más de 100 personas.
+- [rabb.it](https://rabb.it/) - ¡Pasa el rato y mira cosas con tus amigos en línea!
+- [Discord Go Live](https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Comparta su pantalla con Go Live directamente en Discord (hasta 50 personas).
 
-### Paid TV Streaming
+### Transmisión de TV paga
 
-- [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more.
-- [stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy, etc.
-- [Watchallyouwant](https://watchallyouwant.com/western/) - Watch TV shows, movies, premium TV & more.
+- [Ustvgo](https://ustvgo.tv/) - Mira CBS, Comedy, Disney, Fox, HBO y muchos más.
+- [stagedork](http://stagedork.com/) - Canales populares de Boradway como Fox, HBO, Comedy, etc.
+- [Watchallyouwant](https://watchallyouwant.com/western/) - Mira programas de televisión, películas, televisión premium y más.
 
 ## HDR/4k
 
-- [Fake or real 4k](https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is the [predb check](https://predb.me/?search=2160p+BluRay+x265).
-- [4k-hd.club](https://4k-hd.club/) - Premium site with the highest quality of 4K ULTRA HD Movies.
-- [4K-HDR.org](https://4k-hdr.org/) - 4K rips HDR movies download, Blu-ray ultra hd movies HDR 10 Bit. Download movies rip HDR in 4K Ultra HD 2160P. 4K-HDR.ORG best site of 4K HDR format.
-- [BeyondHD](https://beyond-hd.me/login) - (login needed) - 4K remuxes and 4K movies.
-- [Blu-ray.world](https://blu-ray.world/) - Original blu-ray movies in format REMUX 4K, 3D, 1080P, 720P.
+- [4k falso o real](https://4kmedia.org/real-or-fake-4k/) - Verifique si el sitio web proporciona una versión real o escalada, la lista se actualiza mensualmente, una alternativa es el [control predb](https://predb.me/?search=2160p+BluRay+x265).
+- [4k-hd.club](https://4k-hd.club/) - Sitio premium con la más alta calidad de películas 4K ULTRA HD.
+- [4K-HDR.org](https://4k-hdr.org/) - Descarga de películas HDR en 4K, películas en Blu-ray ultra hd HDR de 10 bits. Descarga películas rip HDR en 4K Ultra HD 2160P. 4K-HDR.ORG mejor sitio de formato 4K HDR.
+- [BeyondHD](https://beyond-hd.me/login) - (es necesario iniciar sesión) - Remuxes 4K y películas 4K.
+- [Blu-ray.world](https://blu-ray.world/) - Películas blu-ray originales en formato REMUX 4K, 3D, 1080P, 720P.
 - [HDSS](https://hdss.watch/)
-- [MoviesFiles](https://moviefiles.org/) - High quality MKV files which you can stream e.g. via MPV.
-- [nima4k](https://nima4k.org/) - Movies and TV shows via DDL.to and Rapidgator.
-- [PrivateHD](https://privatehd.to/) - (login needed) - HD, 4k Movies and TV shows.
-- [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg.
-- [UHDBits](https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
-- [UHDMV.org](https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
-- [Zamunda](https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
-- [VidFlix](https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
-- [Tigole Release](https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
-- [nima4k](https://nima4k.org) - A well-known platform for ducmentations, series & movies.
-- [FreeMovie4kOnline](https://www.freemovie4konline.com/) - HQ Movies and TV shows.
+- [MoviesFiles](https://moviefiles.org/) - Archivos MKV de alta calidad que puede transmitir, p. Ej. vía MPV.
+- [nima4k](https://nima4k.org/) - Películas y programas de televisión a través de DDL.to y Rapidgator.
+- [PrivateHD](https://privatehd.to/) - (es necesario iniciar sesión) - HD, 4k Películas y programas de TV.
+- [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes de Rarbg.
+- [UHDBits](https://uhdbits.org/) - (necesita iniciar sesión) - Programas de televisión y películas en HD, HDR y 4K.
+- [UHDMV.org](https://uhdmv.org/) - Descarga gratis, películas Ultra HD Bluray, Películas 4K, Películas HD, Películas Bluray, REMUX, 2160p, 1080p, 720p, Películas Ultra HD gratuitas.
+- [Zamunda](https://zamunda.net/catalogs/) - (necesita iniciar sesión) - HDR, 4 programas de televisión y películas.
+- [VidFlix](https://vidflix.net/) - Sin anuncios, películas limpias y programas de TV en alta calidad.
+- [Lanzamiento de Tigole](https://tigolerelease.blogspot.com/) - Películas de alta calidad, en su mayoría 1080 y 4k.
+- [nima4k](https://nima4k.org) - Una plataforma conocida para presentaciones, series y películas.
+- [FreeMovie4kOnline](https://www.freemovie4konline.com/) - Películas y programas de televisión de alta calidad.
 
-## Downloading
+## Descargas
 
-- [5Movies](http://5movies.to/) - Large collection dating as far back as 1990.
-- [Solarmovie.fm](http://www.solarmovie.fm/) - or [Solarmovies.cc](https://solamovies.cc/) - Plenty of movies and TV shows.
-- [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
-- [r/MovieStreamingSites](https://www.removeddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
-- [2TwoMovies](https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
-- [5Movies](http://5movies.to/) - Watch FULL HD Quality 1080/720p movies and latest tv series online for free, download the latest movies without registration at all.
-- [8Putlocker](http://www1.8putlocker.com/) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
-- [Afdah](http://afdah.to/) - Afdah is a web scraper coded to crawl and index online movie sites.
-- [BS.to](https://bs.to/) - (GER) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
-- [CafeHulu](http://cafehulu.com/) - Best Place To Watch FREE Tv Series And Cartoons.
-- [dokujunkies](https://dokujunkies.org) - Provides several documentations, movies etc. Links are shared via uploaded.
-- [FreeMoviez](https://freemoviesz.online/) - Watch free movies online.
-- [Los-Movies](http://los-movies.com/) - You can stream High Quality movies and cinema films without any redirection.
-- [M4UFree.TV](http://m4ufree.tv/) - Unique design, HD server with backup and additional hosts.
-- [Movie4k](https://movie4k.io/) - Yet another huge Movie/TV Library.
-- [Primewire](http://www.primewire.is/) - Free Movies! Wow!.
-- [Putlocker.onl](https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
-- [Putlockerfreely](https://putlockerfreely.online/) - Watch your favorite movies online free on Putlocker. Discover thousands of latest movies online.
-- [Putlockeri](https://putlockeri.club/) - Watch your favorite movies online free on Putlocker.
-- [Putlockertv](https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
-- [Sockshare](http://sockshare.ac/) - Huge Movie/TV Library.
-- [SolarMovieHD](https://solarmoviehd.to/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
-- [Solarmovies](https://solamovies.cc/) - SolarMovie claims to be the biggest Library of free movies and tv shows.
-- [Streaming Multireddit](https://www.removeddit.com/user/nbatman/m/streaming/) - Reddit, random streaming sites.
-- [TorrentDownloads.me](https://www.torrentdownloads.me/) - It is a no-nonsense index that provides torrents to millions of users each month.
-- [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
-- [MX Player](https://www.mxplayer.in/) - Movies and Databases regarding movies, tv series and other shows.
-- [Rapid Moviez (RMZ)](https://rmz.cr/) - Movies and TV shows.
-- [60 FPS Movies](https://60-fps.org/) - Russian site for 60 fps Movies only.
-- [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more.
+- [5Movies](http://5movies.to/) - Gran colección que data de 1990.
+- [Solarmovie.fm](http://www.solarmovie.fm/) - o [Solarmovies.cc](https://solamovies.cc/) - Muchas películas y programas de televisión.
+- [WorldSrc](https://worldsrc.org) - Películas, software, aplicaciones, juegos, música e imágenes disponibles para descarga directa rápida + torrents.
+- [r/MovieStreamingSites](https://www.removeddit.com/r/MovieStreamingSites/) - Reddit, sitios de transmisión aleatoria.
+- [2TwoMovies](https://two-movies.net/) - Mira películas gratis en línea. TwoMovies es un servicio de video en línea gratuito que ofrece una gran colección de películas completas.
+- [5Movies](http://5movies.to/) - Vea películas en calidad FULL HD 1080/720p y las últimas series de televisión en línea de forma gratuita, descargue las últimas películas sin registrarse.
+- [8Putlocker](http://www1.8putlocker.com/) - Vea películas en HD en línea gratis, puede ver todas las películas aquí. Todas las series de televisión, dramas asiáticos, animes y dibujos animados.
+- [Afdah](http://afdah.to/) - Afdah es un raspador web codificado para rastrear e indexar sitios de películas en línea.
+- [BS.to](https://bs.to/) - (GER) - Sitio web alemán de videos bajo demanda para programas de televisión, dibujos animados y películas.
+- [CafeHulu](http://cafehulu.com/) - El mejor lugar para ver series de televisión y dibujos animados GRATIS.
+- [dokujunkies](https://dokujunkies.org) - Proporciona varias documentaciones, películas, etc. Los enlaces se comparten mediante la carga.
+- [FreeMoviez](https://freemoviesz.online/) - Mira películas gratis en línea.
+- [Los-Movies](http://los-movies.com/) - Puede transmitir películas de alta calidad y películas de cine sin ninguna redirección.
+- [M4UFree.TV](http://m4ufree.tv/) - Diseño único, servidor HD con respaldo y hosts adicionales.
+- [Movie4k](https://movie4k.io/) - Otra gran biblioteca de películas/TV.
+- [Primewire](http://www.primewire.is/) - ¡Películas gratis! ¡Guau!.
+- [Putlocker.onl](https://www3.putlocker.onl/) - Vea películas y series de TV gratis, vea episodios completos de series en línea gratis con calidad HD en Putlocker.
+- [Putlockerfreely](https://putlockerfreely.online/) - Mira tus películas favoritas en línea gratis en Putlocker. Descubra miles de películas más recientes en línea.
+- [Putlockeri](https://putlockeri.club/) - Mira tus películas favoritas en línea gratis en Putlocker.
+- [Putlockertv](https://www3.putlocker.onl/) - Vea películas y series de TV gratis, vea episodios completos de series en línea gratis con calidad HD en Putlocker.
+- [Sockshare](http://sockshare.ac/) - Gran biblioteca de películas/TV.
+- [SolarMovieHD](https://solarmoviehd.to/) - Vea películas en línea y vea series de televisión en línea en Solarmovie sin registrarse.
+- [Solarmovies](https://solamovies.cc/) - SolarMovie afirma ser la biblioteca más grande de películas y programas de televisión gratuitos.
+- [Streaming Multireddit](https://www.removeddit.com/user/nbatman/m/streaming/) - Reddit, sitios de transmisión aleatoria.
+- [TorrentDownloads.me](https://www.torrentdownloads.me/) - Es un índice serio que proporciona torrents a millones de usuarios cada mes.
+- [Viooz](https://vioozgo.org/) - (RU) - Descubre miles de películas, mira tus películas favoritas en línea de forma gratuita en VZM, Viooz.
+- [MX Player](https://www.mxplayer.in/) - Películas y bases de datos sobre películas, series de televisión y otros programas.
+- [Rapid Moviez (RMZ)](https://rmz.cr/) - Películas y programas de televisión.
+- [Películas a 60 fps](https://60-fps.org/) - Sitio ruso solo para películas a 60 fps.
+- [FilmXY](https://www.filmxy.one/) - ¡Descargue películas ilimitadas gratis en línea desde Filmxy con gran calidad! Aquí puede descargar películas en Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip y más.
 
-## Specialty Sites
+## Sitios especializados
 
-- [Dramago](http://www.dramago.com/) - Drama movies/series.
-- [WatchAsian](https://www2.watchasian.co/) - Foreign.
-- [Layarkaca](http://layarkaca21.ru/) - Foreign.
-- [DramaCool](http://www1.dramacoolfirst.com/) - Foreign.
-- [Daxiv Video](https://daxiv.com/) - Primarily Chinese content.
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) - Movies with nudity.
-- [Club MST3k](http://www.club-mst3k.com/) - Every episode of MST3K.
-- [MioMio](http://www.miomio.tv/) - Asian TV shows/anime.
+- [Dramago](http://www.dramago.com/) - Películas/series de drama.
+- [WatchAsian](https://www2.watchasian.co/) - Extranjero.
+- [Layarkaca](http://layarkaca21.ru/) - Extranjero.
+- [DramaCool](http://www1.dramacoolfirst.com/) - Extranjero.
+- [Daxiv Video](https://daxiv.com/) - Principalmente contenido en chino.
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) - Películas con desnudez.
+- [Club MST3k](http://www.club-mst3k.com/) - Cada episodio de MST3K.
+- [MioMio](http://www.miomio.tv/) - Programas de televisión asiáticos/anime.
 - [1Liberty](https://libertyvf.co/) - (fr-FR).
 - [6VoierFilms](https://www.voirfilms.mx/) - (fr-FR).
 - [CamVault](https://camvault.xyz/login.html)
-- [Cuevana2](https://www.cuevana2.com/) - Espanol.
-- [DaebakDrama](https://daebakdrama.com/) - Korean.
-- [Danimados](https://danimados.com/) - Espanol.
+- [Cuevana2](https://www.cuevana2.com/) - Español.
+- [DaebakDrama](https://daebakdrama.com/) - Coreano.
+- [Danimados](https://danimados.com/) - Español.
 - [DPStream](https://www.dpstream.info/) - (fr-FR).
-- [Einthusan](https://einthusan.tv/intro/) - Foreign.
+- [Einthusan](https://einthusan.tv/intro/) - Extranjero.
 - [EmuleIsland](https://ww5.emule-island.ru/) - (fr-FR).
 - [Filmz.cc](https://www.tfarjo.cc/) - (fr-FR).
 - [K-Streaming](https://www2.k-streaming.tv/) - (fr-FR).
 - [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) - YouTube Horror.
 - [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) - - YouTube Horror.
-- [Rulu](https://www.rulu.co/) - YouTube Red Series.
+- [Rulu](https://www.rulu.co/) - Serie YouTube Red.
 - [StreamComplete](https://streamcomplet.xyz/) - (fr-FR).
 - [Time2Watch](https://time2watch.in/) - (fr-FR).
-- [Top Documentary Films](https://topdocumentaryfilms.com/) - Documentaries.
+- [Mejores películas documentales](https://topdocumentaryfilms.com/) - Documentales.
 - [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) - YouTube Horror.
 - [VFStream](https://www.vf-stream.org/) - (fr-FR).
-- [Videoneat](https://videoneat.com/) - Documentaries/Science Movies.
-- [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - YouTube Grindhouse.
+- [Videoneat](https://videoneat.com/) - Documentales/Películas científicas.
+- [¡WTvF!](Https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - YouTube Grindhouse.
 
-## Third Party Hosts
+## Hosts de terceros
 
 - [Vmovee](https://vmovee.me/)
 - [MovieJagg](https://www.coolmoviejagg.pro/)
@@ -396,13 +398,13 @@ sidebar_label: Movies and TV shows
 - [cinebloom](https://www2.cinebloom.com)
 - [HDEUROPIX](https://topeuropix.net/) - Rapidvideo.
 - [openloadmovies.net](https://openloadmovies.net/)
-- [HD MOVIES](https://hdm.to/) - Streamcherry.
+- [PELÍCULAS HD](https://hdm.to/) - Streamcherry.
 - [VodLocker](https://vodlocker.tv/)
 - [StreamCouch](https://www2.streamcouch.com/)
 - [Qwemovies](https://www3.qwemovies.com/)
 - [movies2k](http://www.movie2k.st) - Streamcloud, Rapidvideo, Upvid.
 - [xPau.se](http://xpau.se/) - Googledrive.
-- [Flixanity](https://flixanity.xyz/) - hls.22x.cartoonhd.pw (subtitles).
+- [Flixanity](https://flixanity.xyz/) - hls.22x.cartoonhd.pw (subtítulos).
 - [MegaShare](http://megashare9.su)
 - [XMovies8](https://xmovies8.ru/) - FServer, PTServer.
 - [IceFilms](http://www.icefilms.info/) - FileUpload.
@@ -413,57 +415,57 @@ sidebar_label: Movies and TV shows
 - [pahe.in](https://pahe.in/) - Uptostream, Google Drive, Mega.
 - [megaDDL](https://megaddl.co/) - Mega, Go4up, 1Fichier, NitroFlare.
 
-## Ripping, Transcoding, Converting, Encoding
+## Extracción, transcodificación, conversión, codificación
 
-- [DVD Decrypter](http://dvddecrypter.org.uk/) - The original unofficial DVD Decrypter mirror since June 7th, 2005.
-- [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) - The A.R.M. (Automatic Ripping Machine) - detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action.
-- [DVDFab](https://www.dvdfab.cn/) - DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
-- [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
-- [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
-- [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
-- [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
+- [DVD Decrypter](http://dvddecrypter.org.uk/) - El espejo original no oficial de DVD Decrypter desde el 7 de junio de 2005.
+- [Máquina de extracción automática](https://b3n.org/automatic-ripping-machine/) - El A.R.M. (Máquina de extracción automática): detecta la inserción de un disco óptico, identifica el tipo de medio y realiza de forma autónoma la acción adecuada.
+- [DVDFab](https://www.dvdfab.cn/) - Herramienta de extracción de DVD/Blu-ray, uso alternativo AnyDVD HD.
+- [ffmpeg](https://ffmpeg.org/) - Una completa solución multiplataforma para grabar, convertir y transmitir audio y video.
+- [Handbrake](https://handbrake.fr/) - HandBrake es una herramienta para convertir videos de casi cualquier formato a una selección de códecs modernos y ampliamente compatibles.
+- [MakeMKV](https://www.makemkv.com/) - MakeMKV es su solución con un solo clic para convertir videos que posee en un formato libre y sin patentes que se puede reproducir en cualquier lugar.
+- [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Convierta automáticamente archivos de video a un formato mp4 estandarizado con el etiquetado de metadatos adecuado para crear una biblioteca multimedia hermosa y uniforme.
+- [La guía de codificación](https://encoding-guide.neocities.org/) - Una guía detallada sobre la codificación de video.
 
-## Automation
+## Automatización
 
-- [Radarr](http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
-- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Syncs two Radarr servers through web API.
-- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and BitTorrent users.
-- [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
-- [Medusa](http://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
-- [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows.
-- [SickChill](http://sickchill.github.io/) - An automatic Video Library Manager for TV Shows.
-- [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
-- [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
-- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
-- [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
-- [CouchPotato](http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
-- [Watcher](https://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
-- [Snahp tool](https://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
-- [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
-- [MacGuffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
+- [Radarr](http://radarr.video/) - Una bifurcación de Sonarr para trabajar con películas al estilo Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Sincroniza dos servidores Radarr a través de la API web.
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR para grupos de noticias y usuarios de BitTorrent.
+- [Pulsarr](https://github.com/roboticsound/Pulsarr) - Extensión del navegador para agregar películas a Radarr o Series 'a Sonarr mientras navega por IMDB o TVDB.
+- [traktarr](https://github.com/l3uddz/traktarr) - Script para agregar nuevas series y películas a Sonarr/Radarr según las listas de Trakt.
+- [Medusa](http://pymedusa.com/) - Administrador automático de biblioteca de videos para programas de televisión.
+- [SickBeard](http://sickbeard.com/) - La aplicación PVR definitiva que busca y administra sus programas de televisión.
+- [SickChill](http://sickchill.github.io/) - Un administrador de biblioteca de videos automático para programas de televisión.
+- [SickGear](https://github.com/SickGear/SickGear) - SickGear ha demostrado ser la bifurcación de TV estable más confiable del gran Sick-Beard para automatizar completamente el disfrute de la TV con innovación.
+- [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) - Administrador automático de biblioteca de videos para programas de televisión.
+- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord es una herramienta de línea de comandos semiautomática para descargar y administrar programas de TV de grupos de noticias o Bittorent.
+- [TVShows 2](http://tvshowsapp.com/) - TVShows es la forma más fácil de descargar sus programas favoritos automáticamente en su Mac.
+- [CouchPotato](http://couchpota.to/) - Descargue películas de forma automática, fácil y con la mejor calidad tan pronto como estén disponibles.
+- [Watcher](https://github.com/nosmokingbandit/Watcher3) - Watcher es un buscador y secuestrador automatizado de películas NZB y Torrent.
+- [Herramienta Snahp](https://github.com/Rawnly/snahp-tool) - Cliente para descargar películas de listas de snahp.
+- [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious es una aplicación web que le ayuda a descargar películas y programas de televisión.
+- [MacGuffin](https://github.com/hwkns/macguffin) - Herramientas automatizadas para manejar los lanzamientos de películas de Scene y P2P.
 
-## Subtitles
+## Subtítulos
 
-- [ASS / SSA to SRT Subtitles Converter](https://sorz.github.io/asstosrt-wasm/) - Encode ASS/SRT files.
-- [Addic7ed](https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
-- [HorribleSubs](https://horriblesubs.info/) - Schedule for upcoming Anime releases, Subs, IRC, Show Info.
-- [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
-- [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
-- [WonderfulSubs](https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!.
-- [CCExtractor](https://www.ccextractor.org/) - A tool that analyzes video files and produces independent subtitle files from the closed captions data.
-- [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - A free and open source editor for video subtitles.
+- [Convertidor de subtítulos ASS/SSA a SRT](https://sorz.github.io/asstosrt-wasm/) - Codifica archivos ASS/SRT.
+- [Addic7ed](https://www.addic7ed.com/) - Subtítulos de calidad para programas de televisión y películas.
+- [HorribleSubs](https://horriblesubs.info/) - Programa para los próximos lanzamientos de Anime, Subs, IRC, Show Info.
+- [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Cambie el nombre de los archivos de subtítulos según los nombres de los programas de televisión que se encuentran en un directorio.
+- [Subescena](https://subscene.com/) - Subtítulos de calidad para películas.
+- [WonderfulSubs](https://www.wonderfulsubs.com/) - ¡El mejor lugar en la web para todo lo relacionado con el anime !.
+- [CCExtractor](https://www.ccextractor.org/): una herramienta que analiza archivos de video y produce archivos de subtítulos independientes a partir de los datos de los subtítulos opcionales.
+- [Edición de subtítulos](https://github.com/SubtitleEdit/subtitleedit) - Un editor de código abierto y gratuito para subtítulos de video.
 
-### Subtitles Automation
+### Automatización de subtítulos
 
-- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
-- [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-- [HorribleSubs Bulkd Download](http://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
-- [JustDubs](http://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
-- [SubScenes](http://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
-- [WonderfulSubs](http://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
-- [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition.
-- [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
-- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
-- [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
+- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Obtiene subtítulos para los videos que se proporcionan. También se puede integrar fácilmente en NZBGet y SABnzbd.
+- [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr es una aplicación que acompaña a Sonarr y Radarr. Administra y descarga subtítulos según sus requisitos.
+- [Descarga masiva de HorribleSubs](http://anonembed.xyz/horriblesubs/) - Sitio web de descarga de suscripciones masivas de 9anime.
+- [JustDubs](http://ww5.justdubs.me/) - Mira películas y anime doblados en inglés gratis en línea.
+- [SubScenes](http://subscene.com/) - Escena de subtítulos, proporciona subtítulos y herramientas.
+- [WonderfulSubs](http://www.wonderfulsubs.com/) - Subs y doblajes, sin anuncios, todavía en fase beta.
+- [autosub](https://github.com/agermanidis/autosub) - Utilidad de línea de comandos para la generación automática de subtítulos para cualquier archivo de video mediante reconocimiento de voz.
+- [vlsub](https://github.com/exebetche/vlsub) - Extensión VLC para descargar subtítulos de opensubtitles.org.
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Sincroniza automáticamente los subtítulos con el video.
+- [Sublight.me](http://sublight.me/) - Descarga automática de subtítulos por lotes en una carpeta supervisada.
