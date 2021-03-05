@@ -1,135 +1,137 @@
 ---
-title: Music and podcasts
-sidebar_label: Music and podcasts
+título: Música y podcasts
+sidebar_label: Música y podcasts
 ---
 
-- [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-- [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
-- [ddl-music.to](http://ddl-music.to/) - (_Cloudflare german IP block/check_) - `Ger` - German music platform to share.
-- [94hiphop](http://94hiphop.com/) - Download Free Hip Hop Albums!.
-- [Bandcamp](https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) - music (DRM free).
-- [Balaton Sound aka per-fect](https://per-fect.nl) - Listen to songs (no directl dl!).
-- [Beets](http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
-- [CDBao](https://www.cdbao.net/) - (invite only) - A chinese age for various music.
-- [DQQD](https://dqqd.org/) - Provides music via sharehoster, rapidgator etc.
-- [FreeAllMusic](https://freeallmusic.top/) - Download any high quality music and up-to-date to the latest releases.
-- [LibreSonic](https://github.com/Libresonic/libresonic) - Media streaming software.
-- [MOOVAL](https://www.mooval.de/) - Easily move your playlists, tracks and likes from one streaming service to another.
-- [Madsonic](https://www.madsonic.org/) - Madsonic is a web-based media library and media streamer with jukebox functionality.
-- [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
-- [ProgrockWorld](https://progrockworld.ru/) - (RU) - Classic Rock, Pop & more.
-- [RaveDJ](https://rave.dj/) - Online creation of mixes and mashups.
-- [Redacted](https://redacted.ch/) - Elite music scene (requires invite).
-- [RuTracker](http://rutracker.org/forum/index.php) - Ru-Tracker, music info, releases & software.
-- [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
-- [airsonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
-- [streethiphop](https://www.streethiphop.org/) - Download free music.
-- [wi.to](https://www.wi.to/) - A freemium hoster for music files.
-- [CoreRadio](http://coreradio.ru) - (`RU`) - Music in FLAC format & MP3s.
-- [Sophies Floorboard](http://sophiesfloorboard.blogspot.co.uk) - MP3s and MU3's.
-- [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) - Simple software for downloading podcasts. Contribute to cnovel/PodcastBulkDownloader development by creating an account on GitHub.
-- [Podsnatch](https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
-- [How to use Chimera multi music downloader](https://www.youtube.com/watch?v=5y8rtsLw7Rc)
-- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free.
-- [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
-- [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format. Comes with some pretty nifty features too.
-- [Hindi-lossless](https://hindi-lossless.blogspot.com/) - Losssless (flac) Hindi Music.
+- [Lidarr](https://github.com/lidarr/Lidarr) - Parece y huele a Sonarr pero hecho para la música.
+- [Auriculares](https://github.com/rembo10/headphones) - Descargador de música automático para SABnzbd.
+- [ddl-music.to](http://ddl-music.to/) - (_Cloudflare german IP block / check_) - `Ger` - Plataforma de música alemana para compartir.
+- [94hiphop](http://94hiphop.com/) - ¡Descarga álbumes de Hip Hop gratis !.
+- [Bandcamp](https://www.bandcamp.com/) - Alternativa de Spotify, algo gratis + pago (flac) - música (sin DRM).
+- [Balaton Sound también conocido como perfecto](https://per-fect.nl) - Escuche canciones (¡sin dl directo!).
+- [Remolachas](http://beets.io/) - (insecue) - El propósito de las remolachas es hacer que tu colección de música sea correcta de una vez por todas. Cataloga su colección, mejorando automáticamente sus metadatos a medida que avanza utilizando la base de datos MusicBrainz.
+- [CDBao](https://www.cdbao.net/) - (solo por invitación) - Una era china para la música variada.
+- [DQQD](https://dqqd.org/) - Proporciona música a través de sharehoster, rapidgator, etc.
+- [FreeAllMusic](https://freeallmusic.top/) - Descarga música de alta calidad y actualizada con las últimas versiones.
+- [LibreSonic](https://github.com/Libresonic/libresonic) - Software de transmisión de medios.
+- [MOOVAL](https://www.mooval.de/) - Mueva fácilmente sus listas de reproducción, pistas y me gusta de un servicio de transmisión a otro.
+- [Madsonic](https://www.madsonic.org/) - Madsonic es una biblioteca de medios basada en la web y un transmisor de medios con funcionalidad de jukebox.
+- [MusicBrainz](https://musicbrainz.org/) - MusicBrainz es una enciclopedia de música abierta que recopila metadatos de música y la pone a disposición del público.
+- [ProgrockWorld](https://progrockworld.ru/) - (RU) - Rock clásico, pop y más.
+- [RaveDJ](https://rave.dj/) - Creación online de mezclas y mashups.
+- [Redactado](https://redacted.ch/) - Escena musical de élite (requiere invitación).
+- [RuTracker](http://rutracker.org/forum/index.php) - Ru-Tracker, información musical, lanzamientos y software.
+- [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek es una red de intercambio de archivos sin publicidad, sin software espía y sencilla para Windows, Mac y Linux.
+- [airsonic](https://airsonic.github.io/) - Airsonic es un transmisor de medios gratuito basado en la web que brinda acceso ubicuo a su música.
+- [streethiphop](https://www.streethiphop.org/) - Descarga música gratis.
+- [wi.to](https://www.wi.to/) - Un hoster freemium para archivos de música.
+- [CoreRadio](http://coreradio.ru) - (`RU`) - Música en formato FLAC y MP3.
+- [Sophies Floorboard](http://sophiesfloorboard.blogspot.co.uk) - MP3 y MU3.
+- [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) - Software simple para descargar podcasts. Contribuya al desarrollo de cnovel / PodcastBulkDownloader creando una cuenta en GitHub.
+- [Podsnatch](https://github.com/robotmlg/podsnatch) - Descargador de podcasts simple. Contribuya al desarrollo de robotmlg / podsnatch creando una cuenta en GitHub.
+- [Cómo utilizar el descargador de música múltiple Chimera](https://www.youtube.com/watch?v=5y8rtsLw7Rc)
+- [Deshazte de los anuncios de Spotify](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Guía breve sobre cómo evitar anuncios, banners, saltos limitados y modo aleatorio bloqueado en Spotify Free.
+- [Bloquear actualizaciones de Spotify en macOS](https://donotupdatespotify.sh/) - Una guía es avbl. [aquí](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
+- [Cómo eliminar DRM de películas y programas de televisión de iTunes](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - Artículo de HowToGeek sobre cómo usar TunesKit y Requiem.
+- [Copia de audio exacta](http://www.exactaudiocopy.de/) - Transfiera archivos desde sus CD a su PC en casi todos los formatos. Viene con algunas características bastante ingeniosas también.
+- [Hindi-lossless](https://hindi-lossless.blogspot.com/) - Música hindi sin pérdida (flac).
 
-## Album Art
+## Arte de álbum
 
-- [Album Art Downloader](https://sourceforge.net/projects/album-art/) - Find and update their album art for their music collection.
-- [newalbum.club](https://newalbum.club/) - Search and download free music & album arts. No account required!.
+- [Descargador de carátulas del álbum](https://sourceforge.net/projects/album-art/): busque y actualice la carátula de su álbum para su colección de música.
+- [newalbum.club](https://newalbum.club/) - Busque y descargue música y artes de álbumes gratis. ¡No se requiere cuenta !.
 
-## Streaming
+## Transmisión
 
-- [datmusic](https://datmusic.xyz/) - Search engine with a clean UI for streaming music in your browser.
-- [GoSong](https://gosong.unblocked.gdn/) - Streamable MP3s.
-- [Hikarinoakariost](https://hikarinoakariost.info/) - Site with Japanese music and soundtracks.
-- [MP3Juices](https://mp3juices.unblocked.gdn/) - MP3 search engine tool which uses YouTube.
-- [MusicPleer](https://musicpleer.la/) - Another music streaming site with a decent search engine.
-- [Muxiv Music](https://muxiv.com/) - Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
-- [SongsPK](https://songs-pk.in/) - Mainly for downloading Bollywood songs. Domain changes frequently.
-- [mp3Clan](http://mp3guild.com/) - Free music streaming.
-- [mp3.li](http://mp3li.unblckd.club) - Another MP3 streaming site.
-- [slider.kz](http://slider.kz/) - Quirky and fast music streaming site.
+- [datmusic](https://datmusic.xyz/) - Motor de búsqueda con una interfaz de usuario limpia para transmitir música en su navegador.
+- [GoSong](https://gosong.unblocked.gdn/) - MP3 que se pueden transmitir.
+- [Hikarinoakariost](https://hikarinoakariost.info/) - Sitio con música y bandas sonoras japonesas.
+- [MP3Juices](https://mp3juices.unblocked.gdn/) - Herramienta de motor de búsqueda de MP3 que utiliza YouTube.
+- [MusicPleer](https://musicpleer.la/) - Otro sitio de transmisión de música con un motor de búsqueda decente.
+- [Muxiv Music](https://muxiv.com/) - Transmite 45 millones de canciones en todos tus dispositivos, en línea o sin conexión. Principalmente contenido chino.
+- [SongsPK](https://songs-pk.in/) - principalmente para descargar canciones de Bollywood. El dominio cambia con frecuencia.
+- [mp3Clan](http://mp3guild.com/) - Transmisión de música gratuita.
+- [mp3.li](http://mp3li.unblckd.club) - Otro sitio de transmisión de MP3.
+- [slider.kz](http://slider.kz/) - Sitio de transmisión de música rápido y peculiar.
 
-## Downloading
+## Descargas
 
-- [Spotify™ & Deezer™ Music Downloader](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
-- [Soulseek](http://www.soulseekqt.net/news/) - Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
-- [irs](https://github.com/kepoorhampond/irs) - A music downloader that understands your metadata needs.
-- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) - A streaming music downloader.
-- [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) - Another program with the same purpose, both based on the original, now defunct Deezloader.
-- [Deemix](https://deemix.app/) - A barebone deezer downloader library built from the ashes of Deezloader Remix.
-- [r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezloader.
-- [New Album Releases](http://newalbumreleases.net/) - Premium DDL links for full albums.
-- [Kingdom Leaks](https://kingdom-leaks.com/) - DDL links for album leaks.
-- [KHInsider](https://downloads.khinsider.com/) - Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
-- [VGMLoader](https://github.com/TheLastZombie/VGMLoader) - Tool for bulk downloading from KHInsider.
-- [Free MPS Download.net](https://free-mp3-download.net/) - Search engine with streamable samples and download links.
-- [chimera](https://notabug.org/Aesir/chimera) - Multiple source terminal-based music downloader with audio search engine.
+- [Descargador de música Spotify ™ y Deezer ™](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
+- [Soulseek](http://www.soulseekqt.net/news/) - Soulseek es una red de intercambio de archivos sin publicidad, sin software espía y sencillamente gratuita para Windows, Mac y Linux.
+- [irs](https://github.com/kepoorhampond/irs): un descargador de música que comprende sus necesidades de metadatos.
+- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) - Un descargador de música en streaming.
+- [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) - Otro programa con el mismo propósito, ambos basados en el original, ahora desaparecido Deezloader.
+- [Deemix](https://deemix.app/) - Una biblioteca de descarga de deezer básica construida a partir de las cenizas de Deezloader Remix.
+- [r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Comunidad que apoya a Deezloader.
+- [Lanzamientos de nuevos álbumes](http://newalbumreleases.net/) - Enlaces DDL premium para álbumes completos.
+- [Kingdom Leaks](https://kingdom-leaks.com/) - Enlaces DDL para filtraciones de álbumes.
+- [KHInsider](https://downloads.khinsider.com/) - Sitio que recopila bandas sonoras, en su mayoría MP3, algunos FLAC, OGG o M4A.
+- [VGMLoader](https://github.com/TheLastZombie/VGMLoader) - Herramienta para descarga masiva desde KHInsider.
+- [Free MPS Download.net](https://free-mp3-download.net/) - Motor de búsqueda con muestras que se pueden transmitir y enlaces de descarga.
+- [quimera](https://notabug.org/Aesir/chimera) - Descargador de música basado en terminales de múltiples fuentes con motor de búsqueda de audio.
 - [Plus Premieres](https://www.pluspremieres.nz/) - iTunes M4A Music.
 
 ### Tidal
 
-- [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/macOS (PYTHON/C#).
-- [Ti-DL](https://github.com/Sorrow446/Ti-DL) - Tool written in Python to download AACs & FLACs from Tidal for Windows, macOS & Linux. Sister of Qo-DL and GPM-DL.
-- [Athame](https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) - and works across almost every OS.
-- [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
+- [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Descargar música 'TIDAL' en Windows / Linux / macOS (PYTHON / C #).
+- [Ti-DL](https://github.com/Sorrow446/Ti-DL) - Herramienta escrita en Python para descargar AAC y FLAC de Tidal para Windows, macOS y Linux. Hermana de Qo-DL y GPM-DL.
+- [Athame](https://github.com/fuzzybabybunny/Athame) - (Se requiere una cuenta Premium) - Una herramienta de descarga de música extensible escrita en C #.
+- [Chimera](https://notabug.org/Aesir/chimera) - Compatible con: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Soporte limitado) - y funciona en casi todos los sistemas operativos.
+- [RedSea](https://github.com/redsudo/RedSea) - (Se requiere una cuenta Premium) - Descargador de música para Tidal, revivido.
 
-## Library Manager
+## Administrador de bibliotecas
 
-- [Beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
-- [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!.
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) - A solid cross-platform music tagger.
-- [MusicBee](https://getmusicbee.com/) - Easy peasy organize your music library.
-- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
+- [Beets](https://github.com/beetbox/beets) - Beets es el sistema de gestión de la biblioteca multimedia para los fanáticos de la música obsesivos.
+- [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - ¡Solo usuarios de Windows !.
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Un sólido etiquetador de música multiplataforma.
+- [MusicBee](https://getmusicbee.com/) - Organiza fácilmente tu biblioteca de música.
+- [mStream](http://mstream.io/) - Conjunto de software para sincronizar y transmitir música en varios dispositivos.
 
-## Automation
+## Automatización
 
-- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
-- [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
-- [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
-- [Qo-DL](https://github.com/vvaidy/Qo-DL) - Tool written in Python to download MP3s & FLACs from Qobuz.
-  - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
+- [Athame](https://github.com/fuzzybabybunny/Athame) - Una herramienta de descarga de música extensible escrita en C #.
+- [Chimera](https://notabug.org/Aesir/chimera) - Descarga música de Deezer, Tidal, Qobuz, Napster, Spotify (procedente de Tidal o Deezer), Google Play Music, SoundCloud.
+- [Auriculares](https://github.com/rembo10/headphones) - Descargador de música automático para SABnzbd.
+- [Lidarr](https://github.com/lidarr/Lidarr) - Parece y huele a Sonarr pero hecho para la música.
+- [betanin](https://github.com/sentriz/betanin/) - Organización musical en el medio de su cliente torrent y reproductor de música, basado en beets.io, similar a Sonarr y Radarr.
+- [Qo-DL](https://github.com/vvaidy/Qo-DL) - Herramienta escrita en Python para descargar MP3 y FLAC de Qobuz.
+  - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Herramienta escrita en Python para descargar pistas que se pueden transmitir desde Qobuz.
 
 ## Spotify
 
-- [Dockerized Spotify downloader with metadataOC](https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
-- [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) - This is the most up-to-date list and will block all annoying Spotify ads & analytics.
-- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - A Spotify Ad Blocker written in C# for Windows 7/8/10.
-- [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) - Modded APK with no ads.
-- [Downtify](https://github.com/Superhackman/downtify-premium) - Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
-- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner AdBlock/skip for Spotify
-  - [master131/BlockTheSpot](https://github.com/master131/BlockTheSpot) - Original outdated version.
-- [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
-- [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An macOS app that automatically mutes ads on Spotify (not supported).
-- [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
-- [Spotdl](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
-- [spotr](https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
-- [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
-- [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl. made in Node.js based on youtube-dl.
+- [Descargador de Spotify Dockerized con metadataOC](https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
+- [Archivo de host de Spotify AdBlock](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) - Esta es la lista más actualizada y bloqueará todos los anuncios y análisis molestos de Spotify.
+- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - Un bloqueador de anuncios de Spotify escrito en C # para Windows 7/8/10.
+- [APK modificado de Spotify](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) - APK modificado sin anuncios.
+- [Downtify](https://github.com/Superhackman/downtify-premium) - Downtify es un programa de descarga de Spotify de código abierto que permite descargar todas sus canciones favoritas y / o listas de reproducción directamente desde Spotify.
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio y banner AdBlock / saltar para Spotify
+  - [master131 / BlockTheSpot](https://github.com/master131/BlockTheSpot) - Versión original desactualizada.
+- [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - Silencia anuncios de audio / video, sin embargo, aún debe esperar 30 segundos.
+- [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - Una aplicación macOS que silencia automáticamente los anuncios en Spotify (no compatible).
+- [Spotify BOT](https://t.me/spotify_down_bot) - Bot de Telegram para descargar música de Spotify
+- [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Cliente (s) modificado (s), información, etc.
+- [Spotdl](https://github.com/ritiek/spotify-downloader) - Descarga listas de reproducción de Spotify con albumart y metaetiquetas.
+- [spotr](https://github.com/XDGFX/spotr) - Aplicación Python que convierte las pistas de la lista de reproducción de Spotify en URL de Deezer.
+- [Spytify](https://jwallet.github.io/spy-spotify/) - Graba Spotify sin anuncios mientras se reproduce e incluye etiquetas multimedia en los archivos grabados.
+- [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader y alternativa de Spotdl. hecho en Node.js basado en youtube-dl.
 
 ## iTunes
 
-- [TunesKit](https://www.tuneskit.com/) - iTunes DRM removal tool.
-- [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) - Requiem is a program that removes Apple's DRM (called FairPlay) - from songs, videos, and books purchased on iTunes.
-- [Plus Premieres](https://www.pluspremieres.eu/) - Download newest iTunes music in M4A format.
-- [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux/FreeBSD DAAP (iTunes) - and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
-- [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux/FreeBSD DAAP (iTunes) - and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
-- [Plus Premieres](https://www.pluspremieres.eu/) - Download newest iTunes music in M4A format.
-- [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) - Requiem is a program that removes Apple's DRM (called FairPlay) - from songs, videos, and books purchased on iTunes.
-- [TunesKit](https://www.tuneskit.com/) - iTunes DRM removal tool.
+- [TunesKit](https://www.tuneskit.com/) - Herramienta de eliminación de iTunes DRM.
+- [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) - Requiem es un programa que elimina los DRM (llamado FairPlay): de canciones, videos y libros comprados en iTunes.
+- [Plus Premieres](https://www.pluspremieres.eu/) - Descarga la música más reciente de iTunes en formato M4A.
+- [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux / FreeBSD DAAP (iTunes) - y servidor multimedia MPD con soporte para dispositivos AirPlay (multisala), Apple Remote (y compatibles) , Chromecast, Spotify y radio por Internet.
+- [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux / FreeBSD DAAP (iTunes) - y servidor multimedia MPD con soporte para dispositivos AirPlay (multisala), Apple Remote (y compatibles) , Chromecast, Spotify y radio por Internet.
+- [Plus Premieres](https://www.pluspremieres.eu/) - Descarga la música más reciente de iTunes en formato M4A.
+- [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) - Requiem es un programa que elimina los DRM (llamado FairPlay): de canciones, videos y libros comprados en iTunes.
+- [TunesKit](https://www.tuneskit.com/) - Herramienta de eliminación de iTunes DRM.
 
 ## SoundCloud
 
-- [scdl](https://github.com/flyingrub/scdl) - Old Soundcloud Music Downloader.
-- [mrwnwttk/scdl](https://github.com/mrwnwttk/scdl) - [Tutorial](https://www.removeddit.com/r/Piracy/comments/euhd77/scdl_a_256_kbps_soundcloud_downloader_now_with/) - New 256 Kbps Soundcloud Downloader.
-- [Soundcloud-Download](https://github.com/linnit/Soundcloud-Downloader) - Download songs from SoundCloud.com even if the download button is not available.
-- [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
-- [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
-- [kawai-scripts/soundcloud-downloader](https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
+- [scdl](https://github.com/flyingrub/scdl) - Antiguo descargador de música Soundcloud.
+- [mrwnwttk/scdl](https://github.com/mrwnwttk/scdl) - [Tutorial](https://www.removeddit.com/r/Piracy/comments/euhd77/scdl_a_256_kbps_soundcloud_downloader_now_with/) - Nuevo Soundcloud de 256 Kbps Descargador.
+- [Soundcloud-Download](https://github.com/linnit/Soundcloud-Downloader) - Descarga canciones de SoundCloud.com incluso si el botón de descarga no está disponible.
+- [SoundScrape](https://github.com/Miserlou/SoundScrape) - Aplicación de línea de comandos en Python. Descarga música de SoundCloud, Bandcamp y Mixcloud
+- [scddlr.com](https://www.scddlr.com/) - Convertidor de SoundCloud a MP3 en línea.
+- [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Descarga SoundCloud sin servicio externo.
+- [kawai-scripts / soundcloud-downloader](https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
