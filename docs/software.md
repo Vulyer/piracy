@@ -3,501 +3,503 @@ title: Software
 sidebar_label: Software
 ---
 
-- [MIC028_Piracy Guide.indd - Microsoft (.PDF)](http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
-- [What are the risks of using pirated Windows 10?](https://windowsreport.com/pirated-windows-10-risks/)
-- [Unofficial Reddit Guides to software piracy](https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
-- [How to download snahp zippy files without using your computer space and bandwidth!](https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
-- [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
-- [r/piracy/wiki/tools](https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
-- [nsane.down](https://www.nsanedown.com/) - A popular file-sharing forum focused on software.
-- [Appked](https://www.macbed.com/) - Mac application sharing site.
-- [/s/sjain_guides](https://saidit.net/s/sjain_guides) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more.
-- [My Digital Life Forums](https://forums.mydigitallife.net/) - Popular forum for modded/cracked software and apps.
-- [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
-- [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
-- [Photokaaran](http://photokaaran.com/) - Indian site with direct download links of cracked productivity tools.
-- [Vestathemes](https://www.vestathemes.com/) - A website for WordPress themes and plugins.
-- [Appnee](https://appnee.com/) - One of the oldest websites when it comes to software, changes the domain often.
-- [Blackpearl](https://blackpearl.biz/) - Provides similar services like Shnap forum.
-- [Bagas31](https://www.bagas31.info/) - Bagas32 is a known disturber for software and software cracks.
-- [Bontersoft.cc](https://www.bontersoft.cc/) - Windows software to various products, AV's, Music etc.
-- [Cloud-Droid](https://www.cloud-droid.com) - Cloud-Droid offers (mostly) - downloads via sharehoster.
-- [CrackingPatching.com](https://crackingpatching.com/) - Cracked software for free!.
-- [DDGroupClub](http://ddgroupclub.win/) - (`RU`).
-- [Fost.Club](http://fost.club/) - (`RU`).
-- [KaranPC](https://karanpc.com) - Yet another community around Windows software.
-- [Nulled](https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
-- [PiratBit](https://pb.wtf/) - (`RU`).
-- [PirateCity](https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
-- [RuTracker](http://rutracker.ru/) - (`RU`).
-- [RadiXX11](https://radixx11rce2.blogspot.com/) - Provides software cracks and keygens for various software.
-- [Sanet.st](https://sanet.st/) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
-- [Softlay](https://softlay.net) - Windows software mirrors.
-- [Softpilot](https://softpilot.win/) - (`RU`) - A forum and website for various repacks and in general a good place for software discussions.
-- [Tapochek](https://tapochek.net/) - (`RU`).
-- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
-- [trec.to](http://trec.to/) - (`RU`).
-- [UltraTrack](http://uraltrack.net/) - (`RU`) - A forum for various repacks and in general a good place for software discussions.
-- [Underver.se](https://underver.se/) - (`RU`).
-- [Uniondht](http://uniondht.org/) - (`RU`).
-- [Digiboy](https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
-- [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
-- [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
-- [OnHaxCrack](https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
-- [PirateCity](https://www.piratecity.net) - Various Software releases.
-- [CrackHomes](https://crackhomes.com) - Yet another release page.
-- [Ask4PC](https://www.ask4pc.net) - Cracks for PC Software.
-- [ProFreeCrack](https://profreecrack.com) - Provides cracks for various programs.
-- [downloadha](https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
+- [Mic028_Piracy Guide.indd - Microsoft (.pdf)](http://download.microsoft.com/documents/australia/piracy/piracyguide.pdf) - Guía anti piratería de software de Microsoft.
+- ¿Cuáles son los riesgos de usar Windows 10 Pirateado?](Https://windowsreport.com/pirated-windows-10-risks/)
+- [Guías de reddit no oficial para la piratería de software](https://reddit.guide/r/piracy/) - Una lista con SUBREDDITS conectados a la piratería de software, también enumera qué comunidades fueron prohibidas en Reddit.
+- [¿Cómo descargar archivos Zippy SNAHP sin usar el espacio de tu computadora ni ancho de banda?](Https://telegra.ph/how-to-download-snahp-zipy-files-withit-using-your-computer-space-and- ancho de banda-08-25)
+- [Guía: Adobe Acrobat Pro Instalación y parches (Trabajo 18-06-2019)](https://raddle.me/f/piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working- 18)
+- [r/PIRACY/WIKI/Herramientas](https://www.removeddit.com/r/piracy/wiki/tools) - Herramientas de activación de Windows/Office, e imágenes/instaladores para Windows, Office + Adobe.
+- [nsane.down](https://www.nsandown.com/) - Un Foro Popular para compartir archivos centrado en el software.
+- [appked](https://www.macbed.com/) - Sitio de intercambio de aplicaciones MAC.
+- [/s/sjain_guides](https://saidit.net/s/sjain_guides) - Guías y descargas para CS:Go, Windows 10 y más.
+- [Mis Foros de Vida Digital](https://forums.mydigitallife.net/) - Foro popular para software y aplicaciones moddeadas/crackeadas.
+- [Herramientas de diseño PRO](https://prodesigtools.com) - Sitio enfocado en el desarrollo de Adobe, incluido el software y los libros electrónicos crackeados.
+- [Shareappscrack](https://shareappscrack.com/) - Sitio web con una plétora de herramientas de desarrollo y software de productividad, incluidos tutoriales de video y algunos libros electrónicos.
+- [Photokaaran](http://photokaaran.com/) - Sitio indio con enlaces de descarga directa de herramientas de productividad crackeadas.
+- [Vestathemes](https://www.vestathemes.com/) - Sitio web para temas y complementos de WordPress.
+- [AppNee](https://appnee.com/) - Uno de los sitios web más antiguos cuando se trata de software, cambia el dominio a menudo.
+- [BlackPearl](https://blackpearl.biz/) - Proporciona servicios similares al foro de shnap.
+- [BAGAS31](https://www.bagas31.info/) - BAGAS32 es un distribuidor conocido para de cracks y software.
+- [bonterosoft.cc](https://www.bontersoft.cc/) - Software de Windows y varios productos, AV, música, etc.
+- [Cloud-droid](https://www.cloud-droid.com) - Cloud-droid ofrece (en su mayoría): descargas a través de ShareHoster.
+- [Crackingpatching.com](https://crackingpatching.com/) - Software crackeado gratis!
+- [ddgroupclub](http://ddgroupclub.win/) - (`ru`).
+- [fost.club](http://fost.club/) - (`ru`).
+- [KaranPC](https://karanpc.com) - Otra comunidad para todo el software de Windows.
+- [nuled](https://www.nulled.to/): nulled es una comunidad de crackeo donde puedes encontrar enlaces a software.
+- [Piratbit](https://pb.wtf/) - (`ru`).
+- [Piratecity](https://www.piratecity.cc) - Softwares, herramientas de optimización de rendimiento, softwares antivirus, herramientas de edición de imágenes, softwares de edición de video, softwares de recuperación de datos y más.
+- [RUTRACKER](http://rutracker.ru/) - (`ru`).
+- [radixx11](https://radixx11rce2.blogspot.com/) - Proporciona grietas de software y keygens para varios programas.
+- [Sanet.st](https://sanet.st/) - También conocido como "SoftArchive", es un portal para proporcionar cracks de software de Windows.
+- [Softlay](https://softlay.net) - Espejos de software de Windows.
+- [SoftPilot](https://softpilot.win/) - (`ru`) - Un foro y sitio web para varios repacks y en general un buen lugar para las discusiones de software.
+- [TAPUCHEK](https://tapochek.net/) - (`ru`).
+- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) - Software de Windows y varias herramientas de activación.
+- [Tec.to](http://trec.to/) - (`ru`).
+- [ultratrack](http://uraltrack.net/) - (`ru`) - Un foro para varios repacks y en general un buen lugar para las discusiones de software.
+- [Underver.se](https://underver.se/) - (`ru`).
+- [Unlydht](http://uniondht.org/) - (`ru`).
+- [Digiboy](https://www.digiboy.ir/) - (`ar ') - Proporciona software de Windows, MacOS y otros productos relacionados con el software.
+- [Herramientas de diseño PRO](https://prodesigtools.com) - Sitio enfocado en el desarrollo de Adobe, incluido el software y libros electrónicos crackeados.
+- [Shareappscrack](https://shareappscrack.com/) - Sitio web con una plétora de herramientas de desarrollo y software enfocado en ingeniería, incluidos tutoriales de video y algunos libros electrónicos.
+- [Onhaxcrack](https://www.onhaxcrack.me) - Un sitio web dedicado a proporcionar cracks para varios tipos de software.
+- [Piratecity](https://www.piratecity.net) - Varios lanzamientos de software.
+- [Crackhomes](https://crackhomes.com) - Otra página de lanzamientos.
+- [Ask4PC](https://www.ask4pc.net) - Cracks para software de PC.
+- [Profreecrack](https://profreecrack.com) - Proporciona cracks para varios programas.
+- [Downloadha](https://www.downloadha.com) - (`ar ') - Proporciona varios productos de software, Adobe, Windows y más
 
-## Software Repacks
+## repacks de software
 
-- [Diakov.net](https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
-- [M0nkrus'a](http://w13.monkrus.ws/) - (`RU`) - Russian repacker, maindly known for Adobe repacks but also provides lot of other repacks.
-- [PoorShock](http://pooshock.ru/) - (`RU`) - Russian repacker and website to various software products, Adobe, Sound Forge etc.
-- [Punsh](https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
-- [Soft4PC](https://s0ft4pc.com/) - Yet another website for cracked software repacks.
-- [SCloud](https://scloud.ws/) - Provides site several years repacks for popular software like Adobe & Windows.
-- [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks & portables.
-- [LR Repacks](https://lrepacks.ru/) - (RU) - Yet another Russian portal, for ELCHUPACABRA repacks & more.
-- [PiratedHub](https://piratedhub.com/) - Internation Repack website.
-- [RePack Club](https://repacks.club/) - (RU) - Russian repack portal.
-- [Repacks.NET](https://repacks.net/) - A well-known repack website mostly for Windows software.
-- [The House of Portable](https://thehouseofportable.com/) - Portable versions of various Software.
+- [DIAKOV.NET](https://diakov.net/) - (`ru`) - Reempaquetador ruso proporciona diversos repacks de software.
+- [M0NKRUS'A](http://w13.monkrus.ws/) - (`ru`) - Reempaquetador ruso, MadeDLY conocido por Adobe Remacks, pero también ofrece muchos otros reapacks.
+- [poorshock](http://pooshock.ru/) - (`ru`) - Reempaquetador ruso y sitio web ruso con varios productos de software, Adobe, SoundForge, etc.
+- [Httsh](https://punsh.at.ua/) - (`ru`) - Reempaquetador ruso, similar a poorshock y m0nkrus.
+- [Soft4pc](https://s0ft4pc.com/) - Otro sitio web para repacks de software crackeado.
+- [SCLOUD](https://scloud.ws/) - Varios años de repacks para software popular como Adobe & Windows.
+- [Portables PAF de FoxxApp](https://foxxapp-pa.blogspot.com) - Repacks & Portables de software de Windows.
+- [LR APACKS](https://lrepacks.ru/) - (ru) - Otro portal ruso, para los repacks de Elchupacabra y más.
+- [PirateShub](https://piratedhub.com/) - Sitio web de reempack internacional.
+- [Repack Club](https://repacks.club/) - (ru) - Portal de packs ruso.
+- [REPACKS.NET](https://repacks.net/) - Un sitio web de repack conocido principalmente para el software Windows.
+- [La Casa de Portátil](https://theuseofportable.com/) - Versiones portátiles de varios programas.
 
 ## Keygens & Serials
 
-- [MiniDL.org](https://minidl.org) - Provides cracks for Windows and macOS.
-- [Serialreactor](https://www.serialreactor.com) - Looking for serials?.
-- [Serials](http://www.serials.ws/) - Serial keys for software that may or may not work.
-- [Serialz](http://serialz.cracks.me.uk) - (insecue) - Yet another serials page.
-- [SerialShack](http://www.serialshack.com) - One of the oldest serial websites which are still online.
-- [Smart Serials](https://www.smartserials.com) - (needs VPN) - Forum + serials.
+- [Minidl.org](https://minidl.org) - Proporciona cracks para Windows y MacOS.
+- [Serialreactor](https://www.serialreaccion.com) - ¿Buscas seriales?
+- [Serials](http://www.serials.ws/) - Números de serie para software que pueden o no funcionar.
+- [Serialz](http://serialz.cracks.me.uk) - (inseguridad) - Otra página de seriales.
+- [SerialShack](http://www.serialshack.com) - Uno de los sitios web de seriales más antiguos que aún están en línea.
+- [Seriales inteligentes](https://www.smartserials.com) - (necesita VPN) - Foro + Serials.
 
 ## Adobe CC
 
-- [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) - This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
-- [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) - Full in-depth guide to installing and cracking any application (Windows).
-- [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) - Full in-depth guide to downloading, installing, activating and optimising.
-- [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) - The latest working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows only).
-- [Adobe CC 2019/2020 GenP - Universal Patch - Updated V 2.2](https://www.nsaneforums.com/topic/344869-adobe-cc-20192020-genp-universal-patch-updated-v-22/#comments)
-- [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](http://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
-- [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](http://reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
-- [Adobe Zii 4.0.3](http://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) - Tool for patching and cracking Adobe CC applications.
-- [How to download paid fonts for free](http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
-- [Pirating Adobe CC for Dummies](http://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - Detailed guide about pirating Adobe CC for Windows.
+- [COLECTOR DE ADOBE MASTER](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3a) - Esta herramienta descarga aplicaciones de Adobe Pre-activadas publicadas por M0NKRUS, que van desde CS6 a CC 2020.
+- [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) - Guía completa en profundidad para instalar y agrietar cualquier aplicación (Windows).
+- [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) - Guía completa en profundidad para descargar, instalar, activar y optimizar.
+- [Adobe CC 2019/2020 AIO PATCHER](https://cracked.to/thread-cracked-crack-adobe-cc-2019-2020-genp-v2-4) - El último parche funcional todo en uno para Todas las aplicaciones de Adobe Creative Cloud 2019/2020 (solo Windows).
+- [Adobe CC 2019/2020 GENP - Patch Universal - Actualizado V 2.2](https://www.nsaneforums.com/topic/344869-adobe-cc-20192020-genp-universal-patch-updated-v-22/# comentarios)
+- [Adobe CC 2018 - Guía completa en profundidad para instalar y usar cualquier aplicación (Windows)](http://www.reddit.com/r/sjain_guides/adobe_cc_2018_full_indepth_guide_to_installing/) - Una guía completa en profundidad Para instalar y crackear cualquier aplicación (Windows) - por SJAIN_GUIDES.
+- [Adobe Photoshop CC 2019 - Guía completa en profundidad para la instalación y la activación (Windows)](http://reddit.com/r/sjain_guides/adobe/9q4u6r/adobe_phothop_cc_2019_fphphothop_cc_2019_ful_indepth_guide_to/) - Una guía completa en profundidad para instalar y crackear cualquier aplicación (Windows) - por sjain_guides.
+- [Adobe ZII 4.0.3](http://www.reddit.com/r/piracy/adobe/9v7tr6/adobe_zii_403_releed_now_includes_incopy/) - Herramienta para parches y aplicaciones de Adobe CC.
+- [Cómo descargar las fuentes de pago gratis](http://www.reddit.com/r/piracy/comments/8tqfg6/how_to_download_paid_fonts_fownload_paid_fonts_for_free/) - Publicación de /u/bebhio sobre cómo usar las búsquedas de Google inteligentes para encontrar productos de Adobe (y otros) gratis - Fuentes en línea.
+- [Pirating Adobe CC para DUMMIES](http://www.reddit.com/r/piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - Guía detallada sobre piratería de Adobe CC para Windows.
 
 ## Nulled Scripts
+Los scripts nulados son aplicaciones web comerciales que puedes obtener de sitios web piratas, que se han modificado para funcionar sin una clave de licencia. Son el equivalente web del software pirateado. Incluyen temas y complementos comerciales de WordPress.
 
-- [AIW.BZ](https://aiw.bz) - German forum for nulled scripts.
-- [BoardScriptz](https://boardscriptz.to/board) - One of the oldest boards around nulled forum scripts.
-- [Cracked-Scriptz](https://forum.cracked-scriptz.ru) - (needs VPN) - A Blog which is not always online, it provides info around nulled scripts.
-- [EScripts](https://www.escripts.club) - (anti-ad-blocker detection) - English forum for nulled forum software.
-- [Nulled.to](https://www.nulled.to) - The most popular forum around nulled scripts.
-- [ScriptZSector](https://scriptzsector.com) - One of the newcomer, but fast growing forum.
-- [ToolBase](https://www.toolbase.me/board) - Tools, scripts and forum discussions around nulled software.
-- [WSC-Scriptz](https://support.wsc-scriptz.org) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
-- [XenFiles.co](https://xenfiles.co) - Yet another german forum for nulled scripts.
+- [aiw.bz](https://aiw.bz) - Foro alemán para scripts nulados.
+- [Boardscriptz](https://boardscriptz.to/board) - Uno de los tablones más antiguos acerca de scripts nulados.
+- [Cracked-Scriptz](https://forum.cracked-scriptz.ru) - (necesita VPN) - Un blog que no siempre está en línea, proporciona información acerca de scripts nulados.
+- [ESCRIPTS](https://www.escripts.club) - (detección antibloqueo) - Foro en inglés para software de Foro nulado.
+- [nulled.to](https://www.nulled.to) - El foro más popular alrededor de scripts nulados.
+- [Scriptzsector](https://scriptzsector.com) - Uno de los recién llegados, pero de rápido crecimiento.
+- [Base de herramientas](https://www.toolbase.me/board) - Herramientas, scripts y discusiones en torno al software nulado.
+- [WSC-Scriptz](https://support.wsc-scriptz.org) - A veces en línea, en su mayoría bloqueado por ISP, proporciona información sobre la escena nulada.
+- [xenfiles.co](https://xenfiles.co) - Otro foro alemán para scripts nulados.
 
-## Drivers
+## Controladores (Drivers)
 
 - [Station-Drivers](https://www.station-drivers.com/index.php?lang=en)
-- [driveroff](http://driveroff.net/)
+- [Conduciroff](http://driverff.net/)
 - [touslesdrivers.com](https://www.touslesdrivers.com/)
-- [WinRaid Forum](https://www.win-raid.com/forum.php)
+- [Foro de WinRAID](https://www.win-raid.com/forum.php)
 
 ## Windows
 
-- [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
-- [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
-- [My Digital Life Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
-- [Microsoft Build Overview](https://msbuilds.rg-adguard.net/) - A history of Windows build strings.
-- [PCBeta](https://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
-- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
-- [SamLab](https://samlab.ws/) - (RU) - Windows Board, ISOs, Hotfixes & more.
-- [Shadow-Trooperz](https://shadow-trooperz.xyz/sw/) - Provides Windows ISO's and other Windows related software links.
-- [TechBench](https://tb.rg-adguard.net/public.php) - Find official Windows isos for Windows 7/8/10.
-- [/f/MSToolkit](https://raddle.me/f/MSToolkit) - Tools for activating Windows software, including Windows 10 itself.
-- [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) - Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account.
-- [ShowKeyPlus](https://github.com/Superfly-Inc/ShowKeyPlus) - Windows product key finder and validation checker.
-- [Bypass Windows 7 Extended Security Updates Eligibility](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/) - another alternative is to work with [micro patches](https://blog.0patch.com/2019/09/keeping-windows-7-and-windows-server.html)
-- [How to download and install Windows 10 LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition.".
-- [Windows 10 Digital License (HWID) - & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) - Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
-- [How to SVF patch Windows 10](https://github.com/CHEF-KOCH/How-to-SVF-patch-Windows-10)
-- [How to install and activate Windows 10 - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
+- [ame](https://ameliorated.info/index.html) - Windows 10 AME tiene como objetivo ofrecer una construcción estable, no intrusiva y completamente funcional de Windows 10 a cualquiera que requiera el sistema operativo Windows de forma nativa.
+- [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS y claves de activación.
+- [Mis Foros de Vida Digital](https://forums.mydigitallife.net/) - Temas de Windows, Hotfixes y herramientas autoprocesadas.
+- [Descripción general de Microsoft Build](https://msbuilds.rg-adguard.net/) - Un historial construcción de Windows.
+- [PCBETA](https://bbs.pcbeta.com) - ISOs de Windows, revisiones y discusiones.
+- [RCC](https://www.wildersecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, consulta la tienda de certificados raíz de confianza de tu sistema.
+- [Samlab](https://samlab.ws/) - (RU) - Tablero de Windows, ISOs, Hotfixes y más.
+- [Shadow-Trooperz](https://shadow-trooperz.xyz/sw/) - Proporciona los enlaces de software relacionados con Windows ISO y otros Windows ISO.
+- [TechBench](https://tb.rg-adguard.net/public.php) - Encuentra ISOs oficiales de Windows 7/8/10.
+- [/f/mstoolkit](https://raddle.me/f/mstoolkit) - Herramientas para activar el software Windows, incluido Windows 10.
+- [Licencia digital de Windows 10](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) - Scripts para activar Windows 10 "legítimamente" mediante la unión de su HWID a una cuenta de Microsoft.
+- [ShowKeyPlus](https://github.com/superfly-inc/showkeyplus) - Buscador y validación de claves de productos de Windows.
+- [Bypass Windows 7 Actualizaciones de seguridad extendida La elegibilidad](https://forums.mydigitallife.net/threads/bypass-windows-7-exended-security-updates-eligibility.80606/) - Otra alternativa es trabajar con [Micro parches ](https://blog.0patch.com/2019/09/keeping-windows-7-and-windows-server.html)
+- [Cómo descargar e instalar Windows 10 LTSC](https://www.reddit.com/r/piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guía por/U/SQ_SKEZ. "Toma todo lo que amamos sobre Windows 7, agregue las mejoras de la capucha de Windows 8 y 10, pero ninguna de las aplicaciones de marketing/nube/teléfono/Mierda de seguimiento de usuario, y ¿qué obtienes? Edición LTSC de Windows 10 Enterprise LTSC.".
+- [Licencia digital de Windows 10 (HWID) - & kms38 generación](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) - Guía de REDDIT BY/U/S1AVE77 con instrucciones sobre cómo usar HWID para activar varias ediciones de Windows 10.
+- [Cómo hacer un parche SVF para Windows 10](https://github.com/chef-koch/how-to-svf-patch-windows-10)
+- [Cómo instalar y activar Windows 10: incluye LTSB/LTSC](https://www.reddit.com/r/piracy/wiki/guides/win10upgrade_activation)
 
-### Hotfixes & Patches
+### Hotfixes y parches
 
-- [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more. Also provides information regarding hotfixes & patches.
-- [Simplix Blog](https://blog.simplix.info/update7/) - Windows Hotfix repository.
-- [UUPDump](https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
-- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
+- [Askwoody](https://www.askwoody.com/) - Noticias, consejos, consejos, soporte para Windows, Office, PC y más. También proporciona información sobre revisiones y parches.
+- [Simplix Blog](https://blog.simplix.info/Update7/) - Repositorio de hotfixes de Windows.
+- [UUPDUMP](https://uupdump.ml/) - Repositorio oficial de hotfixes de Windows + Dumps.
+- [Espejos de Windows ISO + Hotfix](https://tb.rg-adguard.net/public.php) - Adguard proporciona espejos a revisiones y ISO/ESD de Windows.
 
-### Activation
+### activación
 
-- [HWIDGEN](https://github.com/CHEF-KOCH/HWIDGEN-SRC) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods. [Source code](https://github.com/CHEF-KOCH/HWIDGEN-SRC).
-- [KMS Activator](https://yzyveojj6tqzqwe5muzglg-on.drv.tw/KVA/ReadMe36.html) - The original open source repo for KMS related activation & research.
-- [KMS Server Emulator written in Python](https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
-- [PIDChecker](https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
-- [W10-Digital-License-Activation-Script-4](https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
+- [HwidGen](https://github.com/chef-koch/hwidgen-src) - Guía de descarga y uso (activación permanente o a largo plazo para cualquier edición de Windows 10). Hwidgen proporciona varios métodos de activación. [Código fuente](https://github.com/chef-koch/hwidgen-src).
+- [KMS Activator](https://yzyveojj6tqzqwe5muzlg-on.drv.tw/kva/README36.HTML) - El repo de código abierto original para la activación e investigación relacionada con KMS.
+- [Emulador del servidor KMS escrito en Python](https://github.com/systemrage/py-kms) - Emulador de servidor KMS de código abierto escrito en Python.
+- [PIDCHECKER](https://github.com/blackrouter/pidchecker/): valide y verifique las teclas de productos de Microsoft.
+- [W10-Digital-License-Activation-Script-4](https://github.com/trungx/w10-digital-license-activation-script-4) - Active Windows 10 de forma permanente con la licencia digital.
 
-### Windows Mirrors & Verification Tools
+### Herramientas de verificación y espejos de Windows
 
-- [Microsoft .iso DDLs](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's own "TechBench" site to provide mirrors for everyone. Latest releases are avbl. [here](https://tb.rg-adguard.net/products.html).
-- [Microsoft .iso torrents on Digitalriver](https://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors for official Windows & Office ISO's.
-- [Windows 10 1903 Build 18362.30 Final (May Update '19)](https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1) - Download + checksum links.
-- [Windows and Office Genuine ISO Verifier](https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
-- [Windows ISO Downloader](https://www.heidoc.net/php/Windows%20ISO%20Downloader.exe) - Allows an easy and comfortable way to download genuine Windows 7, 8.1 and 10 disk images (ISO) - directly from Microsoft's servers (tool contains ads).
-- [All Windows LTSC download links incl. N](https://gist.github.com/CHEF-KOCH/a9a70744d79e335e4b4512cbb9588982)
-- [msdn.hackerc.at](https://msdn.hackerc.at/) - Unofficial mirror of The Eye's Windows Software dump.
+- [Microsoft .iso ddls](https://tb.rg-adguard.net/index.php) - Interfaz web para el propio sitio de "TechBench" de Microsoft para proporcionar espejos para todos. Las últimas versiones son AVBL. [aquí](https://tb.rg-adguard.net/products.html).
+- [Microsoft .iso torrents en DigitalRiver](https://mirror.corenoc.de/digitalrivercontent.net/) - Espejos para Windows Oficiales y Office ISO.
+- [Windows 10 1903 Build 18362.30 Final (puede actualizar '19)](https://gist.github.com/chef-koch/64fed5431b57a43b4a70ed510b56cba1) - Descargas + Enlaces de suma de comprobación.
+- [Verificador de Windows y Office Genuinos ISO](https://genuineoverifier.weebly.com/) - Herramienta freeware para verificar las imágenes de Windows y Office.
+- [Descargador de ISOs de Windows](https://www.heidoc.net/php/windows%20iso%20dowdowloader.exe) - Permite una forma fácil y cómoda de descargar imágenes de disco de Windows 7, 8.1 y 10 (ISO) genuinas, directamente desde los servidores de Microsoft (contiene anuncios).
+- [Todos los enlaces de descarga de Windows LTSC incl. N] (https://gist.github.com/chef-koch/a9a70744d79e335e4b4512cbb9588982)
+- [msdn.hackerc.at] (https://msdn.hackerc.at/) - Espejo no oficial de descarga de software de Windows de The Eye. 
 
-## macOS
+## Mac OS
 
-- [CMacA](https://cmacapps.com/) - A nice website for macOS software.
-- [APPKED](https://www.macbed.com) - Links to share-hosters, provides serials, cracks & more.
-- [CrackSoft](https://crackzsoft.com/) - Latest Crack Softwares For Windows and macOS.
-- [Imojado](https://www.imojado.org) - Android, macOS and other things.
-- [KaranPC](https://karanpc.com/mac) - macOS warez via sharehoster.
-- [Mac Torrent Download](https://mac-torrent-download.net/) - (needs ad-blocker) - Provides cracks for macOS. Be careful, each click triggers an ad.
-- [Mac Torrents](http://mactorrent.co) - Lots of macOS Warez.
-- [nMac.to](https://nmac.to) - Tutorials, Apps, Games via P2P or sharehoster for macOS.
-- [Sanet](https://sanet.st/) - Windows and uncracked software as well as macOS cracked software.
-- [GetIntoPC](https://getintopc.com/) - Last place to look for macOS software.
-- [Olarila](http://Olarila.com) - Provides MacOS ISOs for VM among several other stuff.
+- [CMACA](https://cmacapps.com/) - Un sitio web agradable para el software MACOS.
+- [appked](https://www.macbed.com) - Enlaces a Share-Hosters, proporciona seriales, cracks y más.
+- [Cracksoft](https://crackzsoft.com/) - Últimos softwares de crack para Windows y MacOS.
+- [imojado](https://www.imojado.org) - Android, MacOS y otras cosas.
+- [KaranPC](https://karanpc.com/mac) - MacOS Warez a través de ShareHoster.
+- [Mac Torrent Download](https://mac-torrent-download.net/) - (necesita bloqueador de anuncios) - Proporciona cracks para MacOS. Ten cuidado, cada clic abre un anuncio.
+- [Mac Torrents](http://mactorrent.co) - MUCHOS WAREZ DE MACOS.
+- [nmac.to](https://nmac.to) - Tutoriales, aplicaciones, juegos a través de P2P o ShareHoster para MacOS.
+- [SANET](https://sanet.st/) - Software de Windows y software sin crackear, así como software de MacOS crackeado.
+- [getintopc](https://getintopc.com/) - Último lugar para buscar software MACOS.
+- [OLARILA](http://olarila.com) - Proporciona ISOs de MacOS para MV entre otras cosas.
 
 ## Android
 
-:::caution
+:::precaución
 
-You can't download paid android apps for free from the official Google Play Store. Paid apps are bound to your Google Account. If an app/website tells you otherwise, it is most probably a lie.
+No se pueden descargar las aplicaciones de Android gratis de la tienda oficial de Google Play. Las aplicaciones remuneradas están registradas a tu cuenta de Google. Si una aplicación/sitio web te dice lo contrario, es probablemente una mentira.
 
-You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-refund-apps-google-play-store-673644/)" or download _precracked_ apps from mobilism and other (trusted) - places!.
+Solo se puede hacer el "[Truco de reembolso](https://www.androidAuthority.com/how-to-get-refund-apps-google-play-store-673644/)" O descargue Aplicaciones _Precracked_ de Mobilism y otros lugares (de confianza).
 
 :::
 
-- [4PDA.ru](https://4pda.ru/forum/index.php?act=idx) - 4PDA is the biggest Russian forum about mobile devices.
-- [Android Republic](https://androidrepublic.org/forums/public-mods.24/) - Android Republic is similar to Mobilism, provides mirrors to various apks.
-- [APK Mania](https://apkmaniafull.com) - Apps, Games, Themes, Wallpapers & Widgets.
-- [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
-- [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
-- [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
-- [How to deGoogle LineageOS in 2019](https://reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
-- [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download free Android applications directly from the Google Play Store.
-- [Raccoon](https://raccoon.onyxbits.de/) - Java based APK Downloader which uses a fake Google Account (API Key) - to download free Android apps.
+- [4pda.ru](https://4pda.ru/forum/index.php?act=idx) - 4PDA es el foro ruso más grande sobre dispositivos móviles.
+- [República Android](https://androidrepublic.org/forums/public-mods.24/) - La República Android es similar a MOBILISM, proporciona espejos a varios APKs.
+- [APK MANIA](https://apkmaniafull.com) - Aplicaciones, juegos, temas, fondos de pantalla y widgets.
+- [APKMB](https://apkmb.com/) - Descarga gratuita de Pags Apps & Android gratis.
+- [libre.io](https://boards.libre.io) - (requiere inicio de sesión) Un pequeño foro con algunas aplicaciones y juegos exclusivos.
+- [Foro de Mobilismo](https://forum.mobilism.org/index.php) - Gran Foro de aplicaciones móviles y libros.
+- [Cómo Degoogle Lineageos en 2019](https://reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
+- [PlayStRoudwnloader](https://github.com/claudiugeorgiu/playsstownloader) - Una herramienta de línea de comandos para descargar aplicaciones gratuitas de Android directamente desde la tienda de Google Play.
+- [MACCOON](https://raccoon.onyxbits.de/) - APK Downloader basado en Java que utiliza una cuenta de Google falsa (API KEY) para descargar aplicaciones gratuitas de Android.
 
-### Alternative app stores
+### Tiendas de aplicaciones alternativas
 
-- [F-Droid](https://f-droid.org/en/) - A community-maintained software repository for Android, similar to the Google Play store.
-- [Apkmos](https://apkmos.com/) - The Best App Store For Download Android Apps, Games, Themes, Wallpapers And Much More.
-- [HiAppHere](https://www.hiapphere.com/app/index/index?sort=update) - Another alternative app market.
-- [Aptoide](https://en.aptoide.com/) - An alternative repository-based marketplace for Android applications.
-- [Yalp Store](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store.
-- [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
-- [ACMARKET](https://acmarket.net/) - Download android apps & games free.
-- [Android Zone](https://android-zone.ws/) - Another place to find premium links for APKs.
-- [RevDl](https://www.revdl.com/) - Direct download site for Android apps and games.
-- [RexDL](https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
-- [IndexOutOfBounds Store](https://store.ioob.pw/) - Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
-- [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) - An open-source alternative for the Google Play Store.
-- [APK Combo](https://apkcombo.com/)
+- [F-droid](https://f-droid.org/en/) - Un repositorio de software comunitario para Android, similar a la tienda de Google Play.
+- [APKMOS](https://apkmos.com/) - La mejor App Store para descargar aplicaciones de Android, juegos, temas, fondos de pantalla y mucho más.
+- [Hiapphere](https://www.hiapphere.com/app/index/index?sort=update) - Otro mercado de aplicaciones alternativas.
+- [Aptoide](https://en.aptoide.com/) - Un mercado alternativo basado en el repositorio para aplicaciones de Android.
+- [Tienda Yalp](https://github.com/yeriomin/yalpstore) - Descarga Apks de Google Play Store.
+- [Foro de Mobilismo](https://forum.mobilism.org/index.php) - Gran Foro de aplicaciones móviles y libros.
+- [acmarket](https://acmarket.net/) - Descarga las aplicaciones y juegos de Android gratis.
+- [Zona Android](https://android-zone.ws/) - Otro lugar para encontrar enlaces premium para APKs.
+- [REVDL](https://www.revdl.com/) - Sitio de descarga directo para aplicaciones y juegos de Android.
+- [REXDL](https://rexdl.com/) - Al igual que REVDL, descarga las aplicaciones y juegos gratuitos de Android.
+- [Tienda de índiceOutofbounds](https://store.ioob.pw/) - Streaming Apps incluyendo LiveFlix, POPFLIX, SEREDROID S2 y Animedroid S2.
+- [Aurora OSS](https://gitlab.com/auroraoss/aurorastore) - Una alternativa de código abierto para la tienda de Google Play.
+- [apk combo](https://apkcombo.com/) - Descarga APKs de Google Play sin usar tu cuenta de Google.
 
-### Mirrors and Mods
+### Espejos y mods
 
-- [r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) - Modded Android app releases subreddit.
-- [r/ApksApps](https://www.reddit.com/r/apksapps) - "The best Modded apps on Reddit.".
-- [APKMirror](https://www.apkmirror.com/) - Download free Android APKs.
-- [APK Mirror Download](https://www.apkmirrordownload.com/) - Popular vietnamese website to download APK's.
-- [APKHouse](https://apkhouse.com) - Provides mirrors for various Android apps incl. games.
-- [iHackedit](https://ihackedit.com/) - Provides Android Apps & Games including Mods.
-- [Sbenny](https://forum.sbenny.com/forums/apps.14/) - Modded games and apps.
-- [ApkPure](https://apkpure.com/) - Another free APK mirror site.
-- [Androeed](https://www.androeed.ru/) - (RU) - Russian APK site.
-- [On HAX](https://onhax.me/) - APK Mods and mirrors.
-- [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
-- [AiOwares.com](https://www.aiowares.com/) - RePacks, mods and other software.
-- [An1](https://an1.com/) - Provides apps & app mods.
-- [Android Zone](https://android-zone.ws/) - Koumkouat website for Android APK's/Games/GPS.
-- [Baltagy's Website](https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases.
-- [Release-APK](https://release-apk.com/) - Balatan's APK page.
-- [Platin Mods](https://platinmods.com/) - As the name says, provides several mods for apks's & games.
-- [Haxoff](https://haxoff.net/) - Haxoff provides cracked games & Android APK's.
-- [APK4Free](https://apk4free.net/) - Android apk mirrors and patches.
-- [APKDot](https://apkdot.com/) - APKMirror clone website.
-- [ApkDone](https://apkdone.com/)
-- [ModDroid](https://moddroid.com/)
+- [r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) - Aplicación de Android Modded Libers Subreddit.
+- [R/apksapps](https://www.reddit.com/r/apksapps) - "Las mejores aplicaciones modificadas en Reddit".
+- [APKMIRROR](https://www.apkmirror.com/) - Descarga gratuita de APKs de Android.
+- [Apk Mirror Download](https://www.apkmirrordownload.com/) - Popular sitio web vietnamita para descargar APKs.
+- [APKHOUSE](https://apkhouse.com) - Proporciona espejos para varias aplicaciones de Android incl. juegos.
+- [ihackedit](https://ihackedit.com/) - Ofrece aplicaciones y juegos de Android, incluidos los mods.
+- [sbenny](https://forum.sbenny.com/forums/apps.14/) - Juegos y aplicaciones moddeadas.
+- [APKPURE](https://apkpure.com/) - Otro sitio de espejo  de APKs gratis.
+- [Androeed](https://www.androeed.ru/) - (ru) - sitio de apk ruso.
+- [ON HAX](https://onhax.me/) - APK MODS Y ESPEJOS.
+- [BlackMod](https://blackmod.net/) - Muchos juegos de Android crackeados.
+- [aiowares.com](https://www.aioswares.com/) - Repacks, mods y otro software.
+- [AN1](https://an1.com/) - Proporciona aplicaciones y modificaciones de aplicaciones.
+- [Zona Android](https://android-zone.ws/) - Sitio web de Koumkouat para Android Apk's/Juegos/GPS.
+- [Sitio web de Baltagy](https://baltagy1.blogspot.com/) - Aplicaciones, mods, repacks y lanzamientos portátiles.
+- [Suelte-apk](https://release-apk.com/) - Página de APK de Balatan.
+- [Platinmods](https://platinmods.com/) - Como dice el nombre, proporciona varios mods para juegos.
+- [HAXOFF](https://haxoff.net/) - Haxoff proporciona juegos crackeados y APKs de Android.
+- [APK4FREE](https://apk4free.net/) - APKs de Android, espejos y parches.
+- [APKDOT](https://apkdot.com/) - Clon de APKMIRROR.
+- [APKDONE](https://apkdone.com/)
+- [moddroid](https://moddroid.com/)
 - [AndroidOyun](https://androidoyun.club/)
 
-### Streaming
+### Transmisión (Streaming)
 
-- [Thoptv](https://thoptv.one) - Top movies and TV shows.
-- [KingoTV](https://kingotv.net/) - Your Portable Entertainment Gateway! Watch 500+ Live HD Channels and 10,000+ Hours of Movies Series Shows for Free!.
-- [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
-- [PhoenixTV](https://www.phoenixtv-distribution.com/) - Morpheus Fork.
-- [ZippyTV](http://www.zippytv.mobi/) - (_Needs adblock/ad-free version_) - Watch 500+ Live HD Channels, Movies & Tv Series for Free! Start Streaming Now!.
-- [airy.tv](https://airy.tv/) - Wireless TV you can access ANYTIME, ANYWHERE, for FREE.
-- [TVF Play App](https://tvfplay.com/)
+- [THOPTV](https://thoptv.one) - Principales películas y programas de televisión.
+- [Kingotv](https://kingotv.net/) - ¡Su puerta de entretenimiento portátil! ¡Mire más de 500 canales en vivo HD y más de 10,000 horas de películas que se muestran gratis!.
+- [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.orionTV) - (SH) Permite ver canales de televisión en vivo y grabar programas seleccionados (72h Catch- UP TV).
+- [Phoenixtv](https://www.phoenixtv-distribution.com/) - Bifurcación de Morpheus.
+- [ZIPPTTV](http://www.zippytv.mobi/) - (_needs adblock/ad-free version_): ¡Mira 500+ canales en vivo HD, películas y series de TV gratis! ¡Empieza a transmitir ahora!.
+- [Airy.tv](https://airy.tv/) - TV inalámbrico. Puedes acceder en cualquier momento, en cualquier lugar, de forma gratuita.
+- [aplicación TVF Play](https://tvfplay.com/)
 - [MX Player Pro](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
-- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
-- [DreamTV](http://dream-tv.xyz/) - Terrarium clone.
-- [Morph TV](http://titaniumtv.xyz/Morph2.apk) - Morpheus fork.
-- [TitaniumTV](http://titaniumtv.xyz/) - Terrarium clone.
-- [99kubo](http://www.99kubo.tv) - (needs ad-blocker) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
-- [Anime Molecules](https://animemolecules.com/) - (needs ad-blocker) - Yet another anime streaming app.
-- [AniméGlare](https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
-- [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!.
-- [AOS TV](https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
-- [Apollo TV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
-- [BeeTV](http://beetvapk.me/) - (needs ad-blocker) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
-- [Cinema HD](https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
-- [CKay TV](http://ckaytv.com/) - (needs ad-blocker) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
-- [CyberFlix 2.0](https://cybermedia.cloud/downloads) - A rebooted version from the original Cyberflix app, good for movies & tv episodes.
-- [Exousia](https://exousia.app) - Watch Live Tv & Movies, Sports.
-- [Fildo](https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
-- [Filmix](https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
-- [Glaz TV](https://www.glaz.tv/) - (RU) - Online TV for Android devices.
-- [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
-- [KrakenTV](https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
-- [TopMoviesonline](https://topmoviesonline.org/topmoviesonline-app/) - App to get notified about netx tv shows, movies and trailers, it also allows you to watch videos.
-- [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
-- [MediaBox HD](https://mediaboxhd.net/) - Provides tv shows, movies & more on Android + iOS.
-- [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
-- [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your- [RevTV](https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish.
-- [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
-- [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
-- [Terrarium TV Reborn sub reddit](https://reddit.com/r/TTVreborn) - A place to talk about streaming apps.
-- [Cyberflix](https://cybercloud.media/) - Yet another Terrarium clone.
-- [TVPato2](https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
-- [TVZion](https://zionapp.live/) - One app to stream them all.
-  - [r/TVZionApp](https://www.reddit.com/r/TVZionApp/)
-- [UnlockMyTV (Cinema Clone Ad-Free)](https://unlockmytv.com/)
-- [Vaughn Live](https://vaughn.live) - Possibly the greatest LIVE streaming video site on the internet! Looks like a Twitch clone.
+- [Cine](https://forum.mobilism.org/viewtopic.php?t=2786441) - Muchas películas y TV/espectáculos para ver y descargar.
+- [Dreamtv](http://dream-tv.xyz/) - Clon de Terrarium.
+- [Morph TV](http://titaniumtv.xyz/morph2.apk) - Bifurcación de Morpheus.
+- [TitaniumTV](http://titaniumtv.xyz/) - Clon de Terrarium.
+- [99kubo](http://www.99kubo.tv) - (necesita bloqueador de anuncios) - 99kubo es un paraíso para los buffs de películas, las papas de sofá y los requisitos sociales.
+- [Moléculas de anime](https://animemolecules.com/) - (necesita bloqueador de anuncios) - Otra aplicación de streaming de anime.
+- [AniméGlare](https://animeglare.xyz/) - (necesita bloqueador de anuncios) - Vamos a transmitir cualquier anime de forma gratuita.
+- [Animévibe](http://animevibe.tv/) - ¡Mira Anime Online HD gratis! ¡Subtitulado y apodado en animevibe sin anuncios!
+- [AOS TV](https://aostv.app/) - Mira más de 1000 canales de televisión en vivo gratis en tu teléfono Android en todo el mundo.
+- [Apollo TV](https://apollotv.xyz/) - Agregador de código abierto para varios contenidos de video en línea.
+- [BEETV](http://beetvapk.me/) - (necesita bloqueador de anuncios) Ver programas y películas de forma gratuita en un dispositivo Android, Amazon Fire Stick, Fire TV, NVIDIA Shield, etc.
+- [CINEMA HD](https://cinemaapk.com/) - (ADS) - Firetv Stick, NVIDIA Shield, Soporte Real-Debid, jugadores externos, TRAKT.TV, Guía de series.
+- [CKAY TV](http://ckaytv.com/) - (necesita bloqueador de anuncios): Permite transmitir videos gratuitos desde la web directamente en tus dispositivos Android y Firestick.
+- [CyberFlix 2.0](https://cybermedia.cloud/downloads) - Una versión reiniciada de la aplicación original de Cyberflix, buena para películas y episodios de TV.
+- [Exousia](https://exousia.app) - Vea TV en vivo, películas y deportes.
+- [FILDO](https://fildo.net/android/#/#) - Aplicación de transmisión de música de Android, que obtiene archivos de motores de búsqueda de MP3 de terceros.
+- [Filmix](https://filmix.site) - Vea películas y programas de televisión utilizando AndroidTV o dispositivos móviles.
+- [Glaz TV](https://www.glaz.tv/) - (RU) - TV en línea para dispositivos Android.
+- [kokotime](https://www.kokotime.tv/) - Kokotime es una aplicación de complemento, sencilla, gratuita y elegante que te permitirá ver todo tu contenido de medios favorito en un diseño único, elegante y fácil de usar.
+- [Krakentv](https://krakentv.app/download/) - Mira docenas de diferentes canales de TV desde la comodidad de tu dispositivo Android.
+- [TOPMOVIESON LINE](https://topmoviesonline.org/topmoviesonline-app/) - Aplicación para obtener notificaciones sobre los programas de televisión, películas y trailers de Netx, también permite ver videos.
+- [LIVEFLIX](https://store.ioob.pw/) - La aplicación permite ver tus canales favoritos fácilmente, con una IU muy simple.
+- [MediaBox HD](https://mediaboxhd.net/) - Proporciona programas de televisión, películas y más en Android + iOS.
+- [Mega Shows](https://megashowsapk.com/) - Mira y descarga tus películas y programas de televisión favoritos.
+- [mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro busca constantemente los mejores flujos de video gratuitos en la web.
+- [REVTV](HTTPS : //lotstv.com/) - (ES-ES) - TV en vivo, películas, programas de televisión en español.
+- [Streaming Aplicaciones Enlaces oficiales/Cómo usar TRAKT & REAL DEBRIDE (self.tvreborn)](https://reddit.com/r/ttvreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
+- [TEATV](https://teatv.net/) - Aplicación para Android, Windows y MacOs para ver las películas y programas de televisión en 1080p de forma gratuita.
+- [Terrarium TV Reborn Sub Reddit](https://reddit.com/r/ttvreborn) - Un lugar para hablar sobre aplicaciones de transmisión.
+- [Cyberflix](https://cybergcloud.media/) - Otro clon de Terrario.
+- [TVPATO2](https://tvpato2.com/) - (ES-ES) - Aplicación española de TV en vivo.
+- [TVZION](https://zionapp.live/) - Una aplicación para transmitirlos a todos.
+  - [R/TVZIONAPP](https://www.reddit.com/r/tvzionapp/)
+- [UNLOCKMYTV (CINEMA CLONE AD-FREE)](https://unlockmytv.com/)
+- [Vaughn Live](https://vaughn.live) - ¡Posiblemente el mejor sitio de video en vivo en Internet! Parece un clon de Contraction.
 
 ### P2P
 
-- [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](https://edk.peerates.net/servers/online-servers-list)
-- [FastTrack](https://en.wikipedia.org/wiki/FastTrack) - Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs.
-- [Gnutella](https://en.wikipedia.org/wiki/Gnutella) - P2P network behind the popular LimeWire file sharing app.
-- [Kad](https://en.wikipedia.org/wiki/Kad_network) - The Kad network is a peer-to-peer (P2P) - network which implements the Kademlia P2P overlay protocol.
-- [Napster](https://en.wikipedia.org/wiki/Napster) - Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
-- [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) - Detailed Wikipedia page about file sharing.
-- [r/moddedandroidapps](https://www.removeddit.com/r/moddedandroidapps) - User modified (modded) - Android apps.
+- [Network EDONKEY](https://en.wikipedia.org/wiki/edonkey_network) - Una red de intercambio de archivos descentralizada, en su mayoría, de servidor, estado compartido de pares + [Estado del servidor](https: //edk.peeates .NET/Servidores/Lista de servidores en línea)
+- [FASTTRACK](https://en.wikipedia.org/wiki/fastrack) - Protocolo utilizado por los programas de intercambio de archivos Kazaa, Grokster, Imesh y Morpheus.
+- [Gnutella](https://en.wikipedia.org/wiki/gnutella) - Red P2P detrás de la popular aplicación de compartir archivos LimeWire.
+- [KAD](https://en.wikipedia.org/wiki/kad_network) - La red KAD es una red de Peer-to-Peer (P2P), que implementa el protocolo de superposición de Kademlia P2P.
+- [Napster](https://en.wikipedia.org/wiki/napster) - Servicio de Internet de intercambio de archivos Peer-to-Peer que enfatizó compartir archivos de audio digital, típicamente canciones de audio, codificadas en formato MP3.
+- [Compartir de archivos de igual a igual](https://en.wikipedia.org/wiki/peer-to-peer_file_sharing) - Página de Wikipedia detallada sobre el intercambio de archivos.
+- [R/moddedDandroidApps](https://www.removeddit.com/r/moddedDandroidApps) - Aplicaciones de Android modificadas (modded) - Android.
 
 ### Torrent
 
-- [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Another popular torrent client for Android.
-- [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) - Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV.
-- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) - Flud is a simple and beautiful BitTorrent client for Android.
-- [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) - LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
-- [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) - Transdrone allows you to manage the torrents you run on your home server or seedbox.
-- [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
-- [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
-- [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - A torrent search engine with multiple torrent providers and beautiful ui.
-- [TorrSE](https://seedboxs.me/) - Torrent Search Android app.
+- [atorrent](https://play.google.com/store/apps/details?id=com.mobilityFlow.Torrent) - Otro cliente torrent popular para Android.
+- [Biglyt](https://www.biglybt.com/) - Cliente de torrent gratis y de código abierto para teléfonos Android, Tablet, Chromebook, Android TV.
+- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) - Flud es un cliente de BitTorrent simple y hermoso para Android.
+- [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) - LibreTorrent es un cliente gratuito como en Freedom Torrent para Android 4+, basado en LibrTorrent.
+- [TRANSDRONE](https://play.google.com/store/apps/details?id=org.transdoid.lite) - Transdrone permite administrar los torrents que ejecutas en tu servidor doméstico o en seedbox.
+- [Trirreme para Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - Un cliente liviano de Deluge para Android. Escrito en Flutter.
+- [VUZE](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Aplicación de BitTorrent ligera y potente.
+- [Búsqueda iTorrent](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - Un motor de búsqueda de torrent con múltiples proveedores de torrentes y hermosas ui.
+- [Torrse](https://seedboxs.me/) - Torrent Search Aplicación de Android.
 
-### Download Manegers
+### Administradores de descargas
 
-- [Ponydroid](https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
-- [Advance Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
-- [IDM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager with Torrent download support.
+- [PonyDroid](https://play.google.com/store/apps/details?id=ponydroid.PonyDroid) - Descargador conocido y antiguo para Android
+- [Advance Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) - Igual que el gerente de descarga de Internet para escritorio pero para Android.
+- [IDM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ es el administrador de descargas más rápido y avanzado, con soporte de descarga de Torrent.
 
-### Tools
+### Herramientas
 
-- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
-- [Jasi Patcher (AKA Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games.
-  - [ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)
-- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) - Companion app for Ombi to request Plex content.
-- [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) - Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
-- [ProSmart](http://prosmart.by/) - -ProSmart is a russian site which provides several apks, mods and games.
-- [Trashbox](https://trashbox.ru/) - Trashbox is the russian Mobilism.
-- [YMusic](https://ymusic.io/) - YouTube Music Player & Downloader.
-- [NewPipe](https://newpipe.schabi.org/) - The original YouTube experience without annoying ads and questionable permissions.
-- [nzb360](http://nzb360.com/) - nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
-- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go.
-- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) - Enables you to remote control your desktop JDownloader from your pocket while you're on the go.
-- [Blokada](https://blokada.org) - Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
-- [nzbUnity](https://nzbunity.dozenzb.com/) - iOS app for managing your favourite NZB applications.
-- [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
-- [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
-- [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
-- [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
-- [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
+- [LuckyPatcher](https://www.luckypatchers.com/download/) - Parchea aplicaciones, elimina los anuncios e instala un almacén de Google Play moddeado para evitar la verificación de las licencias de Google.
+- [PATCHER JASI (AKA ERET PATCHER)](https://jaspreetsingh.store/jasi-patcher/) - Herramienta de parches para Android que pasa por alto las restricciones en las aplicaciones y juegos.
+  - [Toolkit](https://jasprissingingh.store/index.php/jasi-toolkit/)
+- [Cygey Adskip para YouTube](https://labs.xda-developers.com/store/app/com/com.cygery.adskip.xda) - Hace clic automáticamente en el botón "SKIP AD" en la aplicación YouTube ™ cuando aparezca.
+- [Filepursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit proporciona una indización de archivos muy potente y un servicio de búsqueda que permite encontrar un archivo entre millones de millones de archivos ubicados en servidores web.
+- [OMBI](https://play.google.com/store/apps/details?id=com.tidusjar.ombi) - Aplicación Companion para OMBI para solicitar contenido PLEX.
+- [Reproductor perfecto](https://play.google.com/store/apps/details?id=com.niklabs.pp) - Reproductor perfecto es un juego de caja IPTV/reproductor de medios para ver videos en televisores, tabletas y teléfonos inteligentes.
+- [prosmart](http://prosmart.by/) - Prosmart es un sitio ruso que proporciona varias apks, mods y juegos.
+- [TrashBox](https://trashbox.ru/) - TrashBox es el Mobilism ruso.
+- [Ymusic](https://ymusic.io/) - Reproductor y descargador de música de YouTube.
+- [NewPipe](https://newpipe.schabi.org/) - La experiencia original de YouTube sin anuncios molestos y permisos cuestionables.
+- [NZB360](http://nzb360.com/) - NZB360 es un administrador de NZB con todas las funciones que se enfoca en brindar la mejor experiencia posible para controlar todas tus necesidades de usenet.
+- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Versión móvil de Tautilli para monitorear Plex sobre la marcha.
+- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_us)- Te permite controlar tu Jdownloader de escritorio desde tu bolsillo mientras estás fuera.
+- [Blokada](https://blokada.org) - Blokada es una aplicación compacta que bloquea transparentemente contenido no deseado como anuncios, seguimiento, malware y otras molestias.
+- [nzbunity](https://nzbunity.dozenzb.com/) - Aplicación iOS para administrar tus aplicaciones de NZB favoritas.
+- [Player Tivate IPTV](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - Una aplicación de Android popular para ver IPTV en cajas de configuración de Android.
+- [YouTube Vanced](https://vanced.app/) - Vanced es una versión moddeada de YouTube conocida con muchas funciones, como la reproducción de anuncios y la reproducción de fondo y muchos más.
+- [ADAWAY](https://adaway.org/) - Un bloqueador de anuncios de código abierto para Android utilizando el archivo Hosts. Necesita acceso raíz.
+- [instagrapper](https://gitlab.com/awaisking/instagrabber) - Un descargador de Instagram simple y avanzado que trabaja con cuentas privadas.
+- [Actualizaciones de películas](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 
-### MagisK Modules
+### Módulos MagisK
 
-- [ADB & Fastboot for Android NDK](https://forum.xda-developers.com/showthread.php?t=2239421) - Static ARM adb and fastboot binaries for Android built with the NDK.
-- [Adreno GPU Developer Preview Drivers](https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557) - Replace ROM Adreno GPU drivers from Qualcomm.
-- [Always-on Fingerprint](https://forum.xda-developers.com/apps/magisk/module-fingerprint-mi-5-mi-note-2-t3660179) - Allows you to unlock your device without pressing the home button. The fingerprint scanner will remain always-on to allow that.
-- [Android Mic Fix](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128) - Fixes in call low volume mic issues for various Android devices.
-- [APK-Patcher Lite](https://forum.xda-developers.com/android/software/mod-apk-patcher-lite-t3868675) - A modified version of APK-Patcher that will delete / inject files into System APK files instead of using a baksmali / apktool method.
-- [App Data Keeper](https://forum.xda-developers.com/apps/magisk/magisk-module-app-data-keeper-adk-t3822278) - Protects select apps+data from being wiped out on a regular TWRP factory reset.
-- [Busybox for Android NDK](https://github.com/Magisk-Modules-Repo/busybox-ndk) - BusyBox (replaced with ToyBox in later Android version) - is still needed for some apps/functions/scripts.
-- [CloudflareDNS4Magisk (& IPv6)](https://github.com/xerta555/CloudflareDNS4Magisk-IPv6) - Starting with [Android 9 (Pie)+](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/android/) - you can manually set this (without any module) - in your Wifi/tether settings.
-- [crontab](https://github.com/Magisk-Modules-Repo/crontab) - Easy to use crontabs.
-- [DNSCrypt Proxy 2 for Android](https://github.com/Magisk-Modules-Repo/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2.
-- [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework, even works with Android Q. Did I you said XPosed on Q, yep I did!.
-- [Init.d Injector](https://github.com/Magisk-Modules-Repo/InitdInjector) - Injects init.d support via post-fs-data script, this module is only useful if your OS do not natively supports init.d e.g. LOS does that without any scripts.
-- [liboemcrypto-disabler](https://github.com/umylive/liboemcrypto-disabler) - Magisk module to disable liboemcrypto.so DRM (e.g. Netflix, My5) - on rooted Android devices.
-- [Magisk Manager for Recovery Mode](https://github.com/Magisk-Modules-Repo/mm) - This beauty of a module saved my ass from bootloops multiple times in my journey of getting everything to work together.
-- [Magisk Manager](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Official Magisk XDA Forum thread + discussion.
-- [Magisk Module Uninstaller](https://forum.xda-developers.com/showpost.php?p=72542167&postcount=242) - Enables you to uninstall modules in TWRP via terminal.
-- [Magisk WiFi Bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Make 40Mhz runing at 2.4Ghz/5Ghz on your Qualcomm devices! In theory it doubles the bandwith on Qualcomm devices.
-- [Nano for Android NDK](https://github.com/Magisk-Modules-Repo/nano-ndk) - Static ARM nano binary for Android built with the NDK.
-- [NanoDroid](https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928) - An installer for various Open Source related things, most noticeably microG and F-Droid.
-- [Overview of all official and maintained modules](https://forum.xda-developers.com/apps/magisk/collection-magisk-modules-v2-t3575758)
-- [Secure I/F](https://github.com/Magisk-Modules-Repo/secure-if) - Designed to disable data delivery through USB. It can protect your data when you are charging in public area. Some ROMs do this automatically (or via an option) - but most do not!.
-- [Systemless TZData](https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
-- [Viper4Android FX Legacy Materialized](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - It's not placebo!.
-- [Wireless Firmware for Nethunter](https://github.com/Magisk-Modules-Repo/wirelessFirmware) - Adds the required firmware for external wireless adapters to be used with Nethunter.
-- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://newpipe.schabi.org/).
-- [FDE](https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.
+- [ADB y Fastboot para Android NDK](https://forum.xda-developers.com/showthread.php?tthread.php?t=2239421) - ARM estático ADB y binarios Fastboot para Android construidos con el NDK.
+- [Controladores ADRENO GPU Developer Vista previa](https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-divers-t3228002/post67117557#post67117557) - Reemplaza ROMs de controladores de GPU adreno de Qualcomm.
+- [Siempre-en la huella digital](https://forum.xda-developers.com/apps/magisk/module-fingerprint-mi-5-mi-note-2-t3660179) - Permite desbloquear tu dispositivo sin presionar el botón de inicio. El escáner de huellas dactilares permanecerá siempre en permitir eso.
+- [Corrección de micrófono Android](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128) - Corrige en las cuestiones de MIC de bajo volumen de llamadas para varios dispositivos Android.
+- [apk-parcher lite](https://forum.xda-developers.com/android/software/mod-apk-patcher-lite-t3868675) - Una versión modificada de APK-Patcher que eliminará/inyectará archivos en el sistema APK archivos en lugar de usar un método BAKSMALI/APKTOOL.
+- [Guardián de datos de aplicación](https://forum.xda-developers.com/apps/magisk/magisk-module-app-data-module-aptk-t3822278) - Protege aplicaciones seleccionadar y datos de ser eliminados en un regular restablecimiento de fábrica de TWRP.
+- [Bus busybox para Android NDK](https://github.com/magisk-modules-repo/busybox-ndk) - Busybox (reemplazado con TOYBOX en versión posterior de Android). Todavía se necesita para algunas aplicaciones/funciones/scripts.
+- [Cloudflaredns4Magisk (& IPv6)](https://github.com/xerta555/cloudflaredns4magisk-ipv6) - Comenzando con [Android 9 (PIE)+](https://developers.cloudflare.com/1.1.1.1/setting -UT -UT-1.1.1.1/Android /): Puedes configurarlo manualmente (sin ningún módulo), en su configuración de WiFi/Tether.
+- [Crontab](https://github.com/magisk-modules-repo/crontab) - Crontabs fáciles de usar.
+- [Dnscrypt Proxy 2 para Android](https://github.com/magisk-modules-repo/dnscrypt-proxy) - Un proxy DNS flexible, con soporte para protocolos DNS encriptados modernos, como DNScrypt v2 y DNS-Over-HTTP./2.
+- [edxposed](https://github.com/elderdrivers/edxposed) - Elder Driver Xposed Framework, incluso funciona con Android P. ¿Dijiste XPosed en Q? SI, lo hice
+- [init.d inyector](https://github.com/magisk-modules-repo/initdinyector) - Injecta init.d. Soporte a través del script de datos post-FS, este módulo solo es útil si tu sistema operativo no es compatible de forma nativa con init.d.
+- [libboemcrypto-discable](https://github.com/umylive/liboemcrypto-disabler) - Módulo para deshabilitar libboemcrypto.so DRM (por ejemplo, Netflix, MY5).
+- [MAGISK Manager para el modo de recuperación](https://github.com/magisk-modules-repo/mm) - Esta belleza de un módulo me salvó el culo de Bootloops varias veces en mi camino para hacer que todo trabaje bien en conjunto.
+- [MAGISK Manager](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Magisk oficial XDA Foro Thread + Discusión.
+- [Magisk Módulo Uninstaller](https://forum.xda-developers.com/showpost.php?p=72542167&postcount=242) - Permite desinstalar los módulos en TWRP a través de la terminal.
+- [Magisk WiFi enlace](https://github.com/magisk-modules-repo/wifi-bonding) - ¡Haz 40 MHz con 2.4GHz/5GHz en tus dispositivos Qualcomm! En teoría se duplica la conexión de banda en los dispositivos Qualcomm.
+- [Nano para Android NDK](https://github.com/magisk-modules-repo/nano-ndk) - ARM estático Nano Binario para Android construido con el NDK.
+- [Nanodroid](https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928) - Un instalador para varias cosas relacionadas de código abierto, lo más notablemente microg y f -Droid.
+- [Descripción general de todos los módulos oficiales y mantenidos](https://forum.xda-developers.com/apps/magisk/collection-magisk-modules-v2-t3575758)
+- [Secure I/F](https://github.com/magisk-modules-repo/secure-if) - Diseñado para deshabilitar la entrega de datos a través de USB. Puede proteger sus datos cuando se está cargando en una red pública. Algunas ROM hacen esto automáticamente (o a través de una opción), ¡pero la mayoría no!
+- [Tzdata sin sistema](https://github.com/magisk-modules-repo/systemless_tzdata) - Actualiza tu ROM TZDATA sin sistema.
+- [Viper4Android FX Legacy Materializado](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - ¡No es placebo!
+- [Firmware inalámbrico para Nethunter](https://github.com/magisk-modules-repo/wirelessfirmware) - Agrega el firmware requerido para adaptadores inalámbricos externos para usar con Nethunter.
+- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Una versión moddeada conocida de YouTube con muchas características, como adblocking y fondo reproducción. O usa [NewPipe App](https://newpipe.schabi.org/).
+- [FDE](https://github.com/magisk-modules-repo/fde) - Optimizador de Android supremo.
 
-#### EdXposed Modules
+#### Módulos EdXpuestos
 
-- [List of Xposed Modules For Android Pie Working With Ed Xposed](https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768)
-- [Lucky Patcher](https://www.luckypatchers.com/download/) - LP also has a Xposed module which you can use (in case you use Xpose).
-- [Material Design Xposed Installer](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758) - An unofficial Xposed installer with some useful tweaks.
-- [RootCloak](https://repo.xposed.info/module/com.devadvance.rootcloak2) - Allows you to run apps that detect root without disabling root.
+- [Lista de módulos "para Android Pie que funcionan con EdXposed](https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768)
+- [Patcher Lucky](https://www.luckypatchers.com/download/) - LP también tiene un módulo XPOSED que puedes usar (en caso de que uses xplee).
+- [Instalador de diseño de material XPOSED](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758) - Un instalador de xposed no oficial con algunos ajustes útiles.
+- [rootcloak](https://repo.xposed.info/module/com.devadvance.rootcloak2) - Permite ejecutar aplicaciones que detectan acceso raíz sin deshabilitarlo.
 
-### Alternative Distros
+### Distribuciones alternativas
 
-- [GraphenOS](https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
-- [LineageOS](https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) - can be optionally installed.
-- [Replicaant](https://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
-- [CalyxOS](https://calyxos.org/) - Similar like GraphenOS, supports some Google Pixel Devices.
+- [Graphenos](https://phapheneos.org/) - OS endurecido para, por ejemplo, Google Pixel.
+- [Lineageos](https://lineageos.org/) - LineageOS, una de las mejores alternativas bien mantenidas a los AOSP de Google. Se pueden instalar Google Apps (Gapps) opcionalmente.
+- [réplica](https://replicant.us/): el replicante es una distribución de Android completamente gratuita que se ejecuta en varios dispositivos, un sistema operativo móvil de software gratuito que pone el énfasis en la libertad y la privacidad/seguridad.
+- [calyxos](https://calyxos.org/): similar a Grafenos, admite algunos dispositivos de Google Pixel.
 
 ## iOS
 
-- [Beta Profiles](https://betaprofiles.com/) - Download Apple Beta Software without an account or developer ID.
-- ["My little guide for piracy on iPhone"](https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) - Post by /u/Impulse_13.
-- [iOS hardening guide by Z24T](https://github.com/Z24T/iOS-Security/blob/master/Settings.md)
-  - [For iOS 12](https://www.stigviewer.com/stig/apple_ios_12/)
-- [How to add HackYouriPhone Repo in Cydia](http://repo.hackyouriphone.org/add)
-- [iOS: How to crack your apps (IPA) - and share it with people! (Working versions past iOS 9!)](https://www.removeddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
+- [Perfiles BETA](https://betaprofiles.com/) - Descarga el software de Apple Beta sin una cuenta o ID de desarrollador.
+- ["Mi pequeña guía para la piratería en iPhone"](https://www.reddit.com/r/piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) - Publicado por /u/impulse_13.
+- [Guía de endurecimiento de iOS de Z24T](https://github.com/z24t/ios-security/blob/master/settings.md)
+  - [para iOS 12](https://www.stigviewer.com/stig/apple_ios_12/)
+- [Cómo agregar HackyouriPhone Repo en Cydia](http://repo.hackyouriphone.org/add)
+- [iOS: ¿Cómo descifrar sus aplicaciones (IPA) y compártelo con personas! (Versiones de trabajo pasado iOS 9!)](Https://www.removeddit.com/r/piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 
 <details>
 
-  <summary><b>Secure Enclave key for iPhone and iPad</b></summary>
+  <summary> <B> Clave de enclave segura para iPhone y iPad </ B> </summary>
 
-```
-iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00
-```
+`` ``
+iPhone11,8 17C5053A Sepi 9F974F1788E615700FEC73006CC2E6B533B0C6C2B8CF653BDBD347BC1597BDD66B11815F036E94C951250C4DDA916C00
+`` ``
 
 </details>
 
-### JailBreak
+### Jailbreak
 
-- [r/jailbreak](https://reddit.com/r/jailbreak) - Subreddit for iOS side-loading and jailbreak related discussions.
-- [checkm8](https://twitter.com/axi0mX/status/1177544174163263489) - Checkm8 is an iOS 13 Boot-exploit.
-- [Checkra1n](https://checkra.in/) - Semi-tethered Jailbreak for iOS 12.3+.
-- [EtasonATV](https://etasonatv.tihmstar.net/) - AppleTV jailbreak.
-- [IPSW](https://ipsw.me/?_escaped_fragment_=/version) - Provides Jailbreak firmware.
-- [Fugu](https://github.com/LinusHenze/Fugu) - Fugu is the first open source jailbreak based on the checkm8 exploit.
-- [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
-- [s0meiyoshino](https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
-- [Unc0ver](https://unc0ver.dev/) - The most advanced jail-break tool.
+- [r/jailbreak](https://reddit.com/r/jailbreak) - Subreddit para las discusiones relacionadas con la carga lateral y del jailbreak.
+- [CheckM8](https://twitter.com/axi0mx/status/1177544174163263489) - CheckM8 es un IOS 13 Boot-Exploit.
+- [chequera1n](https://checkra.in/) - Jailbreak semi-atado para iOS 12.3+.
+- [Etasonatv](https://etasonatv.tihmstar.net/) - AppleTV Jailbreak.
+- [IPSW](https://ipsw.me/?_escaped_fragment_=/version) - Proporciona firmware de jailbreak.
+- [Fugu](https://github.com/linushenze/fugu) - Fugu es el primer jailbreak de código abierto basado en la explotación de CheckM8.
+- [ipwndfu](https://github.com/axi0mx/ipwndfu) - Herramienta de jailbreak de código abierto para muchos dispositivos iOS.
+- [S0Meiyoshino](https://github.com/dora2-ios/s0meiyoshino) - Esta herramienta permite la explotación de iBOOT.
+- [UNC0VER](https://unc0ver.dev/) - La herramienta de jailbreak más avanzada.
 
-### Apps
+### Aplicaciones
 
-- [MoviesDiary](https://itunes.apple.com/us/app/movies-diary/id1331405996) - Free Movies and TV shows streaming app with tracking feature.
-- [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902) - Similar like Popcorn Time.
-- [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497) - Another alternative for Cinema Time.
-- [Total files](https://itunes.apple.com/us/app/total-files/id557285579) - Basically the IDM under the iOS Download Manager.
+- [Moviedyiary](https://itunes.apple.com/us/app/movies-diary/id1331405996) - Películas y programas de TV gratis con función de seguimiento.
+- [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902) - Igual que Popcorn Time.
+- [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497) - Otra alternativa a Cinema Time.
+- [Archivos totales](https://itunes.apple.com/us/app/total-files/id557285579) - Básicamente el IDM bajo el administrador de descargas de iOS.
 
-### Stores
+### Tiendas
 
-- [App Valley](https://app.appvalley.vip/) - Basically the Aptoide under the iOS Stores.
-- [Box Loca](https://apps.apple.com/us/app/box-loca/id1466961267) - Track the movies you have watched with Box Loca for iPhone.
-- [Cydia](https://cydia.saurik.com/) - Cydia is an alternative to Apple's App Store for "jailbroken" devices.
+- [Valle de la aplicación](https://app.appvalley.vip/) - Básicamente el Aptoide debajo de las tiendas IOS.
+- [CAJA LOCA](https://apps.apple.com/us/app/box-loca/id1466961267) - Rastrea las películas que has visto con la caja LOCA para iPhone.
+- [Cydia](https://cydia.saurik.com/) - Cydia es una alternativa a la App Store de Apple para dispositivos Jailbroken.
 
-#### Store Repos
+#### Repos de almacenamiento
 
-| name                | URL                                                                                        |
-| ------------------- | ------------------------------------------------------------------------------------------ |
-| Ahmedbafkir.Yourepo | [`https://ahmedbafkir.yourepo.com/`](https://ahmedbafkir.yourepo.com/)                     |
-| Akusio              | [`https://akusio.github.io/`](https://akusio.github.io/)                                   |
-| Alfhaily            | [`https://apt.alfhaily.me/`](https://apt.alfhaily.me/)                                     |
-| Appcake             | [`https://www.iphonecake.com`](https://www.iphonecake.com)                                 |
-| Appdb               | [`https://appdb.to`](https://appdb.to)                                                     |
-| C1d3r               | [`https://c1d3r.com/repo/`](https://c1d3r.com/repo/)                                       |
-| Carsuki             | [`https://repo.carsuki.club/`](https://repo.carsuki.club/)                                 |
-| Cemck               | [`https://cemck.github.io/repo/`](https://cemck.github.io/repo/)                           |
-| Chariz              | [`https://repo.chariz.io/`](https://repo.chariz.io/)                                       |
-| Chimera             | [`https://repo.chimera.sh/`](https://repo.chimera.sh/)                                     |
-| Classicxiirepo      | [`https://classicxiirepo.github.io/`](https://classicxiirepo.github.io/)                   |
-| Conorthedev Repo    | [`https://repo.conorthedev.com/`](https://repo.conorthedev.com/)                           |
-| Creaturecoding      | [`https://creaturecoding.com/repo/`](https://creaturecoding.com/repo/)                     |
-| Creaturesurvive     | [`https://creaturesurvive.github.io/`](https://creaturesurvive.github.io/)                 |
-| Cydia Akemi         | [`https://cydia.akemi.ai/`](https://cydia.akemi.ai/)                                       |
-| Cydiageek           | [`https://cydiageek.yourepo.com/`](https://cydiageek.yourepo.com/)                         |
-| Daus                | [`https://repo.daus.ch/`](https://repo.daus.ch/)                                           |
-| Dpkg9510            | [`https://dpkg9510.github.io/`](https://dpkg9510.github.io/)                               |
-| Dubailive           | [`https://dubailive.github.io/`](https://dubailive.github.io/)                             |
-| Dunkston            | [`https://dunkston.github.io/repo/`](https://dunkston.github.io/repo/)                     |
-| Esquillidev         | [`https://esquillidev.github.io/`](https://esquillidev.github.io/)                         |
-| Evynw               | [`https://evynw.github.io`](https://evynw.github.io)                                       |
-| Exqusic             | [`https://exqusic.github.io/`](https://exqusic.github.io/)                                 |
-| Geometricsoftware   | [`https://apt.geometricsoftware.se/`](https://apt.geometricsoftware.se/)                   |
-| Get Delta           | [`https://getdelta.co/`](https://getdelta.co/)                                             |
-| Gmoran              | [`https://gmoran.me/repo/`](https://gmoran.me/repo/)                                       |
-| HackYouriPhone      | [`https://repo.hackyouriphone.org/`](https://repo.hackyouriphone.org/)                     |
-| Hacx                | [`https://hacx.org/repo/`](https://hacx.org/repo/)                                         |
-| Henrikssonbrothers  | [`https://henrikssonbrothers.com/cydia/repo/`](https://henrikssonbrothers.com/cydia/repo/) |
-| hydridev            | [`https://hydridev.github.io/repo/`](https://hydridev.github.io/repo/)                     |
-| IB-Soft.net         | [`https://ib-soft.net/cydia/`](https://ib-soft.net/cydia/)                                 |
-| iDevice Hacked      | [`https://idevicehacked.com/`](https://idevicehacked.com/)                                 |
-| Incendo             | [`https://repo.incendo.ws/`](https://repo.incendo.ws/)                                     |
-| Ipodhacks142        | [`https://repo.ipodhacks142.com/`](https://repo.ipodhacks142.com/)                         |
-| Jakeashacks         | [`https://jakeashacks.ga/cydia/`](https://jakeashacks.ga/cydia/)                           |
-| Jjolano             | [`https://ios.jjolano.me/`](https://ios.jjolano.me/)                                       |
-| Jukben              | [`https://cydia.jukben.cz`](https://cydia.jukben.cz)                                       |
-| Julioverne          | [`https://julioverne.github.io/`](https://julioverne.github.io/)                           |
-| Junesiphone         | [`https://junesiphone.com/supersecret/`](https://junesiphone.com/supersecret/)             |
-| Kingmehu Yourepo    | [`https://kingmehu.yourepo.com/`](https://kingmehu.yourepo.com/)                           |
-| Kurrt               | [`https://kurrt.com/repo/`](https://kurrt.com/repo/)                                       |
-| LimneOS             | [`https://limneos.net/repo/`](https://limneos.net/repo/)                                   |
-| Lonestarx           | [`https://repo.lonestarx.net/`](https://repo.lonestarx.net/)                               |
-| Lumartti            | [`https://lumartti.github.io/`](https://lumartti.github.io/)                               |
-| Manolzrepo          | [`https://manolzrepo.github.io/`](https://manolzrepo.github.io/)                           |
-| MCapollo            | [`https://mcapollo.github.io/Public/`](https://mcapollo.github.io/Public/)                 |
-| Midnightchips       | [`https://repo.midnightchips.me/`](https://repo.midnightchips.me/)                         |
-| Ndoizo              | [`https://ndoizo.ca/`](https://ndoizo.ca/)                                                 |
-| Nepeta              | [`https://repo.nepeta.me/`](https://repo.nepeta.me/)                                       |
-| Nexusrepo           | [`https://nexusrepo.kro.kr/`](https://nexusrepo.kro.kr/)                                   |
-| Noisyflake          | [`https://apt.noisyflake.com/`](https://apt.noisyflake.com/)                               |
-| OceanTweak          | [`https://oceantweak.tk/repo/`](https://oceantweak.tk/repo/)                               |
-| Opa334              | [`https://opa334.github.io/`](https://opa334.github.io/)                                   |
-| Packix              | [`https://repo.packix.com/`](https://repo.packix.com/)                                     |
-| Parrotgeek          | [`https://parrotgeek.com/repo/`](https://parrotgeek.com/repo/)                             |
-| PikabuCydia         | [`https://PikabuCydia.github.io/`](https://PikabuCydia.github.io/)                         |
-| Poomsmart           | [`https://poomsmart.github.io/repo/`](https://poomsmart.github.io/repo/)                   |
-| Pulandres           | [`https://pulandres.rejail.ru/`](https://pulandres.rejail.ru/)                             |
-| Qwert yui op 1379   | [`https://qwertyuiop1379.github.io/`](https://qwertyuiop1379.github.io/)                   |
-| R0wdrunner          | [`https://r0wdrunner.github.io/repo/`](https://r0wdrunner.github.io/repo/)                 |
-| Rejail              | [`https://rejail.ru/`](https://rejail.ru/)                                                 |
-| Repounclutter       | [`https://repounclutter.coolstar.org/`](https://repounclutter.coolstar.org/)               |
-| Restiveconch        | [`https://restiveconch.yourepo.com/`](https://restiveconch.yourepo.com/)                   |
-| rob311              | [`https://cydia.rob311.com/repo/`](https://cydia.rob311.com/repo/)                         |
-| Rpetri              | [`https://rpetri.ch/repo/`](https://rpetri.ch/repo/)                                       |
-| Ruler225            | [`https://ruler225.github.io/`](https://ruler225.github.io/)                               |
-| Ryleyangus          | [`https://ryleyangus.com/repo/`](https://ryleyangus.com/repo/)                             |
-| Securarepo          | [`https://apt.securarepo.io/`](https://apt.securarepo.io/)                                 |
-| Shiftcmdk           | [`https://shiftcmdk.github.io/repo/`](https://shiftcmdk.github.io/repo/)                   |
-| Shuga               | [`https://repo.shuga.co/`](https://repo.shuga.co/)                                         |
-| Skitty              | [`https://skitty.xyz/repo/`](https://skitty.xyz/repo/)                                     |
-| Skylerk99           | [`https://skylerk99.github.io/`](https://skylerk99.github.io/)                             |
-| Sparkdev            | [`https://sparkdev.me/`](https://sparkdev.me/)                                             |
-| Spicat              | [`https://spicat.github.io/`](https://spicat.github.io/)                                   |
-| Subdiox             | [`https://subdiox.com/cydia/`](https://subdiox.com/cydia/)                                 |
-| Tateu               | [`https://tateu.net/repo`](https://tateu.net/repo)                                         |
-| Tdmd                | [`https://tdmd.github.io/`](https://tdmd.github.io/)                                       |
-| The Swedish Prxck   | [`https://theswedishprxck.yourepo.com/`](https://theswedishprxck.yourepo.com/)             |
-| Thireus             | [`https://repo.thireus.com/`](https://repo.thireus.com/)                                   |
-| Tie1r               | [`https://tie1r.xyz/repo/`](https://tie1r.xyz/repo/)                                       |
-| Unlimapps           | [`https://beta.unlimapps.com/`](https://beta.unlimapps.com/)                               |
-| Webjungle           | [`https://ocean.webjungle.ch/`](https://ocean.webjungle.ch/)                               |
-| Wizages             | [`https://wizages.com/cydia/`](https://wizages.com/cydia/)                                 |
-| Xarold              | [`https://repo.xarold.com/`](https://repo.xarold.com/)                                     |
-| Yaypixxo            | [`https://yaypixxo.com`](https://yaypixxo.com)                                             |
-| Ziph0n              | [`https://repo.ziph0n.com/`](https://repo.ziph0n.com/)                                     |
+| Nombre | URL |
+| ------------------- | ---------------------------------------------------- ------------------------------------------ |
+| Ahmedbafkir.yourepo | [`https://ahmedbafkir.yourepo.com/`](https://ahmedbafkir.yourepo.com/) |
+| Akusio | [`https://akusio.github.io/`](https://akusio.github.io/) |
+| Alfhaily | [`https://apt.alfhaily.me/`](https://apt.alfhaily.me/) |
+| Appcake | [`https: // www.iphonecake.com '](https://www.iphonecak.com) |
+| APPDB | [`https: // appdb.to '](https://appdb.to) |
+| C1d3r | [`https://c1d3r.com/repo/`](https://c1d3r.com/repo/) |
+| Carsuki | [`https://repo.carsuki.club/`](https://repo.carsuki.club/) |
+| CEMCK | [`https://cemck.github.io/repo/`](https://cemck.github.io/repo/) |
+| Chariz | [`https://repo.chariz.io/`](https://repo.chariz.io/) |
+| Quimera | [`https://repo.chimera.sh/`(https://repo.chimera.sh/) |
+| ClassicXIIREPO | [`https://classicxiirepo.github.io/`](https://classicxiirepo.github.io/) |
+| Conapedev repo | [`https://repo.conorthedev.com/`](https://repo.conorthedev.com/) |
+| Createfoding | [`https://creaturecoding.com/repo/`](https://creaturecoding.com/repo/) |
+| Criaturasurvive | [`https://creaturesurvive.github.io/`](https://creaturesurvive.github.io/) |
+| Cydia Akemi | [`https://cydia.akemi.ai/`](https://cydia.akemi.ai/) |
+| Cydiageek | [`https://cydiageek.yourepo.com/`](https://cydiageek.yourepo.com/) |
+| Daus | [`https://repo.daus.ch/`(https://repo.daus.ch/) |
+| Dpkg9510 | [`https://dpkg9510.gith.io/`](https://dpkg9510.github.io/) |
+| Dubailvive | [`https://dubailive.github.io/`](https://dubailive.github.io/) |
+| Dunkston | [`https://dunkston.github.io/repo/`](https://dunkston.github.io/repo/) |
+| Esquillidev | [`https://esquillidev.github.io/`](https://esquillidev.github.io/) |
+| Evynw | [`https: // evynw.github.io`](https://evynw.github.io) |
+| Exqusic | [`https://exqusic.github.io/`](https://exqusic.github.io/) |
+| Geometricsoftware | [`https://apt.geometricsoftware.se/`(https://apt.geometricsoftware.se/) |
+| Obtener Delta | [`https://getdelta.co/`(https://getdelta.co/) |
+| Gmoran | [`https://gmoran.me/repo/`](https://gmoran.me/repo/) |
+| Hackyouriphone | [`https://repo.hackyouriphone.org/`](https://repo.hackyouriphone.org/) |
+| HACX | [`https://hacx.org/repo/`](https://hacx.org/repo/) |
+| Henrikssonbrothers | [`https://henrikssonbrothers.com/cydia/repo/`](https://henrikssonbrothers.com/cydia/repo/) |
+| HYDIDRV | [`https://hydridev.github.io/repo/`](https://hydridev.github.io/repo/) |
+| Ib-soft.net | [`https://ib-soft.net/cydia/`](https://ib-soft.net/cydia/) |
+| Idevice hackeado | [`https://idevicehacked.com/`](https://idevicehacked.com/) |
+| Incendio | [`https://repo.incendo.ws/`](https://repo.incendo.ws/) |
+| Ipodhacks142 | [`https://repo.ipodhacks142.com/`](https://repo.ipodhacks142.com/) |
+| Jakeashacks | [`https://jakeashacks.ga/cydia/`](https://jakeashacks.ga/cydia/) |
+| Jjolano | [`https://ios.jjolano.me/`](https://ios.jjolano.me/) |
+| Jukben | [`https: // cydia.jukben.cz`](https://cydia.jukben.cz) |
+| Julioverne | [`https://julioverne.github.io/`](https://julioverne.github.io/) |
+| Junisiphone | [`https://junesifhone.com/supersecret/`](https://junesiphone.com/supersecret/) |
+| Kingmehu yourepo | [`https://kingmehu.yourepo.com/`](https://kingmehu.yourepo.com/) |
+| Kurrt | [`https://kurrt.com/repo/`](https://kurrt.com/repo/) |
+| Limneos | [`https://limneos.net/repo/`](https://limneos.net/repo/) |
+| Lonestarx | [`https://repo.lonestarx.net/`](https://repo.lonestarx.net/) |
+| Lumartti | [`https://lumartti.github.io/`](https://lumartti.github.io/) |
+| Manolzrepo | [`https://manolzrepo.github.io/`](https://manolzrepo.github.io/) |
+| Mcapollo | [`https://mcapollo.github.io/public/`](https://mcapollo.github.io/public/) |
+| Midnightnightchips | [`https://repo.midnightchips.me/`](https://repo.midnightchips.me/) |
+| Ndoizo | [`https://ndoizo.ca/`](https://ndoizo.ca/) |
+| Nepeta | [`https://repo.nepeta.me/`](https://repo.nepeta.me/) |
+| Nexusreco | [`https://nexusreco.kro.kr/`](https://nexusreco.kro.kr/) |
+| Noisyfloke | [`https://apt.noisyflake.com/`](https://apt.noisyflake.com/) |
+| Oceetweak | [`https://oceantweak.tk/repo/`](https://oceantweak.tk/repo/) |
+| Opa334 | [`https://opa334.github.io/`](https://opa334.github.io/) |
+| Packix | [`https://repo.packix.com/`(https://repo.packix.com/) |
+| Parrotgeek | [`https://parrotgeek.com/repo/`](https://parrotgeek.com/repo/) |
+| Pikabucydia | [`https://pikabucydia.github.io/`](https://pikabucydia.github.io/) |
+| Poomsmart | [`https://poomsmart.github.io/repo/`](https://poomsmart.github.io/repo/) |
+| Pulandres | [`https://pulandres.rejail.ru/`](https://pulandres.rejail.ru/) |
+| Qwert yui op 1379 | [`https://qwertyuiop1379.github.io/`](https://qwertyuiop1379.github.io/) |
+| R0wdrunner | [`https://r0wdrunner.github.io/repo/`](https://r0wdrunner.github.io/repo/) |
+| Rejail | [`https://rejail.ru/`](https://rejail.ru/) |
+| Repunteclutter | [`https://repounclutter.coolstar.org/`](https://repoublutter.coolstar.org/) |
+| Restivecnch | [`https://restiveconch.yourepo.com/`](https://restiveconcsch.yourepo.com/) |
+| rob311 | [`https://cydia.rob311.com/repo/`](https://cydia.rob311.com/repo/) |
+| Rpetri | [`https://rpetri.ch/repo/`](https://rpetri.ch/repo/) |
+| Ruler225 | [`https://ruler225.github.io/`](https://ruler225.github.io/) |
+| Ryleyangus | [`https://ryleyangus.com/repo/`](https://ryleyangus.com/repo/) |
+| SecurArepo | [`https://apt.securarepo.io/`](https://apt.securarepo.io/) |
+| Shiftcmdk | [`https://shiftcmdk.github.io/repo/`](https://shiftcmdk.github.io/repo/) |
+| Shuga | [`https://repo.shuga.co/`](https://repo.shuga.co/) |
+| Skitty | [`https://skitty.xyz/repo/`](https://skitty.xyz/repo/) |
+| Skylerk99 | [`https://skylerk99.gith.io/`](https://skylerk99.github.io/) |
+| Sparkdev | [`https://sparkdev.me/`(https://sparkdev.me/) |
+| Spicat | [`https://spicat.github.io/`](https://spicat.github.io/) |
+| Subdiox | [`https://subdiox.com/cydia/`](https://subdiox.com/cydia/) |
+| Tateu | [`https://tateu.net/repo`](https://tateu.net/repo) |
+| TDMD | [`https://tdmd.github.io/`](https://tdmd.github.io/) |
+| El Sueco Prxck | [`https://theswedishprxck.yourepo.com/`](https://theswedishprxck.yourepo.com/) |
+| Thireus | [`https://repo.thireus.com/`](https://repo.thireus.com/) |
+| Tie1r | [`https://tie1r.xyz/repo/`](https://tie1r.xyz/repo/) |
+| Unlimapps | [`https://beta.unlimapps.com/`](https://beta.unlimapps.com/) |
+| Webjungle | [`https://ocean.webjungle.ch/`(https://ocean.webjungle.ch/) |
+| Wizajes | [`https://wizages.com/cydia/`](https://wizags.com/cydia/) |
+| Xarold | [`https://repo.xarold.com/`](https://repo.xarold.com/) |
+| Yaypixxo | [`https: // yaypixxo.com '](https://yaypixxo.com) |
+| Ziph0n | [`https://repo.ziph0n.com/`(https://repo.ziph0n.com/) | 
