@@ -1,88 +1,88 @@
 ---
-title: Usenet
+título: Usenet
 sidebar_label: Usenet
 ---
 
-- [Usenet](https://en.wikipedia.org/wiki/Usenet) - Usenet is a worldwide distributed discussion system available on computers.
-- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
-- [r/Usenet](https://www.reddit.com/r/Usenet) - A thriving community dedicated to helping users old and new understand and use Usenet.
-- [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
-- [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - Requests and offers for Usenet indexers.
-- [NZBLINK](https://nzblnk.info/) - The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
-- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Table of applications for uploading content to Usenet.
-- [QuickPar](http://www.quickpar.org.uk/index.htm) - Tool for reconstructing damaged/missing/corrupt Usenet binaries.
-- [NZB Monkey](https://nzblnk.info/nzb-monkey/) - NZB download helper-tool.
-- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
-- [ngPost](https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) - usenet poster for binaries developped in C++/QT.
-- [A Quick Guide to Choosing a Usenet Provider](https://www.reddit.com/r/usenet/comments/a7ffm7/a_quick_guide_to_choosing_a_usenet_provider/) - Reddit post by /u/FlickFreak.
+- [Usenet](https://en.wikipedia.org/wiki/Usenet) - Usenet es un sistema de discusión distribuido en todo el mundo disponible en computadoras.
+- [Grupo de noticias de Usenet](https://en.wikipedia.org/wiki/Usenet_newsgroup) - Un grupo de noticias de Usenet es un repositorio generalmente dentro del sistema de Usenet, para los mensajes enviados por muchos usuarios en diferentes ubicaciones usando Internet.
+- [r/Usenet](https://www.reddit.com/r/Usenet) - Una comunidad próspera dedicada a ayudar a los usuarios nuevos y antiguos a comprender y usar Usenet.
+- [Introducción a usenet -/r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
+- [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - Solicitudes y ofertas para indexadores de Usenet.
+- [NZBLINK](https://nzblnk.info/) - El esquema de URI NZBLNK™ define el formato de los enlaces NZBLNK™ para identificar el contenido binario de Usenet y proporciona información adicional para manejar ese contenido correctamente (similar a los enlaces magnéticos, pero para NZB).
+- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Tabla de aplicaciones para cargar contenido en Usenet.
+- [QuickPar](http://www.quickpar.org.uk/index.htm) - Herramienta para reconstruir archivos binarios de Usenet dañados/faltantes/corruptos.
+- [NZB Monkey](https://nzblnk.info/nzb-monkey/) - Herramienta de ayuda de descarga de NZB.
+- [SABconnect ++](https://github.com/gboudreau/sabconnectplusplus) - Extensión de Chrome que agrega botones 'Enviar a SABnzbd' con un solo clic a muchos sitios populares de índices NZB.
+- [ngPost](https://github.com/mbruel/ngPost) - Línea de comandos (o GUI minimalista) - Póster de usenet para binarios desarrollados en C ++/QT.
+- [Una guía rápida para elegir un proveedor de Usenet](https://www.reddit.com/r/usenet/comments/a7ffm7/a_quick_guide_to_choosing_a_usenet_provider/) - Publicación en Reddit de/u/FlickFreak.
 
-## Forums
+## Foros
 
-- [Revenge of Usenet](https://revenge-of-usenet.com) - Forum for usenet related news, and download discussions.
-- [Brothers of Usenet](https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene.
-- [Fileleechers](https://fileleechers.info) - A young forum around Usenet.
-- [House of Usenet](https://house-of-usenet.com) - New provider, new url, a reboot of the well known forum.
-- [omgwtfnzbs](https://omgwtfnzbs.me) - (paid) - A paid usenet indexer.
-- [SceneNzb.com](https://scenenzb.com) - (paid) - 3 NZD files per day are free.
-- [Sky of Usenet](https://sky-of-use.net) - Yet another german usenet forum.
+- [Revenge of Usenet](https://revenge-of-usenet.com) - Foro para noticias relacionadas con Usenet y discusiones sobre descargas.
+- [Brothers of Usenet](https://www.brothers-of-usenet.net) - El tablero original se cayó, por lo que este es un espejo del conocido foro que discute cosas alrededor de la escena.
+- [Fileleechers](https://fileleechers.info) - Un foro joven en torno a Usenet.
+- [House of Usenet](https://house-of-usenet.com) - Nuevo proveedor, nueva URL, reinicio del conocido foro.
+- [omgwtfnzbs](https://omgwtfnzbs.me) - (pagado) - Un indexador de Usenet pagado.
+- [SceneNzb.com](https://scenenzb.com) - (pago) - 3 archivos NZD por día son gratuitos.
+- [Sky of Usenet](https://sky-of-use.net) - Otro foro de Usenet alemán.
 
-## Providers
+## Proveedores
 
-- [Usenet Express](http://usenetexpress.com/) - UsenetExpress is a powerful new tier-1 Usenet provider that offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
-- [Eweka News](https://www.eweka.nl/) - Netherlands-based Usenet provider.
-- [Newsdemon](https://www.newsdemon.com/) - Cheap and cheerful Usenet provider with frequent discounts.
-- [Newsgroup Ninja](https://www.newsgroup.ninja/en) - \$7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
-- [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
-- [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Dutch Usenet provider that offers a [Highwinds](https://highwinds.com/) - news feed.
-- [Usenet Crawler](https://www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
-- [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
-- [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
-- [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
-- [XS News](https://greycoder.com/goto/xsnews) - European Usenet feed.
+- [Usenet Express](http://usenetexpress.com/) - UsenetExpress es un nuevo y poderoso proveedor de Usenet de nivel 1 que ofrece una seguridad sólida, un enlace ascendente de 10 GB por servidor y hasta 150 transmisiones a un precio excelente.
+- [Eweka News](https://www.eweka.nl/) - Proveedor de Usenet con sede en los Países Bajos.
+- [Newsdemon](https://www.newsdemon.com/) - Proveedor de Usenet económico y alegre con descuentos frecuentes.
+- [Newsgroup Ninja](https://www.newsgroup.ninja/en) ​​- \ $7,99 por mes, cifrado SSL, uso sin medidor, velocidades ilimitadas.
+- [Premiumizer](https://github.com/piejanssens/premiumizer) - Una herramienta de gestión de descargas para descargas en la nube premiumize.me.
+- [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Proveedor holandés de Usenet que ofrece un [Highwinds](https://highwinds.com/) - feed de noticias .
+- [Usenet Crawler](https://www.usenet-crawler.com) - Películas, libros electrónicos, series de televisión, anime y más.
+- [Proveedores y backbones de Usenet](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - Esta es una descripción general simple de las empresas, backbones, proveedores y revendedores actuales en el panorama de Usenet.
+- [Usenet.Farm](https://usenet.farm/) - Revendedor de Usenet con más de 1000 días de retención.
+- [WorldSrc](https://worldsrc.org) - Películas, software, aplicaciones, juegos, música e imágenes disponibles para descarga directa rápida + torrents.
+- [XS News](https://greycoder.com/goto/xsnews) - Fuente de Usenet europea.
 
-## Indexers
+## Indexadores
 
-- [r/Usenet wiki: indexers](https://www.reddit.com/r/Usenet/wiki/indexers) - Information about /r/Usenet's favourite indexing services.
+- [r/Usenet wiki: indexadores](https://www.reddit.com/r/Usenet/wiki/indexers) - Información sobre los servicios de indexación favoritos de/r/Usenet.
 
-### Paid Indexers
+### Indexadores pagos
 
-- [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) that occasionally opens up while maintenance).
-- [DrunkenSlug](https://drunkenslug.com/) - Popular NZB indexer with a free tier and decent retention.
-- [NZBCat](https://nzb.cat/) - NZBCat is an invite-only nZEDb NZB indexer.
-- [NZBFinder](https://nzbfinder.ws/) - Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.
-- [NZBgeek](https://nzbgeek.info/) - Affordable Usenet indexer operating since 2014.
-- [omgwtfnzbs](https://omgwtfnzbs.me/login) - Invite-only NZB indexer with a funny name.
+- [DOGnzb](https://dognzb.cr/login) - Sitio de NZB solo para invitados (aunque tienen una [página de registro](https://dognzb.cr/register) que ocasionalmente se abre durante el mantenimiento).
+- [DrunkenSlug](https://drunkenslug.com/) - Indexador NZB popular con un nivel gratuito y una retención decente.
+- [NZBCat](https://nzb.cat/) - NZBCat es un indexador nZEDb NZB solo por invitación.
+- [NZBFinder](https://nzbfinder.ws/) - Indexador de Usenet y API newznab con una interfaz de usuario limpia y más de 8 años de acumulación de NZB.
+- [NZBgeek](https://nzbgeek.info/) - Indexador de Usenet asequible que funciona desde 2014.
+- [omgwtfnzbs](https://omgwtfnzbs.me/login) - Indexador NZB solo para invitados con un nombre divertido.
 
-### Free Indexers
+### Indexadores gratuitos
 
-- [BINZB](https://binzb.com) - Minimalistic indexer.
-- [Binsearch](https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
-- [FindNZB](https://findnzb.net) - One old indixer, the results are outdated and often offline.
-- [NZBIndex](https://www.nzbindex.com) - The first free Usenet indexer you find in your Google search results.
-- [NZBFriends](https://nzbfriends.com) - One of the oldest indexers, sadly the results are often outdated too.
-- [NZBKing](http://nzbking.com/) - The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
-- [Usenet Crawler](https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
-- [NewzLeech](https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
-- [GingaDADDY](https://www.gingadaddy.com/) - Another popular free NZB indexer, requires sign-up.
+- [BINZB](https://binzb.com) - Indexador minimalista.
+- [Binsearch](https://www.binsearch.info/) - Con este sitio puede buscar y explorar grupos de noticias binarios de Usenet.
+- [FindNZB](https://findnzb.net) - Un antiguo indixer, los resultados están desactualizados y, a menudo, sin conexión.
+- [NZBIndex](https://www.nzbindex.com) - El primer indexador de Usenet gratuito que encontrará en los resultados de búsqueda de Google.
+- [NZBFriends](https://nzbfriends.com) - Uno de los indexadores más antiguos, lamentablemente los resultados también suelen estar desactualizados.
+- [NZBKing](http://nzbking.com/) - El servicio le permite buscar y explorar archivos binarios que se han publicado en los grupos de noticias de Usenet.
+- [Usenet Crawler](https://usenet-crawler.com/) - Indexador de Usenet con acceso API para usuarios registrados.
+- [NewzLeech](https://www.newzleech.com/) - Newzleech es un motor de búsqueda de archivos de Usenet.
+- [GingaDADDY](https://www.gingadaddy.com/) - Otro indexador gratuito popular de NZB, requiere registrarse.
 
-## Indexing Software
+## Software de indexación
 
-- [Momentum Plus](https://plus.momentum-client.com/) - Usenet-Newsreader and in the (near future) - indexer and collector for usenet files.
-- [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
-- [nZEDb](https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
-- [newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
-- [newznab](http://www.newznab.com/) - Newznab is a usenet indexing application, that makes building a usenet community easy.
-- [NzBlite](https://www.nzblite.com/) - (_nzblite client_) - Open source file format to simplify Usenet uploading and downloading to newsgroups.
+- [Momentum Plus](https://plus.momentum-client.com/) - Usenet-Newsreader y en el (futuro cercano) - indexador y recopilador de archivos de Usenet.
+- [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - Una colección de scripts para automatizar y simplificar la implementación de un indexador de Usenet nZEDb usando el nuevo formato de su repositorio de GitHub.
+- [nZEDb](https://github.com/nZEDb/nZEDb) - Una bifurcación de nnplus (2011) - | Indexador NNTP/Usenet/Newsgroup.
+- [newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Indexador usenet basado en Laravel.
+- [newznab](http://www.newznab.com/) - Newznab es una aplicación de indexación de Usenet, que facilita la creación de una comunidad de Usenet.
+- [NzBlite](https://www.nzblite.com/) - (_nzblite client_) - Formato de archivo de código abierto para simplificar la carga y descarga de Usenet en grupos de noticias.
 
-## Usenet Clients
+## Clientes de Usenet
 
-- [NZBget](https://nzbget.net/) - Efficient Usenet downloader written in C++.
-- [NZBVortex 3](https://www.nzbvortex.com/landing/) - Simply the best Usenet client for Mac.
-- [alt.binz](https://www.altbinz.net/) - A powerful binary newsreader, for downloading and managing articles from Usenet.
-- [Newsbin](http://newsbin.com/about.php) - Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
-- [NZBGet](http://nzbget.net/) - Efficient Usenet downloader written in C++ which is bit lighter on system resources than SABNZBd.
-- [PowerNZB](http://powernzb.co.uk/) - The Ultimate Binary Usenet Client for Android.
-- [SABnzbd](http://sabnzbd.org/) - SABnzbd is an open-source binary Newsreader written in Python.
-- [spotweb](https://github.com/spotweb/spotweb) - Spotweb is a decentralized Usenet community based on the Spotnet protocol.
-- [Unison](http://panic.com/blog/the-future-of-unison/) - macOS app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
-- [Usenetic](http://www.usenetic.com/) - The full-featured Usenet client for macOS.
+- [NZBget](https://nzbget.net/) - Descargador eficiente de Usenet escrito en C++.
+- [NZBVortex 3](https://www.nzbvortex.com/landing/) - Simplemente el mejor cliente de Usenet para Mac.
+- [alt.binz](https://www.altbinz.net/) - Un poderoso lector de noticias binario, para descargar y administrar artículos de Usenet.
+- [Newsbin](http://newsbin.com/about.php) - Newsbin es un software para los sistemas operativos Microsoft Windows que descarga archivos de los grupos de noticias de Usenet.
+- [NZBGet](http://nzbget.net/) - Eficiente descargador de Usenet escrito en C++ que es un poco más liviano en recursos del sistema que SABNZBd.
+- [PowerNZB](http://powernzb.co.uk/) - El último cliente binario de Usenet para Android.
+- [SABnzbd](http://sabnzbd.org/) - SABnzbd es un lector de noticias binario de código abierto escrito en Python.
+- [spotweb](https://github.com/spotweb/spotweb) - Spotweb es una comunidad Usenet descentralizada basada en el protocolo Spotnet.
+- [Unison](http://panic.com/blog/the-future-of-unison/) - Aplicación macOS para acceder a los grupos de noticias de Usenet y las muchas maravillas y misterios que contiene (descontinuado).
+- [Usenetic](http://www.usenetic.com/) - El cliente de Usenet con todas las funciones para macOS.
