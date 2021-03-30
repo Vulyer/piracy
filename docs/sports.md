@@ -1,62 +1,62 @@
 ---
-title: Sports
-sidebar_label: Sports
+título: Deportes
+sidebar_label: Deportes
 ---
 
-- [r/MLBstreams](https://www.reddit.com/r/MLBstreams/) - MLB streams.
-- [r/NHLstreams](https://www.reddit.com/r/NHLstreams/) - NHL streams.
+- [r/MLBstreams](https://www.reddit.com/r/MLBstreams/) - Transmisiones de MLB.
+- [r/NHLstreams](https://www.reddit.com/r/NHLstreams/) - Transmisiones de la NHL.
 - [r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) - NCAABBall streams.
-- [r/CFBstreams](https://www.reddit.com/r/CFBstreams/) - CFB streams.
-- [r/WWEstreams](https://www.reddit.com/r/WWEstreams/) - WWE streams.
-- [r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - rugby streams.
+- [r/CFBstreams](https://www.reddit.com/r/CFBstreams/) - Transmisiones CFB.
+- [r/WWEstreams](https://www.reddit.com/r/WWEstreams/) - Transmisiones de WWE.
+- [r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Transmisiones de rugby.
 - [r/MMAFights](https://www.reddit.com/r/mmafights/)
-- [r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) community for motorsports streams.
+- Comunidad [r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) para transmisiones de deportes de motor.
 - [r/nflstreams](https://www.reddit.com/r/nflstreams/)
-- [LiveTV](https://livesx.eu/) - Wide variety of sports, results/live scores, video archive and betting.
+- [LiveTV](https://livesx.eu/) - Amplia variedad de deportes, resultados/puntajes en vivo, archivo de videos y apuestas.
 - [Fight-BB](http://fight-bb.com/)
 - [MMA Releaselog](http://mma-releaselog.com/)
-- [All The Best Fights](https://www.allthebestfights.com/)
+- [Todas las mejores peleas](https://www.allthebestfights.com/)
 - [Arconaitv](https://www.arconaitv.us/)
-- [Couch Tuner](https://www.couchtuner.cloud/)
+- [Sintonizador de sofá](https://www.couchtuner.cloud/)
 - [CrickFRee](https://crickfree.org/)
-- [First Row Sports](https://firstsrowsports.tv/)
-- [Footybite](https://home.footybite.com/) - Footybite provides latest news, live scores, stats, betting odds comparison, and much more.
+- [Deportes de primera fila](https://firstsrowsports.tv/)
+- [Footybite](https://home.footybite.com/) - Footybite ofrece las últimas noticias, puntajes en vivo, estadísticas, comparación de probabilidades de apuestas y mucho más.
 - [MMA Core](https://www.mma-core.com/videos)
 - [MMA Versus](https://mmaversus.com/)
-- [More Live Sports Sites](https://www.tipsformobile.com/top10-free-sports-streaming-websites-to-watch-sports-online/)
-- [Pro Wrestling Torrents](https://pwtorrents.net/)
+- [Más sitios de deportes en vivo](https://www.tipsformobile.com/top10-free-sports-streaming-websites-to-watch-sports-online/)
+- [Torrentes de lucha libre profesional](https://pwtorrents.net/)
 - [ProjectFreeTV](https://www8.project-free-tv.ag/)
 - [Siptveu](https://siptveu.com)
 - [Xtreme Wrestling Torrents (XWT)](http://www.xtremewrestlingtorrents.net/)
 
-## Sports Streaming
+## Transmisión de deportes
 
-- [Best Sport Streaming](https://www.bestsportstreaming.com/) - Site that rates sport streaming services.
-- [Cricfree](https://crickfree.org/) - Offers popular sports streams.
+- [Mejor transmisión de deportes](https://www.bestsportstreaming.com/) - Sitio que califica los servicios de transmisión de deportes.
+- [Cricfree](https://crickfree.org/) - Ofrece transmisiones de deportes populares.
 - [cytu.be/r/heemstream](https://cytu.be/r/heemstream)
-- [footybite](https://www.footybite.com/) - Soccer streaming site.
-- [LiveTV](https://livesx.eu/) - Wide variety of sports, results/live scores, video archive and betting.
-- [MamaHD](https://www.mamahd.org/) - 24/7 feeds, sports streams offers a clean UI.
-- [Send It](https://sendit.gg/) - Live stream listings for sports, news, gaming, and more.
+- [footybite](https://www.footybite.com/) - Sitio de transmisión de fútbol.
+- [LiveTV](https://livesx.eu/) - Amplia variedad de deportes, resultados/puntajes en vivo, archivo de videos y apuestas.
+- [MamaHD](https://www.mamahd.org/) - Transmisiones de deportes las 24 horas del día, los 7 días de la semana. Ofrece una interfaz de usuario limpia.
+- [Enviar](https://sendit.gg/) - Listas de transmisiones en vivo para deportes, noticias, juegos y más.
 - [Stream2Watch](https://www.stream2watch.ws/)
 - [Streamwoop](https://streamwoop.net/)
-- [VIPBox](https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which with an friendly UI.
-- [NBAFullHD](https://www.nbafullhd.com/) - Full NBA games.
-- [NBAHDReplay](https://nbahdreplay.com/) - Full NBA games.
-- [WatchRaw](hhttp://watchraw.com/) - Various Sports replays.
-- [WatchWrestling24](hhttp://watchwrestling24.net/) - Replays for MMA, WWE.
-- [Allwrestling](hhttp://www.allwrestling.live/) - Replays for MMA, WWE.
-- [WatchWrestling](https://watchwrestling.in/) - Replays for MMA, WWE.
-- [Bbellator](hhttp://www.bellator.com/events) - Replays for MMA, WWE.
-- [Highlightstore](https://www.highlightstore.me/) - Replays for multiple sports.
+- [VIPBox](https://www.vipbox.live/) - (español) - Muchas transmisiones deportivas, TV con una interfaz de usuario amigable.
+- [NBAFullHD](https://www.nbafullhd.com/) - Juegos completos de la NBA.
+- [NBAHDReplay](https://nbahdreplay.com/) - Juegos completos de la NBA.
+- [WatchRaw](hhttp: //watchraw.com/) - Varias repeticiones de deportes.
+- [WatchWrestling24](hhttp: //watchwrestling24.net/) - Repeticiones de MMA, WWE.
+- [Allwrestling](hhttp: //www.allwrestling.live/) - Repeticiones de MMA, WWE.
+- [WatchWrestling](https://watchwrestling.in/) - Repeticiones de MMA, WWE.
+- [Bbellator](hhttp: //www.bellator.com/events) - Repeticiones de MMA, WWE.
+- [Highlightstore](https://www.highlightstore.me/) - Reproducciones para múltiples deportes.
 - [MMACore](https://www.mma-core.com/videos/home)
-- [GOMOSTREAM.com](https://gomostream.com/) - Free Live Local TV Channels Sky Sports 12345, Btsports 123 ESPN, Eurosports 12, Star Sports 123, ITV beIN, Fox, Ten, Digi, PTV Sports Online Streaming.
-- [Best Sport Streaming](https://www.bestsportstreaming.com/) - Site that rates sport streaming services.
-- [Cricfree](https://crickfree.org/) - Offers popular sports streams.
-- [VIPBox](https://www.vipbox.live/) - Many sport streams, TV, friendly UI.
-- [MamaHD](https://www.mamahd.org/) - 24/7 feeds, sports streams, clean UI.
-- [Send It](https://sendit.gg/) - Live stream listings for sports, news, gaming, and more.
-- [SportsHD](http://www.speedsports.me) - Variety of sports including college sports, clean design.
-- [720pStream](http://www.720pstream.me/) - Popular sports only, simple design.
-- [Your Sports](http://yoursports.stream/live?v=ufc) - UFC, Football & other streams.
-- [Crackstreams](http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more.
+- [GOMOSTREAM.com](https://gomostream.com/) - Canales de TV locales en vivo gratuitos Sky Sports 12345, Btsports 123 ESPN, Eurosports 12, Star Sports 123, ITV beIN, Fox, Ten, Digi, PTV Sports Transmisión en línea.
+- [Mejor transmisión de deportes](https://www.bestsportstreaming.com/) - Sitio que califica los servicios de transmisión de deportes.
+- [Cricfree](https://crickfree.org/) - Ofrece transmisiones de deportes populares.
+- [VIPBox](https://www.vipbox.live/) - Muchas transmisiones de deportes, TV, interfaz de usuario amigable.
+- [MamaHD](https://www.mamahd.org/) - Feeds 24/7, retransmisiones deportivas, interfaz de usuario limpia.
+- [Enviar](https://sendit.gg/) - Listas de transmisiones en vivo para deportes, noticias, juegos y más.
+- [SportsHD](http://www.speedsports.me) - Variedad de deportes, incluidos deportes universitarios, diseño limpio.
+- [720pStream](http://www.720pstream.me/) - Solo deportes populares, diseño simple.
+- [Tus deportes](http://yoursports.stream/live?v=ufc) - UFC, fútbol y otras transmisiones.
+- [Crackstreams](http://crackstreams.com/) - XFL, MMA, Boxeo, NBA y más.
