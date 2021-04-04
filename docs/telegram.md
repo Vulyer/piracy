@@ -3,386 +3,389 @@ title: Telegram
 sidebar_label: Telegram
 ---
 
-- [Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an unofficial telegram app with a focus on speed and security. adds some extra features to official Telegram app.
-- [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
-  - [Telegram web proxy ](https://web.telegram.ind.in/)
-  - [Telegram APIs proxy](core.telegram.ind.in)
-  - [Telegram news channel proxy](l.telegram.ind.in/Telegram)
+- [Nekogram](https://github.com/nekogram/nekogram) - Nekogram es una aplicación de telegram no oficial con un enfoque en la velocidad y la seguridad. Agrega algunas características adicionales a la aplicación oficial de telegram.
+- [Proxy de telegram](https://telegram.ind.in/) - Proxy para usar Telegram en países donde está bloqueado.
+  - [Proxy de telegram web](https://web.telegram.ind.in/)
+  - [Proxy API de telegram](Core.Telegram.ind.in)
+  - [Proxy del canal de noticias de telegram](l.Telegram.ind.in/telegram)
 
-## Tools & Scripts
+## Herramientas y scripts
 
-- [Be careful using bots on telegram](http://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
-- [Manybot](http://manybot.io/) - Create your own telegram bot without coding skills.
-- [Overview of Telegram Bots](http://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
-- [TelegramBotsList](http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
-- [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
-- [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
-- [chatter](https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
-- [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream movies from telegram to smart tv over http using upnp and dlna (and chromecast).
-- [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
-- [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
-- [ppmusicbot - Spotify playlist bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
-- [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
-- [Butter Bot](https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
-- [Rclone-Telegram-Bot](https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
+- [Ten cuidado con los bots en telegram](http://www.wired.com/stery/telegram-bots-tls-encryption/) - Artículo de Wired sobre los bots de telegram y el cifrado.
+- [Manybot](http://manybot.io/) - Crea tu propio bot de telegram sin habilidades de codificación.
+- [Descripción general de los bots de telegram](http://www.qwasap.com/en/bots.php) - Hay muchos bots de telegram, pero aquí solo están los mejores.
+- [TelegrambotsList](http://danyspin97.github.io/telegrambotslist/) - Una lista de los bots de telegram de código abierto en orden alfabético.
+- [Telegram XP BOT](https://github.com/erorie/xpbot-telegram) - Bloquear SPAM + XP Leaderboard para telegram.
+- [Telegram CrackWatch Tracker Bot](http://www.reddit.com/r/crackwatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Rastrea el sitio web de CrackWatch.
+- [Chatter](https://github.com/visualbasic6/chatter) - Monitoreo de Internet, OSINT Telegram Bot para Windows.
+- [Smart-TV-Telegram](https://github.com/andrew-ld/smart-tv-telegram) - Transmite películas de telegram a TV inteligente a través de HTTP utilizando UPNP y DLNA (y Chromecast).
+- [Aria-Telegram-Mirror-Bot](https://github.com/out386/aria-telegram-mirror-bot) - Un Bot de telegram para descargar archivos a través de http(s) / bittorrent y cargarlos a Google Drive.
+- [Python-aria-Mirror-Bot](https://github.com/lzzy12/python-aria-mirror-bot/) - Un bot de telegram para todas tus necesidades de espejo.
+- [PPMUSICBOT - Spotify Playlist Bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Agrega todos los enlaces de seguimiento vinculados a una lista de reproducción compartida.
+- [MUERDERGE](https://github.com/usergetaam/userge/) - Userge es un servidor de usuario de telegram complementario y potente escrito en Python utilizando Pyogram.
+- [BUTTY BOT](https://github.com/v1nc/butter_bot) - Butter Bot admite varias características únicas como protección de registro.
+- [RCLONE-TELEGRAM-BOT](https://github.com/shubham0rajput/rclone-telegram-bot) - Este es RCLONE BOT en telegram hecho para su facilidad.
 
-## Bridges
+## Puentes
 
-- [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
-- [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
-- [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
-- [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
-- [Telegram to Discord Bridge](https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
+- [Matterbridge](https://github.com/42wim/matterbridge) - Puente entre Matter, IRC, Gitter, XMPP, Slack, Discord, Telegram, Rocketchat, Steam, Twitch, SSH-Chat, Zulip, WhatsApp, KeyBase, Matrix, Equipos de Microsoft y más con rest API (¡no se requiere más!)
+- [Tedicross](https://github.com/tedicross/tedicross) - Bot que puentea los chats de telegram con canales de Discord.
+- [Teleirc](https://github.com/ritlug/teleirc) - Ir a la implementación de un telegram <=> Puente IRC para su uso con cualquier canal de IRC y grupo de telegram.
+- [TransferBot](https://github.com/corusm/transferbot) - Bot que transfiere los mensajes de Telegram a Discord y viceversa.
+- [telegram al puente de la discordia](https://github.com/tedicross/tedicross) - Bot auto-alojado para reenviar sus mensajes de telegram a Discord.
 
-## Discussion Channels
+## Canales de discusión
 
-- [Telegram Channels](https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
-- [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel to request warez information, lists, software & more.
-- [original313](https://t.me/original313) - Gaming and Software based accounts for sale.
-- [evileaks](https://t.me/evileaks) - Evilleaks.su official Telegram channel.
-- [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
-- [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
-- [FontesPremiumGwD](https://t.me/FontesPremiumGwD) - A channel to share premium fonts.
-- [iMediaShare channel](https://t.me/iMediaShare) - Movies, TV shows, apps, and more.
-- [Piracy Links Portal](https://t.me/PiracyLinks) - Official invite links portal for piracy groups & channels.
-- [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+- [Canales de telegram](https://telegramChannels.me/channels) - Un indexador de canales de telegram con más de 1500 canales.
+- [@piratebazaar](https://t.me/piratebazaar) - Canal de telegram para solicitar información, listas, software y más.
+- [Original313](https://t.me/original313) - Cuentas de juegos y software.
+- [Evilas](https://t.me/evileaks) - Evilleaks. Su Canal oficial de telegram.
+- [丂ㄥ 乃 ㄖㄒ 丂 ✪ 丂乇 乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/ibiib0yga4pkycou7lajyg) - Los fanáticos de seedbox tienen un hogar aquí.
+- [Slbotsbugs](https://t.me/slbotsbugs) - Teamdrive, lugar de discusión del Bot.
+- [fontespremiumgwd](https://t.me/fontespremiumgwd) - Un canal para compartir fuentes premium.
+- [Channel IMEDIASHARE](https://t.me/imediaShare) - Películas, programas de televisión, aplicaciones y más.
+- [PORTAL DE ENLACES PIRACY PORTAL](https://t.me/piracylinks) - Invitación oficial al portal para grupos y canales de piratería.
+- [CrackWatch Trackers](https://www.reddit.com/r/crackwatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Canales de telegram para CrachWatch.com Games & Griets by /U/Shadowslifer.
 
-### Accounts Channels
+### Canales de cuentas
 
-- [@piratechannel](https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
-- [esetkey_everyday](https://t.me/esetkey_everyday) - Get fresh Nod keys almost everyday.
-- [keysnod32](https://t.me/keysnod32) - Free Eset Nod32 keys daily.
-- [radwan1998](https://t.me/radwan1998) - VPN and login data.
-- [vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes other VPN services too.
+- [@PiratEchannel](https://t.me/pirateChannel) - Netflix, Spotify & Otras cuentas Premium. Windows y otras claves de licencia de software.
+- [Esetkey_Everyday](https://t.me/esetkey_everyday) - Obtén licencias de ESET frescas casi todos los días.
+- [keysnod32](https://t.me/keysnod32) - Llaves libres de ESET NOD32 diariamente.
+- [Radwan1998](https://t.me/radwan1998) - VPN y datos de inicio de sesión.
+- [VPNUSURNAME](https://t.me/vpnusername) - Logins gratuitos de cuenta Nordvpn Leech. A veces también otros servicios VPN.
 
-### courses ant tutorials Channels
+### Canales de cursos y tutoriales
 
-- [@udemyfree4u](https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
-- [Free Udemy Courses](https://t.me/Freecoursefinder) - We provide paid premium online courses for free!.
-- [@freexonlinexcourse](https://t.me/freexonlinexcourse) - Free udemy courses.
-- [Free Udemy Courses](https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
-- [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses.
-- [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
-- [udemydeals](https://t.me/udemydeals) - Free udemy courses!
+- [@ udemyfree4u](https://tttttt.me/udemyfree4u) - Este es el canal más grande número 1 en telegram, que proporciona cursos de uDemy pagados de forma gratuita, actualizado diariamente.
+- [Cursos de uDemy gratuitos](https://t.me/freecoursefinder) - ¡Ofrecemos cursos premium en línea gratis!
+- [@Freexonlinexcourse](https://t.me/freexonlinexcourse) - Cursos de uDemy gratuitos.
+- [Cursos de uDemy gratis](https://t.me/joinchat/aaaaaeAVYDKCYCTQPBVYG)
+- [OFERTAS DE UDEMY](https://telegram.me/udemydeals) - Cursos de uDemy gratuitos.
+- [Tech_you](https://t.me/udemydeals) - Tutoriales, Logins, Curso y otras cosas a través de Mega Links.
+- [udemydeals](https://t.me/udemydeals) - ¡Cursos gratuitos de uDemy!
 
-### APK Channels
+### Canales APK
 
-- [@ModdedCentral](https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
-- [APK4free](https://t.me/Apk4Free) - Cracked Android apps.
-- [APKs Apps](https://t.me/DroidApks) - Patched & modded android apps, updated daily.
-- [dastras](https://t.me/dastras) - (IR) - Modded Android apks.
-- [InstaMod](https://t.me/instagram_mod) - Regularly updated & feature rich modified Instagram app (Android only).
-- [Premium APKs Only](https://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
+- [@moddedcentral](https://t.me/moddedcentral) - Aplicaciones de Android parcheadas y moddeadas, actualizadas regularmente, 50+ compartidas diariamente. Grupo de solicitud actualmente cerrado.
+- [apk4free](https://t.me/apk4free) - Aplicaciones de Android crackeadas.
+- [Apks Apps](https://t.me/droidapkks) - Aplicaciones de Android parcheadas y moddeadas, actualizadas diariamente.
+- [Dastras](https://t.me/dastras) - (IR) - APKs moddeadas.
+- [instamod](https://t.me/instagram_mod) - Actualizado regularmente. Presenta una aplicación de Instagram modificada regularmente (solo Android).
+- [Premium apks solamente](https://t.me/apkpremiumonly) - Aplicaciones de Android parcheadas/moddeadas, actualizadas diariamente.
 
-### Music Channels
+### Canales de música
 
-- [@DeezerMusicBot](https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
-- [@flacaudio](https://t.me/flacaudio) - `AR` - Arabish flac music.
-- [@flacmu5ic](https://t.me/flacmu5ic) - This channel is maded 4 listening the best music from whole world.
-- [@flacmusicalbumfree](https://t.me/flacmusicalbumfree) - FLAC Music and Albums for Free.
-- [@flacmusics](https://t.me/flacmusics) - FLAC Music (Lossless) - (Hi-Res).
-- [@FLACSong](https://t.me/FLACSong) - Lossless music, various albums, songs and artists.
-- [@Flacssongss](https://t.me/flacsongss) - Other Than Indian Language Songs Will Be Posted here.
-- [@HDaudio](https://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
-- [@highreschannell](https://t.me/highreschannell) - High resolution music!.
-- [@indianflacsongs](https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
-- [@JioDLBot](https://t.me/JioDLBot) - Search and Download Music inside Telegram.
-- [@lastfmrobot](https://t.me/lastfmrobot) - Share lastFM scrobbles, artist collage and music compatibility scores.
-- [@losslessaudio](https://t.me/losslessaudio) - Lossless Audio (FLAC, ALAC, APE).
-- [@LosslessHive](https://t.me/LosslessHive) - Collection of various Hi-Res Audio Files in FLAC Format. Use the Search Feature to look up for your favorite songs. Also you will find multiple versions of a single song- that means download the largest file to get better Quality (Vinyls).
-- [@losslessmusicmenu](https://t.me/losslessmusicmenu) - `RU` - Russian music channel for quality music.
-- [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another large music downloader bot for Telegram.
-- [@musicshark](https://t.me/musicshark) - `RU` - Russian and other Flac Music.
-- [@SMLoadrCommunity](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
-- [@The_Trimmer_bot](https://t.me/The_Trimmer_bot) - Send th bot a streamable link or telegram video and he cuts it.
-- [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
-- [Full Music Albums](https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!.
-- [Melodic Musics](https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
-- [Music Archive](https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
+- [@flacaudio](https://t.me/flacaudio) - `Ar` - Música árabe en FLAC.
+- [@ flacmu5ic](https://t.me/flacmu5ic) - La mejor música de todo el mundo.
+- [@FLACMUSICALBUMFREE](https://t.me/flacmusicalbumfree) - Música y álbumes de forma gratuita en formato FLAC.
+- [@flacmusics](https://t.me/flacmusics) - FLAC Música (sin pérdida) - (HI-RES).
+- [@FLACSONG](https://t.me/flacsong) - Música sin pérdida, varios álbumes, canciones y artistas.
+- [@flacssongsss](https://t.me/flacsongsss) - Canciones en lengua india.
+- [@hdaudio](https://t.me/hdaudio) - Audio de alta definición, 24 bits 48 kHz y más.
+- [@HighReschannell](https://t.me/highreschannell) - Música de alta resolución.
+- [@indianflacsongs](https://t.me/indianflacsongs) - `Hola` - Canciones FLAC en Telugu, Malayalam, Hindi, Kannada y muchos otros idiomas.
+- [@LosslessAudio](https://t.me/losslessAudio) - Audio sin pérdida (FLAC, ALAC, APE).
+- [@losslesshive](https://t.me/losslesshive) - Recopilación de varios archivos de audio de alta resolución en formato FLAC. Utiliza la función de búsqueda para buscar tus canciones favoritas. También encontrarás varias versiones de una sola canción, descarga el archivo más grande para obtener una mejor calidad (vinilos).
+- [@losslessmusicmenu](https://t.me/losslessmusicmenu) - `RU` - Canal de música ruso para música de calidad.
+- [@musicshark](https://t.me/musicshark) - `ru` - Ruso. Música en flac.
+- [@smloadrcommunity](https://t.me/smloadrcommunity) - Comunidad de telegram para SMOADR.
+- [Álbumes de música completa](https://t.me/joinchat/aaaaafkg6jv0rnruy8ednw) - Una gran colección de álbumes de música, directamente descargable en telegram, actualizado todos los días.
+- [Música melódica](https://t.me/melodicmusicsics) - Una gran colección de música, descargable dentro de telegram.
+- [Archivo de música](https://t.me/marchive) - Una gran colección de música, descargable dentro de telegram.
 
-### Movies & TV shows Channels
+### Películas y canales de programas de TV
 
-- [@beyondHD](https://t.me/beyondHD) - HD movies shared from the community to the community.
-- [@iMediaShare](https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
-- [@intermedia](https://t.me/intermedia) - Channel for movies.
-- [@Moviezworldz](https://t.me/Moviezworldz) - Official Moviezworldz channel.
-- [netflixonline](https://t.me/netflixonline) - Daily new Netflix episodes.
-- [@offstream_media](https://t.me/offstream_media) - TV Shows, Movies and more!.
-- [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
-- [@RickyChristanto](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
-- [Antrips](https://t.me/antrips) - Anthrapper's Encoding Library.
-- [gdrivemovielink](https://t.me/gdrivemovielink) - Google drive movies linked into Telegram.
-- [hamil_movies](https://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
-- [TV Updates](https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!.
-- [Netflix_originals](https://t.me/Netflix_originals) - Daily new Netflix episodes.
-- [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading movies.
+- [@beyondHD](https://t.me/beyondHD) - Películas HD compartidas de comunidad a comunidad.
+- [@imediaShare](https://t.me/imediashare) - Proporciona enlaces a películas, programas de televisión, aplicaciones y más.
+- [@intermedia](https://t.me/intermedia) - Canal para películas.
+- [@Moviezworldz](https://t.me/moviezworldz) - Canal oficial de MovieZworldz.
+- [netflixonline](https://t.me/netflixonline) - Nuevos episodios de Netflix diarios.
+- [@Offstream_media](https://t.me/offfstream_media) - Programas de televisión, películas y más.
+- [@qualitymovies](https://t.me/qualitymovies) - Lotes de liberaciones de películas de Blu-ray 720p.
+- [@rickychristanto](https://t.me/rickychristanto) - El canal de lanzamientos de películas proporciona generalmente cosas de YTS.
+- [Antrips](https://t.me/antrips) - Biblioteca de codificación de Anthramper.
+- [GDRIVEMOVIELINK](https://t.me/gdrivemovielink) - Google Drive. Películas vinculadas a telegram.
+- [Hamil_Movies](https://t.me/hamil_movies) - CT Movies Family proporciona enlaces a películas directamente en telegram.
+- [Actualizaciones de TV](https://telegram.me/joinchat/aczuljvgfujzjf4ambpzta) - Una gran colección de programas de televisión, descargable en telegram, actualizado todos los días.
+- [netflix_originals](https://t.me/netflix_originals) - Nuevos episodios de Netflix diarios.
+- [@Movies_Inc](https://t.me/movies_inc) - Otro canal de telegram para descargar películas.
 
-### Software Channels
+### Canales de software
 
-- [Adobe CRack channel](https://t.me/adobecracks) - A channel for all Adobe cracks.
-- [AIOSetup](https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
-- [candroidsoftware](https://t.me/candroidsoftware) - Freee APK's and software.
-- [CGPersia Downloads](https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
-- [crackedpcsoftwares](https://t.me/crackedpcsoftwares) - PC, mobile and other applications sharing.
-- [Crackwatch tracker](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
-- [Keygen Fortress](https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
-- [Piracy Main](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
-- [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
-  - [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive.
-  - [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
-- [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
-- [@premiere_pro](https://telegram.me/premiere_pro)
-- [@Premiere](https://telegram.me/Premiere)
-- [Windows_Software](https://t.me/windows_softwares) - Windows software, cracked.
-- [computersoftwar](https://t.me/computersoftwar/3690) - Various software, mainly for Windows.
+- [Adobe Crack Channel](https://t.me/adobreCracks) - Un canal para todos los cracks de Adobe.
+- [AIOSETUP](https://t.me/aiosetup) - Amplia gama de software pre-crackeado, descargable en telegram.
+- [CandroidSoftware](https://t.me/candroidsoftware) - APK's y Software gratis.
+- [Descargas de CGPERSIA](https://t.me/cgpers) - Cursos gratuitos de Udemy, Skillshare y otros sitios web educativos.
+- [CrackedpcSoftwares](https://t.me/crackedpcsoftwares) - PC, móvil y otras aplicaciones compartidas.
+- [CrackWatch Tracker](https://www.reddit.com/r/crackwatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch Trackers de Telegram para CrachWatch.com Juegos & cracks proporcionados por /U/Shadowslifer.
+- [Fortaleza de Keygen](https://t.me/keygen_fortress) - Amplia gama de keygens para varias aplicaciones, descargables en telegram.
+- [PURRACY PRINCIPAL](https://t.me/joinchat/knhdrljyudhsjy5dneboag) - Destinado a ser el principal chat para toda la discusión de piratería, pero muy inactiva, use este grupo para eso.
+- [Grupo de piratería de Raymond](https://t.me/raymondfreesoftware) - Un grupo de 7000 PIRATAS.
+   - [Piratería • Discusión principal](https://t.me/joinchat/knhdrljyudhsjy5dneboag) - Destinado a ser el chat principal para toda la discusión sobre piratería en el grupo de piratería de Raymond, pero muy inactivo.
+   - [Piratería • Discusión de Topic](https://t.me/joinchat/djvt9bvvrrjq_d_6l9xzxq) - Off Topic Chat para el grupo de telegram de piratería de Raymond.
+- [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Software de Windows, crackeado.
+- [@Premiere_Pro](https://telegram.me/premiere_pro)
+- [@Premiere](https://telegram.me/premiere)
+- [Windows_Software](https://t.me/windows_softwares) - Software de Windows, crackeado.
+- [ComputerSoftwar](https://t.me/computsoftwar/3690) - Varios software, principalmente para Windows.
 
-### eBooks Channels
+### Canales de ebooks
 
-- [List of eBook websites, channels & bots](https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
+- [Lista de sitios web de libros electrónicos, canales y bots](https://t.me/raymondfreesoftware/166702) - Gran colección de sitios web, bots y canales con una amplia gama de libros electrónicos.
 - [@aadhyatmikbrahmand](https://t.me/aadhyatmikbrahmand)
 - [@alejandriak](https://t.me/alejandriak)
 - [@best_bookshelf](https://t.me/best_bookshelf)
-- [@BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
-- [@BookCafe](https://t.me/eBookCafe)
-- [@bookclub7](https://t.me/bookclub7)
-- [@Books N All](https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
-- [@BooksBag](https://t.me/BooksBag)
-- [@BooksFree4U](https://t.me/BooksFree4U)
-- [@BooksLog](https://t.me/BooksLog)
+- [@book_house_international](https://t.me/book_house_international)
+- [@bookcafe](https://t.me/eBookcafe)
+- [@ BookClub7](https://t.me/bookclub7)
+- [@books n all](https://t.me/joinchat/eg43xkphhfup2w7ktl44aa) - Solicita libros electrónicos y audiolibros, así como revisiones en este grupo con ~3.5k Miembros y generalmente un tiempo de respuesta rápido.
+- [@Booksbag](https://t.me/booksbag)
+- [@ booksfree4u](https://t.me/booksfree4u)
+- [@booksLog](https://t.me/bookslog)
 - [@booksmania](https://t.me/booksmania)
 - [@booksnow](https://t.me/booksnow)
-- [@BooksThief](https://t.me/BooksThief)
-- [@BookWizardTheNewest](https://t.me/BookWizardTheNewest)
-- [@bookz4u](https://t.me/bookz4u)
-- [@eBooksEnglish](https://t.me/EbooksEnglish)
-- [@Ebooks254](https://t.me/Ebooks254)
-- [@eBooksOnly](https://t.me/eBooksOnly)
-- [@Ebookz](https://t.me/Ebookz)
-- [@EbookzCollection](https://t.me/EbookzCollection)
-- [@EbookzGroup](https://t.me/EbookzGroup)
-- [@english_audio](https://t.me/english_audio)
-- [@EnochianMagick](https://t.me/EnochianMagick)
-- [@freebook9](https://t.me/freebook9)
-- [@GraphicAudio](https://t.me/GraphicAudio)
-- [@HerbologyY](https://t.me/HerbologyY)
+- [@booksthief](https://t.me/booksthief)
+- [@bookwizardthenewest](https://t.me/bookwizardthenewest)
+- [@ bookz4u](https://t.me/bookz4u)
+- [@ebooksenglish](https://t.me/eebooksenglish)
+- [@ ebooks254](https://t.me/ebooks254)
+- [@eboBooksonly](https://t.me/eebooksonly)
+- [@ebookz](https://t.me/eBookz)
+- [@ebokzcollection](https://t.me/eBookzcollection)
+- [@ebookzgroup](https://t.me/eBookzGroup)
+- [@English_Audio](https://t.me/english_audio)
+- [@enochianmagick](https://t.me/enochianmagick)
+- [@ FreeBook9](https://t.me/freeBook9)
+- [@Graphicaudio](https://t.me/graphicaudio)
+- [@herbologyy](https://t.me/herbologyy)
 - [@hindupdf](https://t.me/hindupdf)
-- [@HUBTree](https://t.me/HUBTree)
-- [@HypnosisChatBooks](https://t.me/HypnosisChatBooks)
+- [@hubtree](https://t.me/hubtree)
+- [@hypnosisChatbooks](https://t.me/hypnosisChatbooks)
 - [@Javabooks](https://t.me/javaebooks)
-- [@librariesoftelegram](https://t.me/librariesoftelegram)
-- [@libraryofdos](https://t.me/libraryofdos)
-- [@LibraryofMagic](https://t.me/LibraryofMagic)
+- [@librarjosoftelegram](https://t.me/librarjosoftelegram)
+- [@libraryOfdos](https://t.me/libraryOfdos)
+- [@libraryofmagic](https://t.me/libraryofmagic)
 - [@librosocultismo](https://t.me/librosocultismo)
 - [@magickaris](https://t.me/magickaris)
-- [@MagickEbookz](https://t.me/MagickEbookz)
+- [@magickeBookz](https://t.me/magickebookz)
 - [@magickmatters](https://t.me/magickmatters)
-- [@magZtore](https://t.me/magZtore)
+- [@magztore](https://t.me/magztore)
 - [@mfmixebooks](https://t.me/mfmixebooks)
-- [@MobiArchives](https://t.me/MobiArchives)
+- [@mobiarchives](https://t.me/mobiarchives)
 - [@novel_worlds](https://t.me/novel_worlds)
 - [@novelbuk](https://t.me/novelbuk)
-- [@OxfordBookworms](https://t.me/OxfordBookworms)
-- [@PDFArchives](https://t.me/PDFArchives)
-- [@PIT_PacktPubFreeLearning](https://t.me/PIT_PacktPubFreeLearning)
+- [@oxfordbookworms](https://t.me/oxfordbookworms)
+- [@pdfarchives](https://t.me/pdfarrives)
+- [@pit_packtpubfreeleingning](https://t.me/pit_packtpubfreelearning)
 - [@ramanamaharishi](https://t.me/ramanamaharishi)
-- [@s4n1t4t10n](https://t.me/s4n1t4t10n)
+- [@ s4n1t4t10n](https://t.me/s4n1t4t10n)
 - [@sanskritsahitya](https://t.me/sanskritsahitya)
-- [@sciencebooks1](https://t.me/sciencebooks1)
-- [@SciHub](https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+- [@ ScienceBooks1](https://t.me/ciencebooks1)
+- [@scihub](https://t.me/scihubot) - Similar al sitio web original de Sci-Hub
 - [@selfhelpbooklab](https://t.me/selfhelpbooklab)
-- [@SelfHelpBooks4U](https://t.me/SelfHelpBooks4U)
+- [@ autohelpbooks4u](https://t.me/selfhelpbooks4u)
 - [@spiritualbooks](https://t.me/spiritualbooks)
-- [@spiritualitybooks](https://t.me/spiritualitybooks)
-- [@The Hindu](https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
-- [@vaidiclibrary](https://t.me/vaidiclibrary)
+- [@spiritualityBooks](https://t.me/spiritualitybooks)
+- [@ El hindú](https://t.me/the_hindu1) - PDFs de cada periódico indio todos los días.
+- [@Vaidiclibrary](https://t.me/vaidiclibrary)
 - [@vegancookbooks](https://t.me/vegancookbooks)
 - [@vintageromance](https://t.me/vintageromance)
-- [@WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks)
+- [@wonderlandlibraryofmagiclabues](https://t.me/wonderlandlibraryofmagiclabions)
 - [@yourlibraries](https://t.me/yourlibraries)
-- [Blackhive](https://t.me/joinchat/AAAAAEV6rQontIWwNSDIbg)
-- [Books](https://t.me/joinchat/AAAAAFTI64cvf4wKc1kxZw)
-- [Deluxe Comics](https://t.me/joinchat/AAAAAEvekKwPN_OKq0RM_Q)
-- [jhusbooks](https://t.me/joinchat/AAAAAEGe-ebJ--qN4LI3ng)
-- [Libraries Arcana](https://t.me/joinchat/AAAAAE2_TmVfkdoTfP4TpA)
-- [Library of Magi](https://t.me/joinchat/AAAAAErJl2k6YNIR9UM2vg)
-- [Links](https://t.me/joinchat/AAAAAEaSHcI-kzAWWBZOJw)
-- [Meditation](https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
-- [Open Library](https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
-- [WiLd's Occult Ebook Dump](https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
-- [Copy Left](https://t.me/copy_left)
-- [@philosophybooks](https://t.me/philosophybooks)
+- [BlackHive](https://t.me/joinchat/aaaaaev6rqontiwwnsdibg)
+- [Libros](https://t.me/joinchat/aaaaafti64cvf4wkc1kxzw)
+- [Deluxe Comics](https://t.me/joinchat/aaaaaevekkwpn_okq0rm_q)
+- [jusbooks](https://t.me/joinchat/aaaaaege-ebj--qn4li3ng)
+- [Bibliotecas Arcana](https://t.me/joinchat/aaaaae2_tmvfkdotfp4TPA)
+- [Biblioteca de MAGI](https://t.me/joinchat/aaaaaerjl2k6ynir9um2vg)
+- [Enlaces](https://t.me/joinchat/aaaaaeashci-kzawwwbzojw)
+- [Meditación](https://t.me/joinchat/aaaaae9u9noq7odn2ds1rw)
+- [Biblioteca abierta](https://t.me/joinchat/aaaaeaeubzxqyckxhzbf-pa)
+- [Wild's Ocult Ebook Dump](https://t.me/joinchat/aaaaae07wyxznfu5tlrjva)
+- [Copiar a la izquierda](https://t.me/copy_left)
+- [@philosofybooks](https://t.me/philosofybooks)
 
-### Miscellaneous channels
+### Canales misceláneos
 
-- [AutoRcloneEng](https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
-- [rclone](https://t.me/rclone) - A rclone help discussion channel.
-- [Bhadoo Cloud](https://t.me/joinchat/Hp0WEVNQfcef7IkU-zecAQ)
-- [Private TD Mirror Group](https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)
-- [Transloader](https://t.me/transload) - Community to transload files and provide information which services to use.
-- [requestinggroup](https://t.me/requestinggroup)
-- [@HeadSpaceChannel](https://t.me/HeadSpaceChannel) - HeadSpace mp3 files download.
-- [@MeditationHeadspaceMp3](https://t.me/MeditationHeadspaceMp3) - HeadSpace mp3 files download.
+- [Autorcloneng](https://t.me/autorcloneeng) - El canal oficial de telegram RCLONE.
+- [RCLONE](https://t.me/rclone) - Un canal de discusión de Ayuda de RCLONE.
+- [Cloud Bhadoo](https://t.me/joinchat/hp0wevnqfcef7iku-zecaq)
+- [Grupo de espejo TD privado](https://t.me/joinchat/lt_wquwedqkoltflicyngg)
+- [Transloader](https://t.me/transload) - Comunidad para transcargar archivos y proporcionar información qué servicios usar.
+- [Solicitante de grupo](https://t.me/requestinggroup)
+- [@headspaceChannel](https://t.me/headspaceChannel) - Descarga de archivos MP3 de HeadSpace.
+- [@ MeditatyheadsPACEMP3](https://t.me/meditatyheadspacemp3) - Descarga de archivos MP3 de Cabeza.
 
 ## Bots
 
-- [Botlist](https://botlist.co/) - A botlist for various messenger (including Telegram).
-- [@BotListBot](https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
-- [telegram-list](https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
-- [@Proytdlbot](https://t.me/Proytdlbot) - Simple bot to download YouTube Videos. You can't invite the bot into groups.
-- [@ToEmailBot](https://t.me/ToEmailBot) - Redirect all pictures and files to email. Send me one and get it to inbox 💌.
-- [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android apps and games from apkdl.in.
-- [@filetobot](https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
-- [@LinkForFilebot](https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
-- [@multi_purposebot](https://t.me/multi_purposebot) - Rename, get media links, and upload files. The bot has lots of features.
-- [@sltzbot](https://t.me/sltzbot) - A bot to seed torrents.
-- [@sluploadbot](https://t.me/sluploadbot) - Upload Files To Telegram and generate Links To Telegram Files.
-- [@teletransferxbot](https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) - down/uploader and search bot.
-- [@TeleWarez_Bot](https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
-- [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
-- [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
-- [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
-- [@GooglePlayDownloader_bot](https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
-- [@PlinkBot](https://t.me/PlinkBot)
-- [@SearchBazarBot](https://t.me/SearchBazarBot) - Search Bazar and get information.
-- [@DBazarBot](https://t.me/DBazarBot) - Download the app from Market Cafe
-- [@MyTeleCloudBot](https://t.me/MyTeleCloudBot)
+- [BOTLIST](https://botlist.co/) - Una lista de bots para varios mensajeros (incluido telegram).
+- [@botlistbot](https://t.me/botlistbot) - El BOT oficial para BOTLIST.CO para listar los bots en telegram.
+- [LISTA DE TELEGRAMA](https://github.com/goq/telegram-list/) - `ru` - 'RU` - GitHub Resumen Lista de bots de telgram útiles.
+- [@Proytdlbot](https://t.me/proytdlbot) - Bot simple para descargar videos de YouTube. No puedes invitar al Bot a grupos.
+- [@ToEmailbot](https://t.me/toemailbot) - Redirige todas las imágenes y archivos a correo electrónico. Envíale uno y consíguelo en tu bandeja de entrada.
+- [@apkdl_bot](https://t.me/apkdl_bot) - Descarga la última versión de las aplicaciones y juegos gratuitos de Android desde Apkdl.in.
+- [@fileTobot](https://t.me/filetobot) - Almacena tus archivos privados y los organiza por categoría. Envía cualquier archivo al bot y se agregará inmediatamente.
+- [@linkforfilebot](https://t.me/linkforfilebot) - Vincula tus archivos de audio, video o medios a un canal o grupo específico.
+- [@multi_purpionerybot](https://t.me/multi_purposebot) - Cambia el nombre, obtén enlaces de medios y carga archivos. El bot tiene muchas características.
+- [@sltzbot](https://t.me/sltzbot) - Un bot para sembrar torrents.
+- [@sluploadbot](https://t.me/sluploadbot) - Carga archivos para telegram y genera enlaces a archivos de telegram.
+- [@TeleTrensferXBOT](https://t.me/teletransferxbot) - TeleTransferX (_Currentemente no funciona debido a la falta de soporte de la Comunidad_)
+- [@TeleWareZ_BOT](https://t.me/telewarez_bot) - Bot oficial de warez-ir.com para compartir y obtener archivos.
+- [@uploadbots](https://t.me/uploadbots) - Un bot que carga tu archivo de telegram a un ShareHOST.
+- [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Escanea archivos y comprueba contra Virustotal. No funciona con canales o grupos.
+- [@apkdl_bot](https://t.me/apkdl_bot) - Descarga la última versión de cualquier aplicación y juegos gratuitos de Android desde Apkdl.in.
+- [@GooglePlayDownloader_BOT](https://t.me/googleplaydownloader_bot) - Descarga la última versión de cualquier aplicación gratuita de Android directamente desde Google Play Store.
+- [@plinkbot](https://t.me/plinkbot)
+- [@searchbazarbot](https://t.me/searchbazarbot) -  Bazar de búsqueda e información.
+- [@dbazarbot](https://t.me/dbazarbot) - Descarga la aplicación desde Market Cafe
+- [@mytelecloudbot](https://t.me/mytelecloudbot)
 - [@thesafebot](https://t.me/thesafebot)
-- [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Upload, files, videos and audio to Yandex Cloud.
+- [@ya_disk_bot](https://t.me/ya_disk_bot) - Carga, archivos, videos y audio a Yandex Cloud.
 
-### eBook Bots
+### Bots de libros electrónicos
 
-- [@libgen_scihub_bot](https://t.me/libgen_scihub_bot) - Search and download books and scientific articles. It combines databases of Library Genesis and Sci-Hub with facilities of morphology search. Also, it allows searching by DOI and MD5.
-- [@BookDownloadBot](https://t.me/BookDownloadBot)
-- [@getmediabot](https://t.me/getmediabot)
+- [@libgen_scihub_bot](https://t.me/libgen_scihub_bot) - Buscar y descargar libros y artículos científicos. Combina bases de datos de la Biblioteca Génesis y Sci-Hub con instalaciones de búsqueda de morfología. Además, permite buscar por DOI y MD5.
+- [@bookdownloadbot](https://t.me/bookdownloadbot)
+- [@getmedabot](https://t.me/getmediabot)
 - [@libsan_bot](https://t.me/libsan_bot)
 - [@scihubot](https://t.me/scihubot)
 
-### Music Bots
+### Bots de música
 
-- [@music](https://t.me/music) - Music Search Bot.
-- [@spotdlrobot](https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
-- [@DeezloaderAn0n_bot](https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are not available in Deezer it downloads it from YouTube.
-- [@Soundclouddownloadbot](https://t.me/Soundclouddownloadbot) - Download SoundCloud files (music, no playlists) - from within Telegram. You can't invite the Bot into Groups.
-- [@MyMusicBot](https://t.me/MyMusicBot)
-- [@moozikestan_bot](https://t.me/moozikestan_bot)
+- [@spotify_down_bot](https://t.me/spotify_down_bot) - Bot de música que descarga pistas de Spotify.
+- [@deezermusicbot](https://t.me/deezermusicbot) - Bot de música que descarga pistas de Deezer.
+- [@music](https://t.me/music) - Búsqueda de música.
+- [@spotdlrobot](https://t.me/spotdlrobot) - Bot simple para descargar canciones de Spotify en alta calidad (_No FLAC! ​​_). No puedes invitar al Bot a grupos.
+- [@ deeezloaderanan0n_bot](https://github.com/an0nimia/deezloaderan0n_bot) - Descarga las canciones de Deezer y si no están disponibles en Deezer, la descarga de YouTube.
+- [@SoundCloudDownloadBot](https://t.me/soundclouddownloadbot) - Descarga los archivos de SoundCloud (música, sin listas de reproducción) - desde telegram. No puedes invitar al Bot a grupos.
+- [@mymusicbot](https://t.me/mymusicbot)
+- [@Moozikestan_bot](https://t.me/moozikestan_bot)
 - [@scloud_bot](https://t.me/scloud_bot)
-- [@id3bot](https://t.me/id3bot)
-- [@mp3toolsbot](https://t.me/mp3toolsbot)
-- [@iLyricsBot](https://t.me/iLyricsBot)
-- [@podcastly_bot](https://t.me/podcastly_bot) - Find and search podcasts.
-- [@FlacStoreBot](https://t.me/FlacStoreBot)
+- [@ id3bot](https://t.me/id3bot)
+- [@ mp3toolsbot](https://t.me/mp3toolsbot)
+- [@ilyricsbot](https://t.me/ilyricsbot)
+- [@podcastly_bot](https://t.me/podcastly_bot) - Buscar podcasts.
+- [@FlacStorebot](https://t.me/flacstorebot)
+- [@jiodlbot](https://t.me/jiodlbot) - Buscar y descargar música dentro de telegram.
+- [@lastfmrobot](https://t.me/lastfmrobot) - Compartir las puntuaciones de Scrobbles, Collage de artistas y compatibilidad de música.
+- [@musichuntersbot](https://t.me/musichuntersbot) - Otro gran Bot descargador de música para telegram.
+- [@the_trimmer_bot](https://t.me/the_trimmer_bot) - Envíale un enlace o un video de telegram y lo corta.
+- [@vkmusic_bot](https://t.me/vkmusic_bot) - Encuentra y descarga cualquier canción (utiliza el motor de búsqueda VKMUSIC).
 
-### Movies and TV Shows Bots
 
-- [@utubebot](https://t.me/utubebot) - Video Downloader with MP3 Conversion support.
-- [@imdb](https://t.me/scsht_bot) - This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat.
-- [@piracy_bot](https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
-- [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Monitor and get notified about upcoming movies and tv series.
-- [@MovieReleaseBot](https://t.me/MovieReleaseBot) - Announce and search new movie releases.
-- [movieS4Bot](https://t.me/movieS4Bot)
-- [@GO_Robot](https://t.me/@GO_Robot) - Announce and search new movie releases.
-- [@SubSceneDLBot](https://t.me/SubSceneDLBot)
+
+### Bots de películas y programas de televisión
+
+- [@utubebot](https://t.me/utubebot) - Descargador de video con soporte de conversión MP3.
+- [@imdb](https://t.me/scsht_bot) - Este bot funciona automáticamente en todos tus chats y grupos, sin necesidad de agregarlo en cualquier lugar. Simplemente escribe @imdb en cualquier chat.
+- [@piracy_bot](https://t.me/piracy_bot) - Un BOT simple que te dará subtítulos de varios sitios de transmisión. Por ejemplo, Zee5.com y jiocinema.com.
+- [@jaredmovierubot](https://t.me/jaredmovierubot) - Monitorea y recibe notificaciones sobre las próximas películas y series de televisión.
+- [@moviereleasebot](https://t.me/moviereleasebot) - Anuncia y busca nuevos lanzamientos de películas.
+- [Movies4Bot](https://t.me/movies4bot)
+- [@Go_Robot](https://t.me/@go_robot) - Anuncia y busca nuevos lanzamientos de películas.
+- [@subscenedlbot](https://t.me/subscedlbot)
 - [@subtitlebot](https://t.me/subtitlebot)
-- [@SubYabBot](https://t.me/SubYabBot)
-- [@SubHunterBot](https://t.me/SubHunterBot)
-- [@SubLandBot](https://t.me/SubLandBot) - You can download subtitle files in Persian and English Language directly from subscene.com.
-- [@evemovies_bot](https://t.me/evemovies_bot) - Telegram bot that will help you to track your favourite movies.
+- [@subyabbot](https://t.me/subyabbot)
+- [@subhunterbot](https://t.me/subhunterbot)
+- [@sublandbot](https://t.me/sublandbot) - Puede descargar archivos de subtítulos en el idioma persa e inglés directamente desde subscene.com.
+- [@EVEMOVIES_BOT](https://t.me/evemovies_bot) - Bot que te ayudará a rastrear tus películas favoritas.
 
-### Google Drive Bots
 
-- [@botxupdates](https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
-- [@gdriveupme_bot](https://github.com/aryanvikash/Google-Drive-Uploader)
-- [@GdriveXbot](https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
-- [@gduploadbot](https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
-- [@Gdriveit_bot](https://t.me/Gdriveit_bot) - The bot can upload files (Telegram files as well as URLs) to your Google Drive.
-- [@U2GD_Bot](https://t.me/U2GD_Bot) - Upload URLs to Google Drive.
+### Bots de Google Drive
 
-### Moderation Bots
+- [@botxupdates](https://t.me/botxupdates) - Sube archivos a su unidad de Google. Simplemente envíe un archivo o enlace de descarga directa.
+- [@gdriveupme_bot](https://github.com/aryanvikash/google-drive-uploader)
+- [@gdrivexbot](https://t.me/gdrivexbot) - Sube archivos a su unidad de Google. Simplemente envíe un archivo o enlace de descarga directa.
+- [@gduploadbot](https://t.me/gduploadbot) - Carga un enlace/archivo y lo copia a GDrive.
+- [@gdriveit_bot](https://t.me/gdriveit_bot) - El BOT puede cargar archivos (archivos de telegram, así como URL) a su unidad de Google.
+- [@ u2gd_bot](https://t.me/u2gd_bot) - Cargar URLs a Google Drive.
 
-- [@BotFather](https://t.me/BotFather) - Create and maintain your own bots.
-- [@Combot](https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
-- [@Controller](https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) - owners.
-- [@GroupHelpBot](https://t.me/GroupHelpBot) - This is the most complete Bot to help you manage your groups easily and safely!.
-- [@IFTTT](https://t.me/IFTTT) - Similar like webhooks your can create own script based snippets which you can use in your channel or group.
-- [@Miss Rose](https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
-- [@Protectron](https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
-- [@Shieldy](https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
-- [@vardast_bot](https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
-- [@assistChannel_bot](https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
-- [@AlbionRoBoT](https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
+### Bots de moderación
 
-### Youtube Bots
+- [@botfather](https://t.me/botfather) - Crea y mantiene tus propios bots.
+- [@Combot](https://combot.org/) - Moderación, Análisis, Anti-Spam, el mejor sistema de activación en telegram y más.
+- [@controller](https://t.me/controllerbot) - ControllerBot es un bot rico en características para canales de telegram (¡no grupos!) - Propietario.
+- [@grouphelpbot](https://t.me/grouphelpbot): ¡Este es el bot más completo para ayudar a administrar tus grupos de forma fácil y segura!
+- [@ifttt](https://t.me/ifttt) - Igual que los WebHOOKS, puede crear fragmentos de script propios que puedes usar en tu canal o grupo.
+- [@miss rose](https://missrose.org/gue/getting-started/adding-rose/) - Administra tu grupo fácilmente con el bot de Rose.
+- [@protectron](https://www.protectronbot.com/) - Anti-Spam y administración.
+- [@shieldy](https://t.me/shieldy_bot) - Un bot de telegram de configuración cero que combate el spam en chats.
+- [@vardast_bot](https://t.me/vardast_bot) - Un bot de telegram de configuración cero que combate el spam en chats.
+- [@assistchannel_bot](https://t.me/assistchannel_bot) - Un bot de telegram de configuración cero que combate el spam en chats.
+- [@albionrobot](https://t.me/albionrobot) - Albionrobot es similar como GroupHelp con algunos trucos adicionales más.
 
-- [@YtbDownBot](https://t.me/YtbDownBot) - Ultimate bot for downloading media from most web sites.
-- [@video_dl_bot](https://t.me/video_dl_bot) - Download videos from YouTube.
-- [@youtube](https://t.me/youtube) - Search Videos on YouTube.
-- [@utubebot](https://t.me/utubebot) - Search and DL Videos on YouTube.
-- [@SaveVideoBot](https://t.me/SaveVideoBot) - Search and DL Videos on YouTube.
-- [@YoutubeConvertBot](https://t.me/YoutubeConvertBot) - Search and DL Videos on YouTube.
+### Bots de YouTube
 
-### Social Media Bots
+- [@ytbdownbot](https://t.me/ytbdownbot) - Bot definitivo para descargar medios de la mayoría de los sitios web.
+- [@video_dl_bot](https://t.me/video_dl_bot) - Descarga videos de YouTube.
+- [@youtube](https://t.me/youtube) - Buscar videos en YouTube.
+- [@utubebot](https://t.me/utubebot) - Buscar y descargar en YouTube.
+- [@SaveVideobot](https://t.me/savevideobot) - Buscar y descargar en YouTube.
+- [@youtubeconverbot](https://t.me/youtubeconverbot) - Buscar y descargar en YouTube.
 
-- [@twittervid_bot](https://t.me/twittervid_bot) - Download Twitter videos.
-- [@FBvidzBot](https://t.me/youtube) - Download Video From Facebook.
-- [@Instasave_bot](https://t.me/Instasave_bot) - Save Instagram photos.
-- [@YtbDownBot](https://t.me/YtbDownBot) - Social media download bot
-- [@redditdownloader_bot](https://t.me/redditdownloader_bot) - Reddit media download bot
-- [@redditgrambot](https://t.me/redditgrambot) - Reddit image download bot
-- [@redditvidbot](https://t.me/redditvidbot) - Reddit video download bot
+### Bots de redes sociales
 
-### Temporary Email Bots
+- [@twittervid_bot](https://t.me/twittervid_bot) - Descarga los videos de Twitter.
+- [@fbvidzbot](https://t.me/youtube) - Descargar videos de Facebook.
+- [@instasve_bot](https://t.me/instasave_bot) - Guardar fotos de Instagram.
+- [@redditdownloader_bot](https://t.me/redditdownloader_bot) - Descargar de Reddit.
+- [@redditgrambot](https://t.me/redditgrambot) - Descargar imagenes de Reddit.
+- [@redditvidbot](https://t.me/redditvidbot) - Descargar videos de Reddit.
 
-- [@fakemailbot](https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
-- [@DropmailBot](https://t.me/DropmailBot) - Get fake emails.
-- [@etlgr_bot](https://t.me/etlgr_bot) - Get fake emails.
-- [@smtpbot](https://t.me/smtpbot) - Get fake emails.
-- [@temp_mail_bot](https://t.me/temp_mail_bot) - Get fake emails.
-- [@GmailBot](https://t.me/GmailBot) - GMail management Bot.
-- [@TrashMailClient_Bot](https://t.me/TrashMailClient_Bot) - It will generate a mail for you that will be valid for 15 minutes.
+### Bots de correo electrónico temporal
 
-### Torrent bots
+- [@fakemailbot](https://t.me/fakemailbot) - Obtener correos electrónicos falsos tan pronto como llegan.
+- [@DROPMAILBOT](https://t.me/dropmailbot) - Obtenga correos electrónicos falsos.
+- [@Etlgr_bot](https://t.me/etlgr_bot) - Obtenga correos electrónicos falsos.
+- [@smtpbot](https://t.me/smtpbot) - Obtenga correos electrónicos falsos.
+- [@temp_mail_bot](https://t.me/temp_mail_bot) - Obtenga correos electrónicos falsos.
+- [@gmailbot](https://t.me/gmailbot) - Administrar Gmail.
+- [@TrashmailClient_Bot](https://t.me/trashmailclient_bot) - Generará un correo para usted que será válido durante 15 minutos.
 
-- [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
-- [@torrentdrive_bot](https://t.me/torrentdrive_bot) - Gives you Google Drive link for the torrent files you send.
-- [@torrent_drive](https://t.me/torrent_drive) - Torrent to GDrive Bot.
+### Bots Torrent
+
+- [@itorrentsearchbot](https://t.me/itorrentsearchbot) - SearchBot, que encuentra enlaces de torrent y magnet en 1337x.to por búsqueda de palabras clave.
+- [@TorrentDRive_BOT](https://t.me/torrentdrive_bot) - Da un enlace de Google Drive para los archivos de Torrent que envía.
+- [@Torrent_DRIVE](https://t.me/torrent_drive) - Torrent a GDrive.
 - [@kltorrent](https://t.me/kltorrent)
-- [@XtremeCloud](https://t.me/XtremeCloud/10)
-- [@torrdriveheaven](https://t.me/torrdriveheaven)
-- [@torrentbcloud](https://t.me/torrentbcloud)
-- [@seedboxSL](https://t.me/seedboxSL)
-- [Torrent Leecher List](http://torrentleecherlist.xyz/) - A simple list for torrent leecher in telegram.
+- [@xtremecloud](https://t.me/xtremecloud/10)
+- [@TorrDriveHeaven](https://t.me/TorrdriveHeaven)
+- [@TorrentbCloud](https://t.me/torrentbcloud)
+- [@SEEDBOXSL](https://t.me/seedboxsl)
+- [Torrent Leechher LIST](http://torrentleecherlist.xyz/) - Una lista simple para Torrent Leecher en Telegram.
 
-### Miscellaneous bots
+### Bots miscelánea
 
-- [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
-- [@el_monitorro](https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
-- [@eventsaggregatorbot](https://t.me/eventsaggregatorbot) - Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in Telegram.
-- [@TheDigestBot](https://t.me/TheDigestBot) - The bot collects all news from your channel subscriptions and sends to you a Digest with all news once a day.
+- [@thefeedreaderbot](https://t.me/thefeedreaderbot)
+- [@EL_MONITORRO](https://t.me/el_monitorro_bot) - El_Monitorro es un lector de RSS, Atom y JSON escrito en Rust.
+- [@eventsaggregatorbot](https://t.me/eventsaggregatorbot) - Reenvíe su Twitter favorito, Instagram, RSS, REDDIT, YouTube, Twitch a cuentas en Telegram.
+- [@thedigestbot](https://t.me/thedigestbot) - El BOT recopila todas las noticias de tus suscripciones de canal y te envía un Digest con todas las noticias una vez al día.
 - [@markdownrobot](https://t.me/markdownrobot)
-- [@HideItBot](https://t.me/HideItBot) - Hide Text in Chat.
-- [@bing](https://t.me/bing) - Bing is search engine, this Bot let's you search for photos.
+- [@hideitbot](https://t.me/hideitbot) - Ocultar texto en el chat.
+- [@bing](https://t.me/bing) - Buscar en Bing.
 - [@pic](https://t.me/pic)
-- [@imagesearchbot](https://t.me/imagesearchbot)
-- [@imagebot](https://t.me/imagebot)
-- [@ya](https://t.me/ya) - Internet search Bot.
-- [@QRCodesBot](https://t.me/QRCodesBot)
-- [@ShortUrlBot](https://t.me/ShortUrlBot)
+- [@Imagesearchbot](https://t.me/imagesearchbot)
+- [@Imagebot](https://t.me/imagebot)
+- [@ya](https://t.me/ya)
+- [@qrcodesbot](https://t.me/qrcodesbot)
+- [@shorturlbot](https://t.me/shorturlbot)
 - [@shorturl_googl_bot](https://t.me/shorturl_googl_bot)
-- [@whooisbot](https://t.me/whooisbot) - Get WHOIS information.
-- [@ipaboutbot](https://t.me/ipaboutbot) - Get IP information.
-- [@userinfobot](https://t.me/userinfobot) - Get User Infos.
-- [@ChannelIdBot](https://t.me/ChannelIdBot) - Get Channel Infos.
-- [@vajehyabbot](https://t.me/vajehyabbotvajehyabbot) - Get Channel Infos.
-- [@ReadmeBot](https://t.me/ReadmeBot)
-- [@GmailBot](https://t.me/GmailBot) - GMail mangement Bot.
-- [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
+- [@whooisbot](https://t.me/whooisbot) - Obtenga información de WHOIS.
+- [@ipaboutbot](https://t.me/ipaboutbot) - Obtenga información de IP.
+- [@USERINFOBOT](https://t.me/userinfobot) - Obtenga información de usuarios.
+- [@channelidbot](https://t.me/channelidbot) - Obtenga información de canales.
+- [@vajehyabbot](https://t.me/vajehyabbotvotevajehyabbot) - Obtenga información de canales.
+- [@READMEBOT](https://t.me/READMEBOT)
+- [@gmailbot](https://t.me/gmailbot) - Gmail Mangement Bot.
+- [@calstars_bot](https://t.me/calstars_bot) - Un bot para dar premios.
 - [@lightzcloud](https://t.me/lightzcloud)
-- [@torrenttodrivezone](https://t.me/torrenttodrivezone)
+- [@TorrentTodriveZone](https://t.me/torrenttodrivezone)
 - [@publicdrive](https://t.me/publicdrive)
-- [@ViperCloudOpen](https://t.me/ViperCloudOpen)
+- [@vipercloudopen](https://t.me/vipercloudopen)
 - [@vipercloud](https://t.me/vipercloud)
-- [@MetaPublicLeech](https://t.me/MetaPublicLeech)
-- [@RahiCloud](https://t.me/RahiCloud)
-- [@APDSeedbox](https://t.me/APDSeedbox)
-- [@LinkToFilesBot](https://t.me/LinkToFilesBot) - Send any document to get a direct download link.
-- [udemy_link_bot](https://t.me/udemy_link_bot) - Send `/download <course_link>` to download.
+- [@metapublicleech](https://t.me/metapublicleech)
+- [@rahicloud](https://t.me/rahicloud)
+- [@apdseedbox](https://t.me/apdseedbox)
+- [@linktofilesbot](https://t.me/linktofilesbot) - Envía cualquier documento para obtener un enlace de descarga directa.
+- [udemy_link_bot](https://t.me/udemy_link_bot) - Enviar `/ Descargar <Course_Link> 'para descargar.
