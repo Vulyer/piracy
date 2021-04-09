@@ -1,6 +1,6 @@
 ---
-title: Libros Académicos
-sidebar_label: Libros Académicos
+title: Textos académicos
+sidebar_label: Textos académicos
 ---
 
 
