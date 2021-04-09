@@ -1,7 +1,7 @@
 ---
 id: home
-title: Home
-sidebar_label: Home
+title: Principal
+sidebar_label: Principal
 ---
 
 Este sitio web es una colección de los mejores recursos de piratería digital. Te ayudará a comenzar tu viaje pirata. 
