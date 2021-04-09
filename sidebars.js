@@ -1,7 +1,7 @@
 module.exports = {
   mainSidebar: {
     Info: ["home", "laws", "security"],
-    "Content Type": [
+    "Tipo de contenido": [
       "cartoons-and-anime",
       "comics-and-manga",
       "books-and-magazines",
@@ -16,7 +16,7 @@ module.exports = {
       "software",
       "creative-assets",
     ],
-    Sources: [
+    Fuentes: [
       "torrents",
       "usenet",
       "direct-downloads",
@@ -26,7 +26,7 @@ module.exports = {
       "dc-plus-plus",
       "iptv",
     ],
-    Miscellaneous: [
+    Miscelánea: [
       "browser-extensions",
       "userscripts",
       "paywalls",
