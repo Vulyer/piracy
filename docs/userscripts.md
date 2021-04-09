@@ -3,7 +3,7 @@ título: Usercripts
 sidebar_label: Usercripts
 ---
 
-- [icourse163 Downloader](https://greasyfork.org/en/scripts/372684-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6-mooc-%E4% B8% 8B% E8% BD% BD% E5% 8A% A9% E6% 89% 8B-% E9% 9C% 80% E9% 85% 8D% E5% 90% 88aria2% E4% BD% BF% E7% 94 % A8) - Agrega el botón de descarga en icourse163.org para descargar videos.
+- [icourse163 Downloader](https://greasyfork.org/en/scripts/372684-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6-mooc-%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E9%9C%80%E9%85%8D%E5%90%88aria2%E4%BD%BF%E7%94%A8) - Agrega el botón de descarga en icourse163.org para descargar videos.
 - [AdsBypasser](https://adsbypasser.github.io/) - Este script de usuario ayuda a omitir anuncios de cuenta regresiva o de continuar página y evitar ventanas emergentes de anuncios.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Elimina aceleradores de descarga forzada, administradores y adware en sitios web compatibles.
 - [Bloqueador de ventanas emergentes de AdGuard](https://github.com/AdguardTeam/PopupBlocker) - El bloqueador de ventanas emergentes de AdGuard es un script de usuario que bloquea todas las ventanas emergentes no deseadas en diferentes navegadores.
