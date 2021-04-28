@@ -4,6 +4,8 @@ sidebar_label: Juegos
 ---
 
 - [Steam Underground](https://cs.rin.ru/forum/index.php) - El foro más importante de piratería de juegos. En inglés.
+- [Fiesta VLAN](https://discord.gg/jVMu589JJr) - Comunidad hispanohablante para jugar en línea.
+- [LANeros](https://www.laneros.com/seccion/juegos.10/) - Foro histórico sobre tecnología, consolas y videojuegos, en español.
 - [Cómo romper el DRM de IGG-GAMES](https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - Una guía para evitar el DRM de IGG.
 - [Jugar a The Outer Worlds en Linux sin Epic Games Launcher](https://www.removeddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
 - [Cómo jugar a Resident Evil Outbreak Coop Multiplayer](https://www.removeddit.com/r/localmultiplayergames/comments/bhtfzl/how_to_play_resident_evil_outbreak_coop/)
@@ -21,7 +23,7 @@ sidebar_label: Juegos
 - [Crackwatch](https://crackwatch.com/) - Los nuevos lanzamientos de crack de videojuegos se publican aquí.
   - [r/CrackWatch](https://reddit.com/r/CrackWatch/) - Subreddit de CrackWatch.
   - [Guía para principiantes de Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) - Publicación en Reddit de/u/EssenseOfMagic.
-- [¿Está agrietado?](Https://iscracked.info/) - Similar a Crackwatch, proporciona información si el juego ya estaba roto o no, entre la información del juego y la fecha de lanzamiento.
+- [¿Está crackeado?](Https://iscracked.info/) - Similar a Crackwatch, proporciona información si el juego ya estaba roto o no, entre la información del juego y la fecha de lanzamiento.
 - [Scenegames](https://scenegames.to/) - Lanzamientos de escenas de GoD.
 - [GOD Games](https://god-games.com/) - DIOS está vivo.
 - [Proyecto GOD](http://god.freevar.com) - Un proyecto de trabajo en progreso que tiene como objetivo reiniciar el antiguo proyecto GOD.
@@ -56,7 +58,7 @@ sidebar_label: Juegos
 - [Warmane](https://www.warmane.com/) - Aloja servidores privados de WoW.
 - [Mabandonware](https://www.myabandonware.com/) - Videojuegos antiguos.
 - [Firestorm](https://firestorm-servers.com/) - Juegos y más.
-- [Juegos de GOG](http://gog-games.com) - Juegos de GoG
+- [Good Old Games](http://gog-games.com) - Juegos de GoG
 
 ### Steam
 
